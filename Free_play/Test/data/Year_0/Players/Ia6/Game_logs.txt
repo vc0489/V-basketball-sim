@@ -1,0 +1,8 @@
+Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
+   6   RS @HAR  W(101-95)  0  0  485   2   4   2   4   0   0   0   0   0   0   2   4   0   0  0  0  0   1  0  0   4   4   0  -3  17  20    6    2   0   0   0   0  A
+   8   RS vHAR  L(95-123)  0  0  427   1   2   1   2   0   0   0   0   0   0   1   1   0   1  1  0  1   0  0  0   2   2   0   1  25  24    3    1   0   0   0   0  A
+   9   RS vRAY  W(122-95)  0  0  275   0   0   0   0   0   0   2   2   0   0   0   0   0   0  1  0  1   0  0  1   2   2   0   6  10   4    1    0   0   0   1   0  A
+  12   RS vKEN   L(81-98)  0  0  152   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   8   8    1    1   0   0   0   0  A
+  19   RS @HAR   L(76-87)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
+  23   RS vHAR   W(92-82)  0  0   35   0   0   0   0   0   0   2   2   0   0   0   0   0   0  0  1  1   0  0  1   2   0   0   4   6   2    1    0   0   0   0   1  A
+  24   RS vHAR   L(94-95)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A

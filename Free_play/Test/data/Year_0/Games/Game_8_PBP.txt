@@ -1,0 +1,317 @@
+Year:0 Game:8 Type:RS HAR@LAT
+***Start of the match***
+***Start of the 1st Period***
+[0-0] (09:48) [LAT] Ii1 Inside Shot Missed
+[0-0] (09:48) [HAR] Ga2 Def Rebound (Off:0 Def:1)
+[0-0] (09:38) [LAT] Ia7 Shooting Foul: Inside (1 PF)
+[0-1] (09:38) [HAR] Ha5 FT 1 out of 2 (1 PTS)
+[0-1] (09:38) [HAR] Ha5 FT 2 out of 2 Missed
+[0-1] (09:38) [LAT] Eg3 Def Rebound (Off:0 Def:1)
+[0-1] (09:30) [LAT] Eg3 3Pt Shot Missed
+[0-1] (09:30) [HAR] Hg4 Def Rebound (Off:0 Def:1)
+[0-3] (09:07) [HAR] Ga2 Inside Shot Made (2 PTS) Assist: Fj4 (1 AST)
+[0-3] (08:57) [LAT] Eg3 3Pt Shot Missed
+[0-3] (08:57) [HAR] Ga2 Def Rebound (Off:0 Def:2)
+[0-3] (08:34) [LAT] Ii1 Shooting Foul: Inside (1 PF)
+[0-4] (08:34) [HAR] Ga2 FT 1 out of 2 (3 PTS)
+[0-5] (08:34) [HAR] Ga2 FT 2 out of 2 (4 PTS)
+[2-5] (08:18) [LAT] Eg3 Inside Shot Made (2 PTS)
+[2-5] (07:55) [LAT] Ii1 Shooting Foul: Inside (2 PF)
+[2-6] (07:55) [HAR] Ga2 FT 1 out of 2 (5 PTS)
+[2-7] (07:55) [HAR] Ga2 FT 2 out of 2 (6 PTS)
+[2-7] (07:55) [LAT] Sub(s) in: Ji1 | Sub(s) out: Ii1 
+[4-7] (07:47) [LAT] Eg3 Inside Shot Made (4 PTS) Assist: Ji1 (1 AST)
+[4-7] (07:37) [HAR] Ge8 3Pt Shot Missed
+[4-7] (07:37) [LAT] Ga4 Def Rebound (Off:0 Def:1)
+[4-7] (07:25) [LAT] Ee6 Jump Shot Missed
+[4-7] (07:25) [HAR] Ga2 Def Rebound (Off:0 Def:3)
+[4-9] (07:05) [HAR] Ha5 Inside Shot Made (3 PTS) Assist: Fj4 (2 AST)
+[4-9] (06:50) [LAT] Ia7 Inside Shot Missed
+[4-9] (06:50) [LAT] Ia7 Off Rebound (Off:1 Def:0)
+[4-9] (06:32) [LAT] Ga4 Inside Shot Missed
+[4-9] (06:32) [HAR] Ge8 Def Rebound (Off:0 Def:1)
+[4-9] (06:19) [LAT] Ga4 Shooting Foul: Inside (1 PF)
+[4-10] (06:19) [HAR] Ha5 FT 1 out of 2 (4 PTS)
+[4-10] (06:19) [HAR] Ha5 FT 2 out of 2 Missed
+[4-10] (06:19) [HAR] Ge8 Off Rebound (Off:1 Def:1)
+[4-10] (06:05) [LAT] Ji1 Shooting Foul: 2Pt (1 PF)
+[4-11] (06:05) [HAR] Fj4 FT 1 out of 2 (1 PTS)
+[4-11] (06:05) [HAR] Fj4 FT 2 out of 2 Missed
+[4-11] (06:05) [LAT] Eg3 Def Rebound (Off:0 Def:2)
+[6-11] (05:45) [LAT] Ee6 Jump Shot Made (2 PTS) Assist: Ji1 (2 AST)
+[6-14] (05:22) [HAR] Fj4 3Pt Shot Made (4 PTS)
+[9-14] (05:05) [LAT] Eg3 3Pt Shot Made (7 PTS)
+[9-16] (04:54) [HAR] Ga2 Inside Shot Made (8 PTS)
+[9-16] (04:36) [HAR] Ha5 Shooting Foul: Inside (1 PF)
+[10-16] (04:36) [LAT] Eg3 FT 1 out of 2 (8 PTS)
+[11-16] (04:36) [LAT] Eg3 FT 2 out of 2 (9 PTS)
+[11-19] (04:19) [HAR] Fj4 3Pt Shot Made (7 PTS)
+[11-19] (04:10) [LAT] Eg3 Jump Shot Missed
+[11-19] (04:10) [LAT] Ee6 Off Rebound (Off:1 Def:0)
+[13-19] (04:09) [LAT] Ee6 Put Back Shot Made (4 PTS)
+[13-21] (04:01) [HAR] Hg4 Jump Shot Made (2 PTS)
+[15-21] (03:49) [LAT] Ji1 Jump Shot Made (2 PTS)
+[15-21] (03:32) [HAR] Hg4 3Pt Shot Missed
+[15-21] (03:32) [HAR] Hg4 Off Rebound (Off:1 Def:1)
+[15-21] (03:09) [HAR] Ga2 Jump Shot Missed
+[15-21] (03:09) [LAT] Ga4 Def Rebound (Off:0 Def:2)
+[15-21] (02:47) [LAT] Eg3 Inside Shot Missed
+[15-21] (02:47) [LAT] Ga4 Off Rebound (Off:1 Def:2)
+[17-21] (02:33) [LAT] Ji1 Jump Shot Made (4 PTS)
+[17-21] (02:19) [HAR] Ha5 Jump Shot Missed
+[17-21] (02:19) [LAT] Ia7 Def Rebound (Off:1 Def:1)
+[17-21] (01:56) [LAT] Ji1 3Pt Shot Missed
+[17-21] (01:56) [HAR] Ha5 Def Rebound (Off:0 Def:1)
+[17-21] (01:34) [HAR] Hg4 3Pt Shot Missed
+[17-21] (01:34) [LAT] Eg3 Def Rebound (Off:0 Def:3)
+[19-21] (01:19) [LAT] Ga4 Inside Shot Made (2 PTS) Assist: Eg3 (1 AST)
+[19-23] (01:04) [HAR] Ha5 Inside Shot Made (6 PTS) Assist: Fj4 (3 AST)
+[19-23] (00:48) [HAR] Ha5 Shooting Foul: Inside (2 PF)
+[20-23] (00:48) [LAT] Ee6 FT 1 out of 2 (5 PTS)
+[21-23] (00:48) [LAT] Ee6 FT 2 out of 2 (6 PTS)
+[21-23] (00:48) [HAR] Sub(s) in: Gc3 | Sub(s) out: Ha5 
+[21-25] (00:26) [HAR] Hg4 Jump Shot Made (4 PTS) Assist: Fj4 (4 AST)
+[21-25] (00:05) [LAT] Eg3 Inside Shot Missed
+[21-25] (00:05) [LAT] Ga4 Off Rebound (Off:2 Def:2)
+[23-25] (00:00) [LAT] Ia7 Inside Shot Made (2 PTS)
+***End of the 1st Period***
+***Start of the 2nd Period***
+[23-28] (09:45) [HAR] Ge8 3Pt Shot Made (3 PTS) Assist: Hg4 (1 AST)
+[23-28] (09:32) [LAT] Eg3 Jump Shot Missed
+[23-28] (09:32) [HAR] Hg4 Def Rebound (Off:1 Def:2)
+[23-28] (09:17) [HAR] Gc3 Inside Shot Missed
+[23-28] (09:17) [HAR] Gc3 Off Rebound (Off:1 Def:0)
+[23-28] (08:59) [HAR] Ge8 Jump Shot Missed
+[23-28] (08:59) [LAT] Ia7 Def Rebound (Off:1 Def:2)
+[23-28] (08:42) [HAR] Fj4 Shooting Foul: Inside (1 PF)
+[24-28] (08:42) [LAT] Eg3 FT 1 out of 2 (10 PTS)
+[25-28] (08:42) [LAT] Eg3 FT 2 out of 2 (11 PTS)
+[25-30] (08:26) [HAR] Gc3 Inside Shot Made (2 PTS)
+[25-30] (08:03) [LAT] Ji1 Jump Shot Missed
+[25-30] (08:03) [HAR] Ga2 Def Rebound (Off:0 Def:4)
+[25-32] (07:44) [HAR] Fj4 Jump Shot Made (9 PTS) Assist: Hg4 (2 AST)
+[25-32] (07:31) [LAT] Eg3 3Pt Shot Missed
+[25-32] (07:31) [HAR] Ga2 Def Rebound (Off:0 Def:5)
+[25-35] (07:23) [HAR] Ge8 3Pt Shot Made (6 PTS) Assist: Hg4 (3 AST)
+[25-35] (07:06) [LAT] Ga4 Jump Shot Missed
+[25-35] (07:06) [HAR] Gc3 Def Rebound (Off:1 Def:1)
+[25-37] (06:52) [HAR] Gc3 Inside Shot Made (4 PTS)
+[25-37] (06:31) [HAR] Hg4 Shooting Foul: Inside (1 PF)
+[26-37] (06:31) [LAT] Ga4 FT 1 out of 2 (3 PTS)
+[27-37] (06:31) [LAT] Ga4 FT 2 out of 2 (4 PTS)
+[27-37] (06:11) [HAR] Gc3 Jump Shot Missed
+[27-37] (06:11) [HAR] Gc3 Off Rebound (Off:2 Def:1)
+[27-37] (06:10) [HAR] Gc3 Put Back Shot Missed
+[27-37] (06:10) [LAT] Ee6 Def Rebound (Off:1 Def:1)
+[29-37] (06:00) [LAT] Ee6 Jump Shot Made (8 PTS) Assist: Ji1 (3 AST)
+[29-39] (05:51) [HAR] Ga2 Inside Shot Made (10 PTS) Assist: Hg4 (4 AST)
+[31-39] (05:43) [LAT] Eg3 Jump Shot Made (13 PTS) Assist: Ee6 (1 AST)
+[31-39] (05:36) [HAR] Hg4 Inside Shot Missed
+[31-39] (05:36) [LAT] Ji1 Def Rebound (Off:0 Def:1)
+[33-39] (05:30) [LAT] Ia7 Inside Shot Made (4 PTS) Assist: Eg3 (2 AST)
+[33-41] (05:22) [HAR] Hg4 Jump Shot Made (6 PTS) Assist: Fj4 (5 AST)
+[35-41] (05:09) [LAT] Ga4 Jump Shot Made (6 PTS)
+[35-41] (04:48) [HAR] Hg4 3Pt Shot Missed
+[35-41] (04:48) [HAR] Ga2 Off Rebound (Off:1 Def:5)
+[35-41] (04:37) [LAT] Ia7 Shooting Foul: Inside (2 PF)
+[35-42] (04:37) [HAR] Ge8 FT 1 out of 2 (7 PTS)
+[35-42] (04:37) [HAR] Ge8 FT 2 out of 2 Missed
+[35-42] (04:37) [LAT] Ga4 Def Rebound (Off:2 Def:3)
+[35-42] (04:37) [LAT] Sub(s) in: Ja1 | Sub(s) out: Ia7 
+[35-42] (04:24) [LAT] Ji1 Jump Shot Missed
+[35-42] (04:24) [HAR] Ge8 Def Rebound (Off:1 Def:2)
+[35-44] (04:03) [HAR] Fj4 Jump Shot Made (11 PTS)
+[35-44] (03:42) [LAT] Ji1 3Pt Shot Missed
+[35-44] (03:42) [HAR] Hg4 Def Rebound (Off:1 Def:3)
+[35-46] (03:34) [HAR] Ge8 Jump Shot Made (9 PTS) Assist: Hg4 (5 AST)
+[35-46] (03:20) [LAT] Ji1 3Pt Shot Missed
+[35-46] (03:20) [HAR] Ge8 Def Rebound (Off:1 Def:3)
+[35-46] (03:13) [HAR] Fj4 3Pt Shot Missed
+[35-46] (03:13) [HAR] Ga2 Off Rebound (Off:2 Def:5)
+[35-49] (03:07) [HAR] Ge8 3Pt Shot Made (12 PTS) Assist: Fj4 (6 AST)
+[35-49] (03:07) [LAT] Sub(s) in: Df2 | Sub(s) out: Ee6 
+[38-49] (02:49) [LAT] Df2 3Pt Shot Made (3 PTS) Assist: Ji1 (4 AST)
+[38-49] (02:36) [HAR] Fj4 Jump Shot Missed
+[38-49] (02:36) [LAT] Eg3 Def Rebound (Off:0 Def:4)
+[40-49] (02:22) [LAT] Eg3 Jump Shot Made (15 PTS) Assist: Ga4 (1 AST)
+[40-49] (02:11) [HAR] Hg4 Jump Shot Missed
+[40-49] (02:11) [LAT] Ga4 Def Rebound (Off:2 Def:4)
+[42-49] (01:49) [LAT] Ga4 Inside Shot Made (8 PTS)
+[42-51] (01:32) [HAR] Gc3 Inside Shot Made (6 PTS)
+[44-51] (01:14) [LAT] Eg3 Inside Shot Made (17 PTS)
+[44-51] (00:53) [HAR] Ge8 3Pt Shot Missed
+[44-51] (00:53) [LAT] Df2 Def Rebound (Off:0 Def:1)
+[46-51] (00:41) [LAT] Ja1 Inside Shot Made (2 PTS) Assist: Ji1 (5 AST)
+[46-53] (00:29) [HAR] Gc3 Inside Shot Made (8 PTS)
+[46-53] (00:09) [LAT] Ja1 Inside Shot Missed
+[46-53] (00:09) [HAR] Ge8 Def Rebound (Off:1 Def:4)
+[46-55] (00:00) [HAR] Gc3 Inside Shot Made (10 PTS)
+***End of the 2nd Period***
+[LAT] Sub(s) in: Ii1 Ia7 | Sub(s) out: Ji1 Ja1 
+***Start of the 3rd Period***
+[46-55] (09:40) [HAR] Gc3 Inside Shot Missed
+[46-55] (09:40) [LAT] Eg3 Def Rebound (Off:0 Def:5)
+[46-55] (09:17) [LAT] Ii1 Inside Shot Missed
+[46-55] (09:17) [HAR] Ga2 Def Rebound (Off:2 Def:6)
+[46-55] (09:04) [HAR] Ge8 Inside Shot Missed
+[46-55] (09:04) [LAT] Df2 Def Rebound (Off:0 Def:2)
+[46-55] (08:47) [LAT] Eg3 Jump Shot Missed
+[46-55] (08:47) [HAR] Ga2 Def Rebound (Off:2 Def:7)
+[46-55] (08:31) [HAR] Ge8 Inside Shot Missed
+[46-55] (08:31) [LAT] Eg3 Def Rebound (Off:0 Def:6)
+[48-55] (08:23) [LAT] Df2 Inside Shot Made (5 PTS) Assist: Ii1 (1 AST)
+[48-57] (08:12) [HAR] Ga2 Inside Shot Made (12 PTS) Assist: Hg4 (6 AST)
+[48-57] (08:00) [LAT] Ia7 3Pt Shot Missed
+[48-57] (08:00) [HAR] Fj4 Def Rebound (Off:0 Def:1)
+[48-57] (07:53) [LAT] Ii1 Shooting Foul: 3Pt (3 PF)
+[48-58] (07:53) [HAR] Fj4 FT 1 out of 3 (12 PTS)
+[48-59] (07:53) [HAR] Fj4 FT 2 out of 3 (13 PTS)
+[48-60] (07:53) [HAR] Fj4 FT 3 out of 3 (14 PTS)
+[48-60] (07:53) [LAT] Sub(s) in: Ji1 | Sub(s) out: Ii1 
+[48-60] (07:36) [HAR] Ge8 Shooting Foul: Inside (1 PF)
+[49-60] (07:36) [LAT] Ga4 FT 1 out of 2 (9 PTS)
+[50-60] (07:36) [LAT] Ga4 FT 2 out of 2 (10 PTS)
+[50-60] (07:22) [LAT] Ia7 Shooting Foul: Inside (3 PF)
+[50-61] (07:22) [HAR] Ga2 FT 1 out of 2 (13 PTS)
+[50-62] (07:22) [HAR] Ga2 FT 2 out of 2 (14 PTS)
+[50-62] (07:22) [LAT] Sub(s) in: Ja1 | Sub(s) out: Ia7 
+[50-62] (07:04) [LAT] Ga4 3Pt Shot Missed
+[50-62] (07:04) [HAR] Ge8 Def Rebound (Off:1 Def:5)
+[50-62] (06:55) [HAR] Ge8 Inside Shot Missed
+[50-62] (06:55) [HAR] Ge8 Off Rebound (Off:2 Def:5)
+[50-64] (06:53) [HAR] Ge8 Put Back Shot Made (14 PTS)
+[50-64] (06:43) [LAT] Eg3 Inside Shot Missed
+[50-64] (06:43) [HAR] Ga2 Def Rebound (Off:2 Def:8)
+[50-66] (06:25) [HAR] Fj4 Jump Shot Made (16 PTS)
+[50-66] (06:03) [LAT] Ja1 Jump Shot Missed
+[50-66] (06:03) [HAR] Ga2 Def Rebound (Off:2 Def:9)
+[50-68] (05:42) [HAR] Gc3 Inside Shot Made (12 PTS)
+[52-68] (05:20) [LAT] Ga4 Inside Shot Made (12 PTS) Assist: Ja1 (1 AST)
+[52-68] (05:08) [HAR] Hg4 Inside Shot Missed
+[52-68] (05:08) [LAT] Eg3 Def Rebound (Off:0 Def:7)
+[54-68] (04:52) [LAT] Ga4 Inside Shot Made (14 PTS)
+[54-68] (04:30) [LAT] Df2 Shooting Foul: Inside (1 PF)
+[54-69] (04:30) [HAR] Gc3 FT 1 out of 2 (13 PTS)
+[54-70] (04:30) [HAR] Gc3 FT 2 out of 2 (14 PTS)
+[57-70] (04:21) [LAT] Df2 3Pt Shot Made (8 PTS) Assist: Eg3 (3 AST)
+[57-70] (04:05) [HAR] Gc3 Inside Shot Missed
+[57-70] (04:05) [HAR] Gc3 Off Rebound (Off:3 Def:1)
+[57-72] (03:58) [HAR] Ge8 Jump Shot Made (16 PTS) Assist: Hg4 (7 AST)
+[57-72] (03:35) [LAT] Ji1 3Pt Shot Missed
+[57-72] (03:35) [LAT] Ja1 Off Rebound (Off:1 Def:0)
+[57-72] (03:28) [LAT] Ja1 Inside Shot Missed
+[57-72] (03:28) [HAR] Hg4 Def Rebound (Off:1 Def:4)
+[57-74] (03:10) [HAR] Ga2 Inside Shot Made (16 PTS) Assist: Fj4 (7 AST)
+[57-74] (02:52) [LAT] Ji1 3Pt Shot Missed
+[57-74] (02:52) [HAR] Ge8 Def Rebound (Off:2 Def:6)
+[57-74] (02:46) [HAR] Hg4 Inside Shot Missed
+[57-74] (02:46) [LAT] Ji1 Def Rebound (Off:0 Def:2)
+[57-74] (02:25) [LAT] Ga4 Inside Shot Missed
+[57-74] (02:25) [HAR] Gc3 Def Rebound (Off:3 Def:2)
+[57-77] (02:18) [HAR] Ge8 3Pt Shot Made (19 PTS) Assist: Hg4 (8 AST)
+[57-77] (02:18) [LAT] Sub(s) in: Db1 Gi6 | Sub(s) out: Eg3 Ja1 
+[59-77] (01:59) [LAT] Ga4 Inside Shot Made (16 PTS) Assist: Ji1 (6 AST)
+[59-77] (01:42) [LAT] Ji1 Shooting Foul: 2Pt (2 PF)
+[59-78] (01:42) [HAR] Fj4 FT 1 out of 2 (17 PTS)
+[59-79] (01:42) [HAR] Fj4 FT 2 out of 2 (18 PTS)
+[59-79] (01:36) [LAT] Df2 Inside Shot Missed
+[59-79] (01:36) [HAR] Ga2 Def Rebound (Off:2 Def:10)
+[59-81] (01:29) [HAR] Gc3 Inside Shot Made (16 PTS) Assist: Ge8 (1 AST)
+[61-81] (01:14) [LAT] Ji1 Jump Shot Made (6 PTS)
+[61-84] (01:02) [HAR] Fj4 3Pt Shot Made (21 PTS) Assist: Hg4 (9 AST)
+[63-84] (00:50) [LAT] Ga4 Inside Shot Made (18 PTS) Assist: Ji1 (7 AST)
+[63-84] (00:40) [HAR] Fj4 Jump Shot Missed
+[63-84] (00:40) [HAR] Gc3 Off Rebound (Off:4 Def:2)
+[63-84] (00:38) [LAT] Db1 Shooting Foul: Inside (1 PF)
+[63-85] (00:38) [HAR] Gc3 FT 1 out of 2 (17 PTS)
+[63-86] (00:38) [HAR] Gc3 FT 2 out of 2 (18 PTS)
+[66-86] (00:24) [LAT] Db1 3Pt Shot Made (3 PTS)
+[66-88] (00:14) [HAR] Ga2 Inside Shot Made (18 PTS) Assist: Fj4 (8 AST)
+[66-88] (00:00) [HAR] Ga2 Shooting Foul: Inside (1 PF)
+[67-88] (00:00) [LAT] Db1 FT 1 out of 2 (4 PTS)
+[67-88] (00:00) [LAT] Db1 FT 2 out of 2 Missed
+[67-88] (00:00) [HAR] Gc3 Def Rebound (Off:4 Def:3)
+***End of the 3rd Period***
+[HAR] Sub(s) in: Ee1 Hi5 | Sub(s) out: Ge8 Fj4 
+***Start of the 4th Period***
+[67-88] (09:53) [LAT] Ji1 Jump Shot Missed
+[67-88] (09:53) [HAR] Ga2 Def Rebound (Off:2 Def:11)
+[67-90] (09:47) [HAR] Ee1 Inside Shot Made (2 PTS) Assist: Hi5 (1 AST)
+[67-90] (09:41) [LAT] Db1 3Pt Shot Missed
+[67-90] (09:41) [HAR] Ga2 Def Rebound (Off:2 Def:12)
+[67-90] (09:24) [LAT] Db1 Shooting Foul: 3Pt (2 PF)
+[67-90] (09:24) [HAR] Hg4 FT 1 out of 3 Missed
+[67-91] (09:24) [HAR] Hg4 FT 2 out of 3 (7 PTS)
+[67-92] (09:24) [HAR] Hg4 FT 3 out of 3 (8 PTS)
+[67-92] (09:10) [HAR] Hg4 Shooting Foul: Inside (2 PF)
+[68-92] (09:10) [LAT] Ga4 FT 1 out of 2 (19 PTS)
+[68-92] (09:10) [LAT] Ga4 FT 2 out of 2 Missed
+[68-92] (09:10) [LAT] Ga4 Off Rebound (Off:3 Def:4)
+[68-92] (08:54) [LAT] Gi6 Inside Shot Missed
+[68-92] (08:54) [HAR] Hi5 Def Rebound (Off:0 Def:1)
+[68-94] (08:45) [HAR] Gc3 Inside Shot Made (20 PTS) Assist: Hg4 (10 AST)
+[68-94] (08:24) [LAT] Ji1 Jump Shot Missed
+[68-94] (08:24) [HAR] Ga2 Def Rebound (Off:2 Def:13)
+[68-94] (08:08) [LAT] Ji1 Shooting Foul: 3Pt (3 PF)
+[68-95] (08:08) [HAR] Ee1 FT 1 out of 3 (3 PTS)
+[68-96] (08:08) [HAR] Ee1 FT 2 out of 3 (4 PTS)
+[68-97] (08:08) [HAR] Ee1 FT 3 out of 3 (5 PTS)
+[68-97] (08:08) [LAT] Sub(s) in: Ce2 | Sub(s) out: Ji1 
+[68-97] (07:46) [LAT] Ga4 Jump Shot Missed
+[68-97] (07:46) [HAR] Ga2 Def Rebound (Off:2 Def:14)
+[68-97] (07:46) [HAR] Sub(s) in: Jg3 Ja2 | Sub(s) out: Ga2 Hg4 
+[68-99] (07:31) [HAR] Gc3 Inside Shot Made (22 PTS) Assist: Hi5 (2 AST)
+[70-99] (07:13) [LAT] Ga4 Inside Shot Made (21 PTS)
+[70-99] (07:07) [HAR] Gc3 Jump Shot Missed
+[70-99] (07:07) [LAT] Ce2 Def Rebound (Off:0 Def:1)
+[70-99] (07:07) [LAT] Sub(s) in: Ia6 | Sub(s) out: Ga4 
+[70-99] (06:58) [LAT] Db1 3Pt Shot Missed
+[70-99] (06:58) [LAT] Ce2 Off Rebound (Off:1 Def:1)
+[70-99] (06:55) [HAR] Ja2 Shooting Foul: Inside (1 PF)
+[71-99] (06:55) [LAT] Ce2 FT 1 out of 2 (1 PTS)
+[72-99] (06:55) [LAT] Ce2 FT 2 out of 2 (2 PTS)
+[72-101] (06:49) [HAR] Jg3 Jump Shot Made (2 PTS)
+[72-101] (06:33) [LAT] Ce2 Jump Shot Missed
+[72-101] (06:33) [HAR] Ja2 Def Rebound (Off:0 Def:1)
+[72-103] (06:15) [HAR] Hi5 Jump Shot Made (2 PTS)
+[72-103] (06:09) [LAT] Df2 3Pt Shot Missed
+[72-103] (06:09) [HAR] Ja2 Def Rebound (Off:0 Def:2)
+[72-103] (06:02) [HAR] Ja2 Inside Shot Missed
+[72-103] (06:02) [LAT] Df2 Def Rebound (Off:0 Def:3)
+[72-103] (05:43) [LAT] Gi6 Inside Shot Missed
+[72-103] (05:43) [HAR] Ja2 Def Rebound (Off:0 Def:3)
+[72-106] (05:32) [HAR] Ee1 3Pt Shot Made (8 PTS)
+[74-106] (05:09) [LAT] Ce2 Inside Shot Made (4 PTS)
+[74-106] (04:54) [HAR] Gc3 Inside Shot Missed
+[74-106] (04:54) [LAT] Db1 Def Rebound (Off:0 Def:1)
+[76-106] (04:37) [LAT] Df2 Inside Shot Made (10 PTS) Assist: Ce2 (1 AST)
+[76-108] (04:18) [HAR] Ee1 Inside Shot Made (10 PTS) Assist: Hi5 (3 AST)
+[79-108] (04:06) [LAT] Df2 3Pt Shot Made (13 PTS) Assist: Gi6 (1 AST)
+[79-111] (03:43) [HAR] Ee1 3Pt Shot Made (13 PTS) Assist: Hi5 (4 AST)
+[82-111] (03:30) [LAT] Db1 3Pt Shot Made (7 PTS)
+[82-113] (03:18) [HAR] Ja2 Inside Shot Made (2 PTS) Assist: Gc3 (1 AST)
+[82-113] (03:04) [LAT] Db1 3Pt Shot Missed
+[82-113] (03:04) [LAT] Db1 Off Rebound (Off:1 Def:1)
+[84-113] (02:52) [LAT] Ce2 Inside Shot Made (6 PTS)
+[84-113] (02:40) [HAR] Gc3 Inside Shot Missed
+[84-113] (02:40) [LAT] Ce2 Def Rebound (Off:1 Def:2)
+[84-113] (02:29) [LAT] Gi6 Jump Shot Missed
+[84-113] (02:29) [LAT] Gi6 Off Rebound (Off:1 Def:0)
+[84-113] (02:17) [LAT] Db1 3Pt Shot Missed
+[84-113] (02:17) [LAT] Ia6 Off Rebound (Off:1 Def:0)
+[84-113] (01:54) [HAR] Ee1 Shooting Foul: Inside (1 PF)
+[85-113] (01:54) [LAT] Ce2 FT 1 out of 2 (7 PTS)
+[86-113] (01:54) [LAT] Ce2 FT 2 out of 2 (8 PTS)
+[86-116] (01:37) [HAR] Ee1 3Pt Shot Made (16 PTS)
+[88-116] (01:22) [LAT] Ia6 Inside Shot Made (2 PTS) Assist: Db1 (1 AST)
+[88-116] (01:02) [HAR] Ee1 Inside Shot Missed
+[88-116] (01:02) [LAT] Gi6 Def Rebound (Off:1 Def:1)
+[90-116] (00:51) [LAT] Gi6 Inside Shot Made (2 PTS)
+[90-118] (00:43) [HAR] Jg3 Inside Shot Made (4 PTS)
+[93-118] (00:37) [LAT] Db1 3Pt Shot Made (10 PTS) Assist: Df2 (1 AST)
+[93-121] (00:26) [HAR] Ee1 3Pt Shot Made (19 PTS) Assist: Hi5 (5 AST)
+[93-121] (00:03) [LAT] Ia6 Jump Shot Missed
+[93-121] (00:03) [LAT] Db1 Off Rebound (Off:2 Def:1)
+[95-121] (00:02) [LAT] Db1 Put Back Shot Made (12 PTS)
+[95-123] (00:00) [HAR] Ja2 Inside Shot Made (4 PTS) Assist: Hi5 (6 AST)
+***End of the match***

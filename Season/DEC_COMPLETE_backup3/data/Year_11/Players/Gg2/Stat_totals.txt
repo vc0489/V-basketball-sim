@@ -1,0 +1,41 @@
+Inside FGA|53
+Passes|18
+Touches|147
+Put Backs M|5
+Court Time|11157
+Inside FGM|25
+Put Backs A|6
+Inside Fouls Drawn|8
+Fouls Drawn|14
+Inside Pts|62
+Team Points Against|408
+Off Reb|16
+Def Reb|30
+Games Played|8
+2nd Chance Pts|13
+Team Games|8
+FGM|46
+Assists|5
+3PFGA|45
+Tot Reb|46
+3PFGM|13
+Per Fouls Drawn|6
+FGA|115
+2PFGA|70
+2PJFGA|17
+Fouls|8
+Team Points For|419
+2PJFGM|8
+Team Court Time|19500
+FTA|30
+Points|130
+Perimeter Pts|68
+FTM|25
+Per Fouls|3
+Games Started|5
++/-|11
+Inside Fouls|5
+All Team Points F|742
+All Team Points A|730
+2PFGM|33
+Possessions|129

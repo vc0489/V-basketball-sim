@@ -1,0 +1,8 @@
+Draft Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff OReb DReb BDom PassR PassE InDef PerDef InFR PerFR FTEff GSus GInj Updated
+  7.1  24    4  RAY    34    31    35    97    96    97   29   75    2    25    49    69     84   54    27    87    0    6   Y0-G3
+  7.1  24    4  RAY    34    31    35    97    96    97   29   75    2    25    49    69     84   54    27    87    0    5   Y0-G7
+  7.1  24    4  RAY    34    31    35    97    96    97   29   75    2    25    49    69     84   54    27    87    0    4   Y0-G9
+  7.1  24    4  RAY    34    31    35    97    96    97   29   75    2    25    49    69     84   54    27    87    0    3  Y0-G10
+  7.1  24    4  RAY    34    31    35    97    96    97   29   75    2    25    49    69     84   54    27    87    0    2  Y0-G14
+  7.1  24    4  RAY    34    31    35    97    96    97   29   75    2    25    49    69     84   54    27    87    0    1  Y0-G20
+  7.1  24    4  RAY    34    31    35    97    96    97   29   75    2    25    49    69     84   54    27    87    0    0  Y0-G21

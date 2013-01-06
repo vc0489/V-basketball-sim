@@ -1,0 +1,7 @@
+Game Type Conf-Type Opp. Res.   Score OTs         Record     Opp.Record     All-TimeRecord Conf-TypeRecord      SeasonH2H        All-TimeH2H  SeasonL10 Streak     H2HL10 A-TStreak H2HStreak 
+   3   RS     Intra vBRE    W   93-74   0     1-0(H:1-0)     0-2(A:0-2)         1-0(H:1-0)      1-0(H:1-0)     1-0(H:1-0)         1-0(H:1-0)          W     W1          W        W1        W1 
+  11   RS     Intra vCRO    W  110-95   0     2-0(H:2-0)     2-2(A:0-2)         2-0(H:2-0)      2-0(H:2-0)     1-0(H:1-0)         1-0(H:1-0)         WW     W2          W        W2        W1 
+  13   RS     Intra @BRE    L  99-111   0     2-1(A:0-1)     2-3(H:2-0)         2-1(A:0-1)      2-1(A:0-1)     1-1(A:0-1)         1-1(A:0-1)        WWL     L1         WL        L1        L1 
+  15   RS     Intra @QUE    W  101-89   0     3-1(A:1-1)     1-2(H:1-1)         3-1(A:1-1)      3-1(A:1-1)     1-0(A:1-0)         1-0(A:1-0)       WWLW     W1          W        W1        W1 
+  19   RS     Intra vBRE    L 107-108   0     3-2(H:2-1)     4-3(A:2-3)         3-2(H:2-1)      3-2(H:2-1)     1-2(H:1-1)         1-2(H:1-1)      WWLWL     L1        WLL        L1        L2 
+  27   RS     Inter vKEN    W  113-79   0     4-2(H:3-1)     2-3(A:0-2)         4-2(H:3-1)      1-0(H:1-0)     1-0(H:1-0)         1-0(H:1-0)     WWLWLW     W1          W        W1        W1 

@@ -1,0 +1,5 @@
+Draft Pos Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff  OReb  DReb  BDom PassR PassE InDef PerDef  InFR PerFR FTEff GInj Updated
+ 11.U PG2  18    0  DRA  27.2  27.9  44.9  55.3  94.0  84.0   7.5  20.0  85.4  81.1  84.0  14.4   60.6  17.4  32.4  79.0    0 Y11-D1-Draft
+ 11.5 PG2  18    0  BRE  27.2  27.9  44.9  55.3  94.0  84.0   7.5  20.0  87.1  81.1  84.0  14.4   60.6  17.4  35.0  78.0    0 Y11-D18-RSG1
+ 11.5 PG2  18    0  BRE  27.2  27.9  44.9  55.3  96.5  84.0   7.5  20.0  87.1  81.1  84.0  14.4   60.6  15.5  35.0  78.0    0 Y11-D20-RSG3
+ 11.5 PG2  18    0  BRE  27.2  27.9  44.9  55.3  96.5  84.0   6.1  20.0  87.1  81.1  84.0  14.4   61.6  15.5  35.0  75.2    0 Y11-D22-RSG5

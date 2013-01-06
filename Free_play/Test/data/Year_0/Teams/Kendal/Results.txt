@@ -1,0 +1,9 @@
+Game Type Opp. Result   Score OTs         Record     Opp.Record     All-TimeRecord      SeasonH2H        All-TimeH2H  SeasonL10 Streak     H2HL10 A-TStreak H2HStreak
+   3   RS vRAY      W  115-91   0     1-0(H:1-0)     0-1(A:0-1)         1-0(H:1-0)     1-0(H:1-0)         1-0(H:1-0)          W     W1          W        W1        W1
+   7   RS vRAY      W 114-100   0     2-0(H:2-0)     0-2(A:0-2)         2-0(H:2-0)     2-0(H:2-0)         2-0(H:2-0)         WW     W2         WW        W2        W2
+  10   RS vRAY      L   89-91   0     2-1(H:2-1)     1-3(A:1-3)         2-1(H:2-1)     2-1(H:2-1)         2-1(H:2-1)        LWW     L1        LWW        L1        L1
+  11   RS @BRE      W  103-86   0     3-1(A:1-0)     0-2(H:0-2)         3-1(A:1-0)     1-0(A:1-0)         1-0(A:1-0)       WLWW     W1          W        W1        W1
+  12   RS @LAT      W   98-81   0     4-1(A:2-0)     2-2(H:1-2)         4-1(A:2-0)     1-0(A:1-0)         1-0(A:1-0)      WWLWW     W2          W        W2        W1
+  15   RS vQUE      W  101-94   0     5-1(H:3-1)     4-1(A:2-1)         5-1(H:2-1)     1-0(H:1-0)         1-0(H:1-0)     WWWLWW     W3          W        W3        W1
+  21   RS vCRO      W   97-71   0     6-1(H:4-1)     0-2(A:0-2)         6-1(H:3-1)     1-0(H:1-0)         1-0(H:1-0)    WWWWLWW     W4          W        W4        W1
+  22   RS vBRE      W 109-101   0     7-1(H:5-1)     1-4(A:0-2)         7-1(H:4-1)     2-0(H:1-0)         2-0(H:1-1)   WWWWWLWW     W5         WW        W5        W2

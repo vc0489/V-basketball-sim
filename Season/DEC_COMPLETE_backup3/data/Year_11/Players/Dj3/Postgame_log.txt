@@ -1,0 +1,10 @@
+DReb regressed by -2.7 @Y11-D19-RSG2
+PassE regressed by -1 @Y11-D28-RSG11
+InEff regressed by -1.0 @Y11-D29-RSG12
+PassR changed by -0.2 @Y11-D29-RSG12
+PerDef regressed by -2.4 @Y11-D29-RSG12
+DReb improved by 1 @Y11-D29-RSG12
+InEff improved by 1 @Y11-D31-RSG14
+2JPro changed by -1.5 @Y11-D34-RSG17
+PerDef improved by 1 @Y11-D37-RSG20
+BDom changed by -1.2 @Y11-D37-RSG20

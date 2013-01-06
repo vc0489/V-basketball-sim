@@ -1,0 +1,4 @@
+FTEff improved by 1 @Y11-D19-RSG2
+2JPro changed by -2.2 @Y11-D24-RSG7
+DReb regressed by -3.8 @Y11-D27-RSG10
+InEff improved by 1.9 @Y11-D28-RSG11

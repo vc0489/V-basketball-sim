@@ -1,0 +1,3 @@
+Game Opp. Result   Score OTs         Record     Opp.Record     All-TimeRecord      SeasonH2H        All-TimeH2H  SeasonL10 Streak     H2HL10 A-TStreak H2HStreak
+   0 vBRE      W 109-100   0     1-0(H:1-0)     1-2(A:0-2)         1-0(H:1-0)     1-0(H:1-0)         1-0(H:1-0)          W     W1          W        W1        W1
+   0 @RAY      L 106-114   0     1-1(A:0-1)     1-0(H:1-0)         1-1(A:0-1)     0-1(A:0-1)         0-1(A:0-1)         LW     L1          L        L1        L1

@@ -1,0 +1,2 @@
+Draft Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff OReb DReb BDom PassR PassE InDef PerDef InFR PerFR FTEff GSus GInj 
+ 10.4  21    1  HAR    36    39    25    87    77    96   17   55   28    45    91    23     86   48    32    79    0    0 

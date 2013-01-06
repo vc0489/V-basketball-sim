@@ -1,0 +1,14 @@
+Hi5's 2JPro changed by 2.3 @Y11-D18-RSG1
+Kf10's InEff regressed by -1 @Y11-D18-RSG1
+Kf10's PerDef improved by 1.4 @Y11-D19-RSG2
+Gg2's 2JPro changed by -0.8 @Y11-D20-RSG3
+Ge8's 2JEff improved by 1.4 @Y11-D20-RSG3
+Ga2's 3PPro changed by 0.2 @Y11-D20-RSG3
+Hg4's 3PEff improved by 1 @Y11-D21-RSG4
+Ga2's DReb regressed by -1.2 @Y11-D21-RSG4
+Ka1's PerFR improved by 1 @Y11-D21-RSG4
+Ha5's 3PPro changed by 0.1 @Y11-D21-RSG4
+Ge8's PerFR regressed by -1 @Y11-D22-RSG5
+Kf10's BDom changed by -1.1 @Y11-D22-RSG5
+Ka1's InDef improved by 3.4 @Y11-D22-RSG5
+Jg3's DReb regressed by -1.1 @Y11-D22-RSG5

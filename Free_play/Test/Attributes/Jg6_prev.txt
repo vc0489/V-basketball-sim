@@ -1,0 +1,5 @@
+Draft Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff OReb DReb BDom PassR PassE InDef PerDef InFR PerFR FTEff GSus GInj Updated
+ 10.2  21    1  WIL    42    45    13    91    94    75   14   57   35    54    53    37     70   32    37    74    0    0   Y0-G1
+ 10.2  21    1  WIL    42    45    13    91    94    75   14   57   35    54    53    37     70   32    37    74    0    0   Y0-G2
+ 10.2  21    1  WIL    42    45    13    91    94    75   14   57   35    54    53    37     70   32    37    74    0    0  Y0-G17
+ 10.2  21    1  WIL    42    45    13    91    94    75   14   57   35    54    53    37     70   32    37    74    0    0  Y0-G18

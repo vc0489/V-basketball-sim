@@ -1,0 +1,6 @@
+Draft Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff OReb DReb BDom PassR PassE InDef PerDef InFR PerFR FTEff GSus GInj Updated
+  2.1  29    9  BRE    11    37    52    88    84    97   18   56    9    55    50    30     38   36    21    54    0    0   Y0-G5
+  2.1  29    9  BRE    11    37    52    88    84    97   18   56    9    55    50    30     38   36    21    54    0    0  Y0-G11
+  2.1  29    9  BRE    11    37    52    88    84    97   18   56    9    55    50    30     38   36    21    54    0    0  Y0-G16
+  2.1  29    9  BRE    11    37    52    88    84    97   18   56    9    55    50    30     38   36    21    54    0    0  Y0-G17
+  2.1  29    9  BRE    11    37    52    88    84    97   18   56    9    55    50    30     38   36    21    54    0    0  Y0-G22

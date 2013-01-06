@@ -1,0 +1,17 @@
+Pick Team Player
+1    CRO  Kc11
+2    LAT  Ka2
+3    WIL  Kh2
+4    RAY  Ka7
+5    BRE  Kj6
+6    HAR  Kf10
+7    QUE  Kj10
+8    KEN  Kg9
+9    CRO  Kf2
+10   LAT  Ki2
+11   WIL  Ka4
+12   RAY  Ki12
+13   BRE  Kg3
+14   HAR  Ka1
+15   QUE  Kc3
+16   KEN  Ka8

@@ -1,0 +1,180 @@
+All|Streak|3
+All|H L10|0,1,1,0,1,1
+All|H Wins|4
+All|H Streak|2
+All|Wins|5
+All|A Losses|3
+All|Losses|5
+All|L10|0,1,0,1,0,0,0,1,1,1
+All|H Losses|2
+All|A L10|0,0,0,1
+All|A Wins|1
+All|Pts A|969
+All|Pts F|952
+All|A Streak|1
+All|A Pts A|384
+All|H Pts A|585
+All|H Pts F|595
+All|A Pts F|357
+Conf|Streak|3
+Conf|H L10|0,1,1,1
+Conf|H Wins|3
+Conf|H Streak|3
+Conf|Wins|4
+Conf|A Losses|1
+Conf|Losses|2
+Conf|L10|0,1,0,1,1,1
+Conf|H Losses|1
+Conf|A L10|0,1
+Conf|A Wins|1
+Conf|Pts A|567
+Conf|Pts F|602
+Conf|A Streak|1
+Conf|A Pts A|174
+Conf|H Pts A|393
+Conf|H Pts F|412
+Conf|A Pts F|190
+Inter-Conf|Streak|1
+Inter-Conf|H L10|0,1
+Inter-Conf|H Wins|1
+Inter-Conf|H Streak|1
+Inter-Conf|Wins|1
+Inter-Conf|A Losses|2
+Inter-Conf|Losses|3
+Inter-Conf|L10|0,0,0,1
+Inter-Conf|H Losses|1
+Inter-Conf|A L10|0,0
+Inter-Conf|A Wins|0
+Inter-Conf|Pts A|402
+Inter-Conf|Pts F|350
+Inter-Conf|A Streak|-2
+Inter-Conf|A Pts A|210
+Inter-Conf|H Pts A|192
+Inter-Conf|H Pts F|183
+Inter-Conf|A Pts F|167
+H2H|WIL|Streak|-2
+H2H|WIL|H L10|0
+H2H|WIL|H Wins|0
+H2H|WIL|H Streak|-1
+H2H|WIL|Wins|0
+H2H|WIL|A Losses|1
+H2H|WIL|Losses|2
+H2H|WIL|L10|0,0
+H2H|WIL|H Losses|1
+H2H|WIL|A L10|0
+H2H|WIL|A Wins|0
+H2H|WIL|Pts A|221
+H2H|WIL|Pts F|170
+H2H|WIL|A Streak|-1
+H2H|WIL|A Pts A|113
+H2H|WIL|H Pts A|108
+H2H|WIL|H Pts F|91
+H2H|WIL|A Pts F|79
+H2H|CRO|Streak|0
+H2H|CRO|H L10|
+H2H|CRO|H Wins|0
+H2H|CRO|H Streak|0
+H2H|CRO|Wins|0
+H2H|CRO|A Losses|0
+H2H|CRO|Losses|0
+H2H|CRO|L10|
+H2H|CRO|H Losses|0
+H2H|CRO|A L10|
+H2H|CRO|A Wins|0
+H2H|CRO|Pts A|0
+H2H|CRO|Pts F|0
+H2H|CRO|A Streak|0
+H2H|CRO|A Pts A|0
+H2H|CRO|H Pts A|0
+H2H|CRO|H Pts F|0
+H2H|CRO|A Pts F|0
+H2H|QUE|Streak|-1
+H2H|QUE|H L10|
+H2H|QUE|H Wins|0
+H2H|QUE|H Streak|0
+H2H|QUE|Wins|0
+H2H|QUE|A Losses|1
+H2H|QUE|Losses|1
+H2H|QUE|L10|0
+H2H|QUE|H Losses|0
+H2H|QUE|A L10|0
+H2H|QUE|A Wins|0
+H2H|QUE|Pts A|97
+H2H|QUE|Pts F|88
+H2H|QUE|A Streak|-1
+H2H|QUE|A Pts A|97
+H2H|QUE|H Pts A|0
+H2H|QUE|H Pts F|0
+H2H|QUE|A Pts F|88
+H2H|LAT|Streak|1
+H2H|LAT|H L10|
+H2H|LAT|H Wins|0
+H2H|LAT|H Streak|0
+H2H|LAT|Wins|1
+H2H|LAT|A Losses|0
+H2H|LAT|Losses|0
+H2H|LAT|L10|1
+H2H|LAT|H Losses|0
+H2H|LAT|A L10|1
+H2H|LAT|A Wins|1
+H2H|LAT|Pts A|75
+H2H|LAT|Pts F|98
+H2H|LAT|A Streak|1
+H2H|LAT|A Pts A|75
+H2H|LAT|H Pts A|0
+H2H|LAT|H Pts F|0
+H2H|LAT|A Pts F|98
+H2H|BRE|Streak|1
+H2H|BRE|H L10|1
+H2H|BRE|H Wins|1
+H2H|BRE|H Streak|1
+H2H|BRE|Wins|1
+H2H|BRE|A Losses|0
+H2H|BRE|Losses|0
+H2H|BRE|L10|1
+H2H|BRE|H Losses|0
+H2H|BRE|A L10|
+H2H|BRE|A Wins|0
+H2H|BRE|Pts A|84
+H2H|BRE|Pts F|92
+H2H|BRE|A Streak|0
+H2H|BRE|A Pts A|0
+H2H|BRE|H Pts A|84
+H2H|BRE|H Pts F|92
+H2H|BRE|A Pts F|0
+H2H|HAR|Streak|1
+H2H|HAR|H L10|1,1
+H2H|HAR|H Wins|2
+H2H|HAR|H Streak|2
+H2H|HAR|Wins|2
+H2H|HAR|A Losses|1
+H2H|HAR|Losses|1
+H2H|HAR|L10|1,0,1
+H2H|HAR|H Losses|0
+H2H|HAR|A L10|0
+H2H|HAR|A Wins|0
+H2H|HAR|Pts A|279
+H2H|HAR|Pts F|307
+H2H|HAR|A Streak|-1
+H2H|HAR|A Pts A|99
+H2H|HAR|H Pts A|180
+H2H|HAR|H Pts F|215
+H2H|HAR|A Pts F|92
+H2H|RAY|Streak|1
+H2H|RAY|H L10|0,1
+H2H|RAY|H Wins|1
+H2H|RAY|H Streak|1
+H2H|RAY|Wins|1
+H2H|RAY|A Losses|0
+H2H|RAY|Losses|1
+H2H|RAY|L10|0,1
+H2H|RAY|H Losses|1
+H2H|RAY|A L10|
+H2H|RAY|A Wins|0
+H2H|RAY|Pts A|213
+H2H|RAY|Pts F|197
+H2H|RAY|A Streak|0
+H2H|RAY|A Pts A|0
+H2H|RAY|H Pts A|213
+H2H|RAY|H Pts F|197
+H2H|RAY|A Pts F|0

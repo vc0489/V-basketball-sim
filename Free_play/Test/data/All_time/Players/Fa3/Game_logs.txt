@@ -1,0 +1,8 @@
+Year Team Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
+   0  RAY    3   RS @KEN  L(91-115)  0  1 1800   5  13   5  13   0   0   0   0   0   1   5  10   0   3  5  7 12   0  2  0  10  10   6 -13  69  82   13    0   2   0   0   0  A
+   0  RAY    7   RS @KEN L(100-114)  0  1 1975   4  11   4  10   0   1   0   0   0   0   4   5   0   5  2  7  9   0  1  0   8   8   0 -20  78  98   11    0   1   0   0   0  A
+   0  RAY    9   RS @LAT  L(95-122)  0  1  881   3   8   3   7   0   1   0   0   0   0   1   5   2   2  0  1  1   0  0  0   6   2   0 -18  36  54    8    0   0   0   0   0  A
+   0  RAY   10   RS @KEN   W(91-89)  0  1 1536   3   9   3   8   0   1   0   0   1   2   3   8   0   0  4  6 10   1  1  0   6   6   2   9  56  47   10    1   1   0   0   0  A
+   0  RAY   14   RS vQUE L(105-110)  0  1 2027   3   5   3   5   0   0   0   0   0   0   1   2   2   3  2  6  8   0  3  0   6   2   2  12  98  86    6    1   2   1   0   0  A
+   0  RAY   20   RS @QUE   L(89-94)  0  1 1622   5  10   5   9   0   1   1   2   0   1   2   5   3   4  2  4  6   0  2  1  11   5   2 -14  54  68   12    1   2   0   1   0  A
+   0  RAY   21   RS @QUE  L(97-111)  0  0 2291   5   8   5   8   0   0   1   2   0   0   4   4   1   4  3  9 12   0  0  1  11   9   5  -8  95 103    9    0   0   0   1   0  A

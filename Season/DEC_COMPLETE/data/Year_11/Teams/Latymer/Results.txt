@@ -1,0 +1,21 @@
+Game Type Conf-Type Opp. Res.   Score OTs         Record     Opp.Record     All-TimeRecord Conf-TypeRecord      SeasonH2H        All-TimeH2H  SeasonL10 Streak     H2HL10 A-TStreak H2HStreak 
+   2   RS     Intra vRAY    W  107-99   0     1-0(H:1-0)     0-1(A:0-1)         1-0(H:1-0)      1-0(H:1-0)     1-0(H:1-0)         1-0(H:1-0)          W     W1          W        W1        W1 
+   4   RS     Intra @RAY    L  95-114   0     1-1(A:0-1)     1-1(H:1-0)         1-1(A:0-1)      1-1(A:0-1)     1-1(A:0-1)         1-1(A:0-1)         WL     L1         WL        L1        L1 
+   6   RS     Intra @HAR    L   65-96   0     1-2(A:0-2)     1-0(H:1-0)         1-2(A:0-2)      1-2(A:0-2)     0-1(A:0-1)         0-1(A:0-1)        WLL     L2          L        L2        L1 
+  10   RS     Intra vHAR    L   86-90   0     1-3(H:1-1)     2-0(A:1-0)         1-3(H:1-1)      1-3(H:1-1)     0-2(H:0-1)         0-2(H:0-1)       WLLL     L3         LL        L3        L2 
+  12   RS     Intra @RAY    W  107-77   0     2-3(A:1-2)     2-2(H:1-1)         2-3(A:1-2)      2-3(A:1-2)     2-1(A:1-1)         2-1(A:1-1)      WLLLW     W1        WLW        W1        W1 
+  18   RS     Intra vHAR    W   91-88   0     2-3(H:2-1)     2-3(A:1-2)         2-3(H:2-1)      2-3(H:2-1)     1-2(H:1-1)         1-2(H:1-1)      WLLLW     W1        LLW        W1        W1 
+  26   RS     Inter vQUE    W  105-96   0     3-3(H:3-1)     2-4(A:1-2)         3-3(H:3-1)      1-0(H:1-0)     1-0(H:1-0)         1-0(H:1-0)     WLLLWW     W2          W        W2        W1 
+  29   RS     Inter @BRE    L  87-109   0     3-4(A:0-3)     5-4(H:3-1)         3-4(A:0-3)      1-1(A:0-1)     0-1(A:0-1)         0-1(A:0-1)    WLLLWWL     L1          L        L1        L1 
+  33   RS     Inter @CRO    L   76-99   0     3-5(A:0-4)     4-4(H:3-2)         3-5(A:0-4)      1-2(A:0-2)     0-1(A:0-1)         0-1(A:0-1)   WLLLWWLL     L2          L        L2        L1 
+  34   RS     Inter vBRE    L 100-102   0     3-6(H:3-2)     6-5(A:3-4)         3-6(H:3-2)      1-3(H:1-1)     0-2(H:0-1)         0-2(H:0-1)  WLLLWWLLL     L3         LL        L3        L2 
+  42   RS     Intra vKEN    L   75-98   0     3-7(H:3-3)     4-5(A:1-3)         3-7(H:3-3)      2-4(H:2-2)     0-1(H:0-1)         0-1(H:0-1) WLLLWWLLLL     L4          L        L4        L1 
+  46   RS     Intra @HAR    W  100-92   0     4-7(A:1-4)     7-6(H:4-2)         4-7(A:1-4)      3-4(A:1-2)     2-2(A:1-1)         2-2(A:1-1) LLLWWLLLLW     W1       LLWW        W1        W2 
+  50   RS     Intra vKEN    L  93-101   0     4-8(H:3-4)     6-5(A:2-3)         4-8(H:3-4)      3-5(H:2-3)     0-2(H:0-2)         0-2(H:0-2) LLWWLLLLWL     L1         LL        L1        L2 
+  52   RS     Intra @RAY    L   84-92   0     4-9(A:1-5)     9-3(H:6-0)         4-9(A:1-5)      3-6(A:1-3)     1-2(A:0-2)         1-2(A:0-2) LWWLLLLWLL     L2        WLL        L2        L2 
+  56   RS     Intra @KEN    L  72-103   0    4-10(A:1-6)     7-5(H:5-2)        4-10(A:1-6)      3-7(A:1-4)     0-3(A:0-1)         0-3(A:0-1) WWLLLLWLLL     L3        LLL        L3        L3 
+  58   RS     Intra vHAR    L   83-90   0    4-11(H:3-5)     9-7(A:4-5)        4-11(H:3-5)      3-8(H:2-4)     2-3(H:1-2)         2-3(H:1-2) WLLLLWLLLL     L4      LLWWL        L4        L1 
+  64   RS     Intra @KEN    L   67-75   0    4-12(A:1-7)     8-6(H:6-2)        4-12(A:1-7)      3-9(A:1-5)     0-4(A:0-2)         0-4(A:0-2) LLLLWLLLLL     L5       LLLL        L5        L4 
+  66   RS     Inter vWIL    L  90-104   0    4-13(H:3-6)     8-9(A:4-5)        4-13(H:3-6)      1-4(H:1-2)     0-1(H:0-1)         0-1(H:0-1) LLLWLLLLLL     L6          L        L6        L1 
+  74   RS     Inter vQUE    L 101-104   0    4-14(H:3-7)   10-10(A:5-6)        4-14(H:3-7)      1-5(H:1-3)     1-1(H:1-1)         1-1(H:1-1) LLWLLLLLLL     L7         WL        L7        L1 
+  77   RS     Inter @BRE    W  100-91   0    5-14(A:2-7)    9-10(H:5-5)        5-14(A:2-7)      2-5(A:1-2)     1-2(A:1-1)         1-2(A:1-1) LWLLLLLLLW     W1        LLW        W1        W1 

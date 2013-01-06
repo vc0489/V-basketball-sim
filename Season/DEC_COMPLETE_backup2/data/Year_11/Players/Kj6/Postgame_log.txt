@@ -1,0 +1,8 @@
+FTEff regressed by -1 @Y11-D18-RSG1
+BDom changed by 1.7 @Y11-D18-RSG1
+PerFR improved by 2.6 @Y11-D18-RSG1
+2JEff improved by 2.5 @Y11-D20-RSG3
+InFR regressed by -1.9 @Y11-D20-RSG3
+PerDef improved by 1 @Y11-D22-RSG5
+FTEff regressed by -2.8 @Y11-D22-RSG5
+OReb regressed by -1.4 @Y11-D22-RSG5

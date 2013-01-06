@@ -1,0 +1,217 @@
+Year:11 Game:None Type:RoSo SOPH@ROOK
+***Start of the match***
+***Start of the 1st Period***
+[2-0] (14:48) [ROOK] Ka1 Jump Shot Made (2 PTS)
+[2-2] (14:28) [SOPH] Ja6 Inside Shot Made (2 PTS) Assist: Jc5 (1 AST)
+[4-2] (14:06) [ROOK] Kc11 Inside Shot Made (2 PTS) Assist: Ki12 (1 AST)
+[4-2] (13:58) [SOPH] Jc5 Jump Shot Missed
+[4-2] (13:58) [ROOK] Ka1 Def Rebound (Off:0 Def:1)
+[6-2] (13:51) [ROOK] Kc11 Inside Shot Made (4 PTS)
+[6-4] (13:32) [SOPH] Ja6 Inside Shot Made (4 PTS) Assist: Ji7 (1 AST)
+[8-4] (13:22) [ROOK] Kc11 Inside Shot Made (6 PTS) Assist: Ki12 (2 AST)
+[8-6] (13:14) [SOPH] Jc5 Inside Shot Made (2 PTS)
+[8-6] (13:01) [ROOK] Kc11 Inside Shot Missed
+[8-6] (13:01) [SOPH] Ja6 Def Rebound (Off:0 Def:1)
+[8-6] (12:44) [SOPH] Ja6 Jump Shot Missed
+[8-6] (12:44) [ROOK] Kc11 Def Rebound (Off:0 Def:1)
+[8-6] (12:37) [ROOK] Ka1 Inside Shot Missed
+[8-6] (12:37) [SOPH] Jc5 Def Rebound (Off:0 Def:1)
+[8-8] (12:27) [SOPH] Ja6 Inside Shot Made (6 PTS) Assist: Ji7 (2 AST)
+[8-8] (12:04) [ROOK] Kc11 3Pt Shot Missed
+[8-8] (12:04) [SOPH] Ja6 Def Rebound (Off:0 Def:2)
+[8-10] (11:45) [SOPH] Jc5 Jump Shot Made (4 PTS) Assist: Ji7 (3 AST)
+[8-10] (11:32) [ROOK] Kc11 Inside Shot Missed
+[8-10] (11:32) [SOPH] Ja6 Def Rebound (Off:0 Def:3)
+[8-12] (11:17) [SOPH] Jc5 Inside Shot Made (6 PTS) Assist: Ji7 (4 AST)
+[10-12] (11:02) [ROOK] Ka1 Jump Shot Made (4 PTS)
+[10-14] (10:41) [SOPH] Ja6 Inside Shot Made (8 PTS) Assist: Ji7 (5 AST)
+[12-14] (10:33) [ROOK] Kc11 Inside Shot Made (8 PTS) Assist: Ki12 (3 AST)
+[12-14] (10:10) [SOPH] Ja6 3Pt Shot Missed
+[12-14] (10:10) [ROOK] Kc11 Def Rebound (Off:0 Def:2)
+[14-14] (09:59) [ROOK] Ka1 Inside Shot Made (6 PTS)
+[14-16] (09:50) [SOPH] Ja6 Inside Shot Made (10 PTS) Assist: Ji7 (6 AST)
+[14-16] (09:43) [ROOK] Ka1 Jump Shot Missed
+[14-16] (09:43) [SOPH] Jc5 Def Rebound (Off:0 Def:2)
+[14-18] (09:31) [SOPH] Ja6 Inside Shot Made (12 PTS) Assist: Ji7 (7 AST)
+[16-18] (09:11) [ROOK] Ki12 Jump Shot Made (2 PTS) Assist: Kc11 (1 AST)
+[16-20] (09:01) [SOPH] Ja6 Inside Shot Made (14 PTS) Assist: Ji7 (8 AST)
+[18-20] (08:49) [ROOK] Kc11 Inside Shot Made (10 PTS) Assist: Ki12 (4 AST)
+[18-22] (08:37) [SOPH] Ja6 Jump Shot Made (16 PTS) Assist: Ji7 (9 AST)
+[20-22] (08:30) [ROOK] Kc11 Inside Shot Made (12 PTS)
+[20-24] (08:22) [SOPH] Ja6 Jump Shot Made (18 PTS) Assist: Ji7 (10 AST)
+[20-24] (08:10) [ROOK] Ka1 Inside Shot Missed
+[20-24] (08:10) [SOPH] Ja6 Def Rebound (Off:0 Def:4)
+[20-24] (07:51) [ROOK] Kc11 Shooting Foul: Inside (1 PF)
+[20-25] (07:51) [SOPH] Jc5 FT 1 out of 2 (7 PTS)
+[20-26] (07:51) [SOPH] Jc5 FT 2 out of 2 (8 PTS)
+[22-26] (07:32) [ROOK] Kc11 Inside Shot Made (14 PTS) Assist: Ki12 (5 AST)
+[22-28] (07:21) [SOPH] Ja6 Inside Shot Made (20 PTS) Assist: Ji7 (11 AST)
+[22-28] (07:14) [ROOK] Ka1 Inside Shot Missed
+[22-28] (07:14) [ROOK] Kc11 Off Rebound (Off:1 Def:2)
+[22-28] (07:12) [ROOK] Kc11 Put Back Shot Missed
+[22-28] (07:12) [SOPH] Jc5 Def Rebound (Off:0 Def:3)
+[22-28] (06:51) [SOPH] Ja6 Jump Shot Missed
+[22-28] (06:51) [SOPH] Ja6 Off Rebound (Off:1 Def:4)
+[22-30] (06:29) [SOPH] Ja6 Inside Shot Made (22 PTS) Assist: Ji7 (12 AST)
+[22-30] (06:18) [SOPH] Jc5 Shooting Foul: Inside (1 PF)
+[23-30] (06:18) [ROOK] Ka1 FT 1 out of 2 (7 PTS)
+[24-30] (06:18) [ROOK] Ka1 FT 2 out of 2 (8 PTS)
+[24-30] (06:09) [SOPH] Ja6 Jump Shot Missed
+[24-30] (06:09) [ROOK] Kc11 Def Rebound (Off:1 Def:3)
+[24-30] (05:47) [ROOK] Ka1 Inside Shot Missed
+[24-30] (05:47) [SOPH] Ja6 Def Rebound (Off:1 Def:5)
+[24-32] (05:33) [SOPH] Ja6 Jump Shot Made (24 PTS) Assist: Ji7 (13 AST)
+[26-32] (05:21) [ROOK] Ka1 Inside Shot Made (10 PTS)
+[26-34] (05:13) [SOPH] Ja6 Inside Shot Made (26 PTS)
+[28-34] (04:55) [ROOK] Ka1 Jump Shot Made (12 PTS)
+[28-34] (04:34) [SOPH] Jc5 Jump Shot Missed
+[28-34] (04:34) [ROOK] Kc11 Def Rebound (Off:1 Def:4)
+[28-34] (04:11) [ROOK] Ka1 Jump Shot Missed
+[28-34] (04:11) [SOPH] Ja6 Def Rebound (Off:1 Def:6)
+[28-34] (03:56) [SOPH] Ji7 Jump Shot Missed
+[28-34] (03:56) [ROOK] Ka1 Def Rebound (Off:0 Def:2)
+[28-34] (03:42) [ROOK] Kc11 Inside Shot Missed
+[28-34] (03:42) [SOPH] Ja6 Def Rebound (Off:1 Def:7)
+[28-36] (03:29) [SOPH] Ji7 Inside Shot Made (2 PTS)
+[28-36] (03:20) [ROOK] Ka1 Inside Shot Missed
+[28-36] (03:20) [SOPH] Jc5 Def Rebound (Off:0 Def:4)
+[28-36] (03:09) [SOPH] Ja6 Inside Shot Missed
+[28-36] (03:09) [ROOK] Kc11 Def Rebound (Off:1 Def:5)
+[28-36] (02:46) [ROOK] Ka1 Jump Shot Missed
+[28-36] (02:46) [ROOK] Kc11 Off Rebound (Off:2 Def:5)
+[28-36] (02:43) [SOPH] Ji7 Shooting Foul: Inside (1 PF)
+[29-36] (02:43) [ROOK] Kc11 FT 1 out of 2 (15 PTS)
+[29-36] (02:43) [ROOK] Kc11 FT 2 out of 2 Missed
+[29-36] (02:43) [SOPH] Ja6 Def Rebound (Off:1 Def:8)
+[29-36] (02:27) [SOPH] Jc5 Inside Shot Missed
+[29-36] (02:27) [ROOK] Ka1 Def Rebound (Off:0 Def:3)
+[29-36] (02:21) [ROOK] Ki12 Inside Shot Missed
+[29-36] (02:21) [SOPH] Ja6 Def Rebound (Off:1 Def:9)
+[29-36] (02:09) [SOPH] Ja6 Jump Shot Missed
+[29-36] (02:09) [ROOK] Ka1 Def Rebound (Off:0 Def:4)
+[31-36] (01:59) [ROOK] Ka1 Jump Shot Made (14 PTS) Assist: Kc11 (2 AST)
+[31-38] (01:42) [SOPH] Jc5 Jump Shot Made (10 PTS) Assist: Ji7 (14 AST)
+[31-38] (01:31) [ROOK] Kc11 3Pt Shot Missed
+[31-38] (01:31) [SOPH] Jc5 Def Rebound (Off:0 Def:5)
+[31-40] (01:10) [SOPH] Jc5 Jump Shot Made (12 PTS) Assist: Ji7 (15 AST)
+[31-40] (00:58) [ROOK] Ka1 Inside Shot Missed
+[31-40] (00:58) [ROOK] Kc11 Off Rebound (Off:3 Def:5)
+[31-40] (00:57) [ROOK] Kc11 Put Back Shot Missed
+[31-40] (00:57) [ROOK] Ka1 Off Rebound (Off:1 Def:4)
+[31-40] (00:54) [SOPH] Jc5 Shooting Foul: Inside (2 PF)
+[32-40] (00:54) [ROOK] Ka1 FT 1 out of 2 (15 PTS)
+[33-40] (00:54) [ROOK] Ka1 FT 2 out of 2 (16 PTS)
+[33-42] (00:33) [SOPH] Ja6 Inside Shot Made (28 PTS)
+[33-42] (00:10) [ROOK] Ka1 Jump Shot Missed
+[33-42] (00:10) [SOPH] Ja6 Def Rebound (Off:1 Def:10)
+[33-44] (00:04) [SOPH] Ja6 Inside Shot Made (30 PTS) Assist: Ji7 (16 AST)
+[35-44] (00:00) [ROOK] Ka1 Inside Shot Made (18 PTS)
+***End of the 1st Period***
+***Start of the 2nd Period***
+[35-44] (14:48) [SOPH] Ja6 Inside Shot Missed
+[35-44] (14:48) [SOPH] Jc5 Off Rebound (Off:1 Def:5)
+[35-44] (14:40) [SOPH] Ja6 Jump Shot Missed
+[35-44] (14:40) [SOPH] Ja6 Off Rebound (Off:2 Def:10)
+[35-44] (14:38) [SOPH] Ja6 Put Back Shot Missed
+[35-44] (14:38) [ROOK] Kc11 Def Rebound (Off:3 Def:6)
+[35-44] (14:30) [ROOK] Kc11 Inside Shot Missed
+[35-44] (14:30) [SOPH] Ji7 Def Rebound (Off:0 Def:1)
+[35-46] (14:17) [SOPH] Ja6 Inside Shot Made (32 PTS)
+[35-46] (13:57) [ROOK] Kc11 Inside Shot Missed
+[35-46] (13:57) [SOPH] Ja6 Def Rebound (Off:2 Def:11)
+[35-46] (13:37) [SOPH] Ja6 Inside Shot Missed
+[35-46] (13:37) [ROOK] Kc11 Def Rebound (Off:3 Def:7)
+[35-46] (13:19) [SOPH] Ja6 Shooting Foul: Inside (1 PF)
+[35-46] (13:19) [ROOK] Ka1 FT 1 out of 2 Missed
+[35-46] (13:19) [ROOK] Ka1 FT 2 out of 2 Missed
+[35-46] (13:19) [SOPH] Ja6 Def Rebound (Off:2 Def:12)
+[35-46] (13:09) [SOPH] Ja6 Inside Shot Missed
+[35-46] (13:09) [SOPH] Jc5 Off Rebound (Off:2 Def:5)
+[35-46] (13:07) [ROOK] Kc11 Shooting Foul: Inside (2 PF)
+[35-46] (13:07) [SOPH] Jc5 FT 1 out of 2 Missed
+[35-46] (13:07) [SOPH] Jc5 FT 2 out of 2 Missed
+[35-46] (13:07) [ROOK] Kc11 Def Rebound (Off:3 Def:8)
+[35-46] (12:46) [ROOK] Kc11 Inside Shot Missed
+[35-46] (12:46) [SOPH] Jc5 Def Rebound (Off:2 Def:6)
+[35-46] (12:34) [SOPH] Ja6 Inside Shot Missed
+[35-46] (12:34) [ROOK] Ka1 Def Rebound (Off:1 Def:5)
+[35-46] (12:12) [SOPH] Jc5 Shooting Foul: Inside (3 PF)
+[35-46] (12:12) [ROOK] Kc11 FT 1 out of 2 Missed
+[36-46] (12:12) [ROOK] Kc11 FT 2 out of 2 (16 PTS)
+[36-46] (11:51) [SOPH] Ja6 3Pt Shot Missed
+[36-46] (11:51) [SOPH] Jc5 Off Rebound (Off:3 Def:6)
+[36-48] (11:35) [SOPH] Ja6 Inside Shot Made (34 PTS) Assist: Ji7 (17 AST)
+[36-48] (11:23) [SOPH] Ji7 Shooting Foul: 2Pt (2 PF)
+[37-48] (11:23) [ROOK] Ki12 FT 1 out of 2 (3 PTS)
+[38-48] (11:23) [ROOK] Ki12 FT 2 out of 2 (4 PTS)
+[38-50] (11:11) [SOPH] Jc5 Inside Shot Made (14 PTS)
+[40-50] (11:00) [ROOK] Ka1 Inside Shot Made (20 PTS) Assist: Ki12 (6 AST)
+[40-50] (10:49) [SOPH] Jc5 Inside Shot Missed
+[40-50] (10:49) [ROOK] Kc11 Def Rebound (Off:3 Def:9)
+[40-50] (10:32) [ROOK] Kc11 Inside Shot Missed
+[40-50] (10:32) [SOPH] Ja6 Def Rebound (Off:2 Def:13)
+[40-50] (10:23) [SOPH] Ja6 Jump Shot Missed
+[40-50] (10:23) [SOPH] Ja6 Off Rebound (Off:3 Def:13)
+[40-50] (10:05) [SOPH] Jc5 Jump Shot Missed
+[40-50] (10:05) [ROOK] Ki12 Def Rebound (Off:0 Def:1)
+[40-50] (09:50) [ROOK] Kc11 Inside Shot Missed
+[40-50] (09:50) [SOPH] Ja6 Def Rebound (Off:3 Def:14)
+[40-52] (09:41) [SOPH] Ja6 Inside Shot Made (36 PTS) Assist: Ji7 (18 AST)
+[40-52] (09:23) [ROOK] Ki12 Inside Shot Missed
+[40-52] (09:23) [SOPH] Ja6 Def Rebound (Off:3 Def:15)
+[40-54] (09:09) [SOPH] Ja6 Inside Shot Made (38 PTS) Assist: Ji7 (19 AST)
+[42-54] (08:52) [ROOK] Ka1 Inside Shot Made (22 PTS) Assist: Ki12 (7 AST)
+[42-56] (08:36) [SOPH] Ja6 Inside Shot Made (40 PTS) Assist: Ji7 (20 AST)
+[44-56] (08:21) [ROOK] Ka1 Jump Shot Made (24 PTS)
+[44-58] (08:01) [SOPH] Jc5 Inside Shot Made (16 PTS) Assist: Ji7 (21 AST)
+[44-58] (07:51) [ROOK] Kc11 Inside Shot Missed
+[44-58] (07:51) [ROOK] Kc11 Off Rebound (Off:4 Def:9)
+[46-58] (07:31) [ROOK] Kc11 Inside Shot Made (18 PTS) Assist: Ki12 (8 AST)
+[46-60] (07:08) [SOPH] Ji7 Inside Shot Made (4 PTS) Assist: Jc5 (2 AST)
+[46-60] (06:56) [ROOK] Kc11 Inside Shot Missed
+[46-60] (06:56) [SOPH] Jc5 Def Rebound (Off:3 Def:7)
+[46-62] (06:33) [SOPH] Ja6 Inside Shot Made (42 PTS) Assist: Ji7 (22 AST)
+[48-62] (06:11) [ROOK] Kc11 Inside Shot Made (20 PTS) Assist: Ki12 (9 AST)
+[48-62] (05:55) [SOPH] Ja6 Inside Shot Missed
+[48-62] (05:55) [SOPH] Ji7 Off Rebound (Off:1 Def:1)
+[48-64] (05:39) [SOPH] Ja6 Inside Shot Made (44 PTS) Assist: Ji7 (23 AST)
+[48-64] (05:24) [ROOK] Ki12 Jump Shot Missed
+[48-64] (05:24) [SOPH] Jc5 Def Rebound (Off:3 Def:8)
+[48-66] (05:17) [SOPH] Ja6 Inside Shot Made (46 PTS)
+[50-66] (04:59) [ROOK] Ka1 Inside Shot Made (26 PTS) Assist: Ki12 (10 AST)
+[50-66] (04:48) [SOPH] Ja6 Jump Shot Missed
+[50-66] (04:48) [ROOK] Ki12 Def Rebound (Off:0 Def:2)
+[52-66] (04:25) [ROOK] Kc11 Inside Shot Made (22 PTS) Assist: Ki12 (11 AST)
+[52-68] (04:15) [SOPH] Ja6 Inside Shot Made (48 PTS) Assist: Ji7 (24 AST)
+[52-68] (03:55) [ROOK] Ki12 Jump Shot Missed
+[52-68] (03:55) [SOPH] Jc5 Def Rebound (Off:3 Def:9)
+[52-68] (03:34) [SOPH] Ji7 Inside Shot Missed
+[52-68] (03:34) [SOPH] Jc5 Off Rebound (Off:4 Def:9)
+[52-68] (03:22) [SOPH] Ja6 Jump Shot Missed
+[52-68] (03:22) [SOPH] Jc5 Off Rebound (Off:5 Def:9)
+[52-70] (03:20) [SOPH] Jc5 Put Back Shot Made (18 PTS)
+[54-70] (03:09) [ROOK] Ka1 Inside Shot Made (28 PTS) Assist: Ki12 (12 AST)
+[54-72] (02:57) [SOPH] Jc5 Inside Shot Made (20 PTS) Assist: Ji7 (25 AST)
+[56-72] (02:45) [ROOK] Kc11 Inside Shot Made (24 PTS)
+[56-72] (02:26) [SOPH] Ja6 Inside Shot Missed
+[56-72] (02:26) [ROOK] Ki12 Def Rebound (Off:0 Def:3)
+[58-72] (02:13) [ROOK] Kc11 Inside Shot Made (26 PTS) Assist: Ki12 (13 AST)
+[58-74] (02:05) [SOPH] Jc5 Jump Shot Made (22 PTS) Assist: Ji7 (26 AST)
+[60-74] (01:48) [ROOK] Kc11 Inside Shot Made (28 PTS) Assist: Ki12 (14 AST)
+[60-74] (01:39) [ROOK] Ki12 Shooting Foul: Inside (1 PF)
+[60-74] (01:39) [SOPH] Jc5 FT 1 out of 2 Missed
+[60-75] (01:39) [SOPH] Jc5 FT 2 out of 2 (23 PTS)
+[60-75] (01:21) [ROOK] Ka1 Inside Shot Missed
+[60-75] (01:21) [SOPH] Ja6 Def Rebound (Off:3 Def:16)
+[60-75] (01:06) [SOPH] Jc5 Inside Shot Missed
+[60-75] (01:06) [ROOK] Ka1 Def Rebound (Off:1 Def:6)
+[60-75] (00:58) [ROOK] Kc11 Inside Shot Missed
+[60-75] (00:58) [SOPH] Jc5 Def Rebound (Off:5 Def:10)
+[60-77] (00:35) [SOPH] Ja6 Inside Shot Made (50 PTS) Assist: Ji7 (27 AST)
+[62-77] (00:18) [ROOK] Ka1 Inside Shot Made (30 PTS) Assist: Ki12 (15 AST)
+[62-77] (00:02) [SOPH] Ja6 Inside Shot Missed
+[62-77] (00:02) [ROOK] Kc11 Def Rebound (Off:4 Def:10)
+[62-77] (00:00) [ROOK] Ka1 Inside Shot Missed
+[62-77] (00:00) [ROOK] Ki12 Off Rebound (Off:1 Def:3)
+***End of the 2nd Period***
+***End of the match***

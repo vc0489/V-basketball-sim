@@ -1,0 +1,13 @@
+3PPro changed by -0.4 @Y11-D22-RSG5
+2JEff regressed by -2.7 @Y11-D25-RSG8
+2JPro changed by -3.0 @Y11-D35-RSG18
+PassR changed by -1.7 @Y11-D43-RSG26
+PassE regressed by -1 @Y11-D47-RSG30
+2JEff improved by 1.8 @Y11-D48-RSG31
+Suffered a 22 injury @Y11-D50-RSG33
+DReb regressed by -2.9 @Y11-D52-RSG35
+PerDef regressed by -2.8 @Y11-D52-RSG35
+3PEff improved by 1 @Y11-D52-RSG35
+PerDef regressed by -2.8 @Y11-D53-RSG36
+2JPro changed by -2.1 @Y11-D54-RSG37
+InEff regressed by -1.8 @Y11-D59-RSG42

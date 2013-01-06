@@ -1,0 +1,32 @@
+Year:11 Game:49 Type:RS WIL@CRO
+Wilson CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD
+STARTERS
+   Hc5  2400   5  14   5  14   0   0  15  20   0   0   4  11   1   3  1  7  8   0  3 10  25  23   1  -1  84  85   25    1   0   3  10   0
+   Ic4  2400   5  10   5  10   0   0   4   6   0   0   4   9   1   1  0 13 13   1  2  3  14  12   4  -1  84  85   16    3   0   2   3   0
+   Jg6  2400   6  14   5  11   1   3   0   0   0   0   4   7   1   4  2  4  6   1  0  0  13   8   0  -1  84  85   20    6   0   0   0   0
+   Gi3  2269   9  18   9  15   0   3   1   2   0   0   4   5   5  10  1  2  3   6  2  1  19   9   0   2  79  77   44   25   1   1   1   0
+   He2  1559   3   5   1   3   2   2   0   0   0   0   0   1   1   2  2  5  7   0  3  0   8   0   0  -1  53  54    6    1   1   2   0   0
+BENCH
+   Ee3   841   1   5   1   5   0   0   3   3   0   0   1   4   0   1  1  5  6   2  2  1   5   2   0   0  31  31   11    5   0   2   0   1
+   Fj6   131   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   1  0  0   0   0   0  -3   5   8    2    2   0   0   0   0
+Ea2    DNP-CD
+Jh6    DNP-CD
+Ka4    DNP-CD
+Kh2    DNP-CD
+Ei5    DNP-Injured
+Hf1    DNP-Injured
+Cromwell CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD
+STARTERS
+     Fj3  2400   7  17   4  11   3   6  12  14   1   2   3   8   1   3  3  2  5   9  3  6  29   6   2   1  85  84   37   14   2   1   0   6
+     Jc5  2400   7  19   7  19   0   0   2   2   0   0   3  10   4   9  2 13 15   1  2  1  16   8   2   1  85  84   22    2   2   0   1   0
+     Ji7  2400   7  12   6  10   1   2   0   0   0   0   2   2   4   8  0  3  3   4  0  0  15   4   2   1  85  84   35   23   0   0   0   0
+     If1  1809   0   8   0   5   0   3   6   6   0   0   0   2   0   3  0  4  4   3  2  2   6   0   0  -3  56  59   19    9   2   0   0   2
+     Ia3   963   3   6   3   6   0   0   0   0   1   1   2   3   1   3  2  6  8   0  4  0   6   4   2   5  38  33    8    2   4   0   0   0
+BENCH
+    He10  1389   3   6   2   4   1   2   4   6   0   0   0   0   2   4  1  4  5   2  4  3  11   0   0   4  51  47   11    2   4   0   1   2
+     Eg6   639   1   2   1   1   0   1   0   0   0   0   1   1   0   0  0  1  1   0  0  0   2   2   2  -4  25  29    3    1   0   0   0   0
+Fi3      DNP-CD
+Kf2      DNP-CD
+Ie8      DNP-Injured
+Ja3      DNP-Injured
+Kc11     DNP-Injured

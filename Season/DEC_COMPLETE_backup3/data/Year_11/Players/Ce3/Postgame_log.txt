@@ -1,0 +1,4 @@
+PerDef regressed by -3.5 @Y11-D24-RSG7
+2JEff regressed by -3.7 @Y11-D27-RSG10
+InPro changed by -2.2 @Y11-D29-RSG12
+PassR changed by 0.8 @Y11-D44-RSG27

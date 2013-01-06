@@ -1,0 +1,16 @@
+PerFR improved by 1 @Y11-D20-RSG3
+PassR changed by -1.8 @Y11-D20-RSG3
+InEff improved by 1.9 @Y11-D28-RSG11
+BDom changed by 2.1 @Y11-D38-RSG21
+3PEff regressed by -1 @Y11-D39-RSG22
+PerFR improved by 1 @Y11-D40-RSG23
+3PEff regressed by -2.6 @Y11-D44-RSG27
+3PEff improved by 3.7 @Y11-D47-RSG30
+InEff improved by 1.4 @Y11-D50-RSG33
+PassE improved by 1 @Y11-D51-RSG34
+2JEff improved by 1 @Y11-D59-RSG42
+InPro changed by 1.4 @Y11-D70-RSG53
+PerDef improved by 1.9 @Y11-D71-RSG54
+OReb regressed by -1.5 @Y11-D84-RSG67
+DReb improved by 1.1 @Y11-D91-RSG74
+DReb improved by 1.0 @Y11-D96-RSG79

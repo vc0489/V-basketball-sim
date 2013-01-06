@@ -1,0 +1,8 @@
+DReb regressed by -1 @Y11-D25-RSG8
+FTEff improved by 1.4 @Y11-D25-RSG8
+BDom changed by -1.0 @Y11-D27-RSG10
+InEff regressed by -1 @Y11-D28-RSG11
+InDef improved by 1 @Y11-D33-RSG16
+2JPro changed by 2.1 @Y11-D40-RSG23
+BDom changed by 1.6 @Y11-D41-RSG24
+InPro changed by 0.0 @Y11-D41-RSG24

@@ -1,0 +1,351 @@
+Year:0 Game:20 Type:RS RAY@QUE
+***Start of the match***
+***Start of the 1st Period***
+[0-0] (09:37) [RAY] Ce3 Shooting Foul: 2Pt (1 PF)
+[1-0] (09:37) [QUE] Ie9 FT 1 out of 2 (1 PTS)
+[1-0] (09:37) [QUE] Ie9 FT 2 out of 2 Missed
+[1-0] (09:37) [QUE] Ec2 Off Rebound (Off:1 Def:0)
+[1-0] (09:17) [QUE] Ej5 Inside Shot Missed
+[1-0] (09:17) [QUE] Ie9 Off Rebound (Off:1 Def:0)
+[3-0] (08:58) [QUE] Ec2 Inside Shot Made (2 PTS) Assist: Ej5 (1 AST)
+[3-0] (08:45) [RAY] Jj3 Jump Shot Missed
+[3-0] (08:45) [RAY] Cg1 Off Rebound (Off:1 Def:0)
+[3-0] (08:43) [RAY] Cg1 Put Back Shot Missed
+[3-0] (08:43) [QUE] Ec2 Def Rebound (Off:1 Def:1)
+[3-0] (08:25) [QUE] Ej5 Inside Shot Missed
+[3-0] (08:25) [QUE] Ec2 Off Rebound (Off:2 Def:1)
+[3-0] (08:17) [QUE] Ia2 3Pt Shot Missed
+[3-0] (08:17) [RAY] Jj3 Def Rebound (Off:0 Def:1)
+[3-0] (08:02) [RAY] Jj3 Jump Shot Missed
+[3-0] (08:02) [QUE] Ia2 Def Rebound (Off:0 Def:1)
+[5-0] (07:46) [QUE] Ec2 Inside Shot Made (4 PTS) Assist: Ej5 (2 AST)
+[5-3] (07:30) [RAY] Jj3 3Pt Shot Made (3 PTS)
+[5-3] (07:21) [QUE] Dg3 Jump Shot Missed
+[5-3] (07:21) [RAY] Gc7 Def Rebound (Off:0 Def:1)
+[5-3] (07:07) [RAY] Jj3 3Pt Shot Missed
+[5-3] (07:07) [QUE] Ia2 Def Rebound (Off:0 Def:2)
+[7-3] (06:55) [QUE] Ej5 Jump Shot Made (2 PTS) Assist: Dg3 (1 AST)
+[7-3] (06:49) [RAY] Jj3 3Pt Shot Missed
+[7-3] (06:49) [QUE] Ia2 Def Rebound (Off:0 Def:3)
+[10-3] (06:40) [QUE] Ej5 3Pt Shot Made (5 PTS)
+[10-5] (06:17) [RAY] Cg1 Jump Shot Made (2 PTS)
+[12-5] (06:08) [QUE] Ie9 Inside Shot Made (3 PTS) Assist: Ej5 (3 AST)
+[12-5] (06:00) [RAY] Ce3 Jump Shot Missed
+[12-5] (06:00) [RAY] Cg1 Off Rebound (Off:2 Def:0)
+[12-7] (05:52) [RAY] Cg1 Jump Shot Made (4 PTS)
+[15-7] (05:33) [QUE] Dg3 3Pt Shot Made (3 PTS)
+[15-9] (05:26) [RAY] Gc7 Inside Shot Made (2 PTS) Assist: Jj3 (1 AST)
+[15-9] (05:18) [QUE] Ec2 Inside Shot Missed
+[15-9] (05:18) [RAY] Jj3 Def Rebound (Off:0 Def:2)
+[15-11] (05:00) [RAY] Cg1 Inside Shot Made (6 PTS)
+[17-11] (04:38) [QUE] Ia2 Jump Shot Made (2 PTS)
+[17-13] (04:21) [RAY] Fa3 Jump Shot Made (2 PTS) Assist: Jj3 (2 AST)
+[17-13] (03:59) [RAY] Fa3 Shooting Foul: Inside (1 PF)
+[18-13] (03:59) [QUE] Ia2 FT 1 out of 2 (3 PTS)
+[19-13] (03:59) [QUE] Ia2 FT 2 out of 2 (4 PTS)
+[19-15] (03:52) [RAY] Cg1 Inside Shot Made (8 PTS)
+[19-15] (03:43) [QUE] Ec2 Inside Shot Missed
+[19-15] (03:43) [RAY] Gc7 Def Rebound (Off:0 Def:2)
+[19-17] (03:28) [RAY] Gc7 Inside Shot Made (4 PTS) Assist: Cg1 (1 AST)
+[19-17] (03:08) [QUE] Ej5 Inside Shot Missed
+[19-17] (03:08) [RAY] Gc7 Def Rebound (Off:0 Def:3)
+[19-17] (02:55) [RAY] Gc7 Inside Shot Missed
+[19-17] (02:55) [RAY] Cg1 Off Rebound (Off:3 Def:0)
+[19-17] (02:34) [QUE] Dg3 Shooting Foul: 2Pt (1 PF)
+[19-17] (02:34) [RAY] Ce3 FT 1 out of 2 Missed
+[19-18] (02:34) [RAY] Ce3 FT 2 out of 2 (1 PTS)
+[21-18] (02:20) [QUE] Ia2 Inside Shot Made (6 PTS) Assist: Dg3 (2 AST)
+[21-18] (01:58) [RAY] Ce3 Inside Shot Missed
+[21-18] (01:58) [QUE] Ec2 Def Rebound (Off:2 Def:2)
+[23-18] (01:46) [QUE] Dg3 Jump Shot Made (5 PTS) Assist: Ia2 (1 AST)
+[23-18] (01:40) [QUE] Ie9 Shooting Foul: 2Pt (1 PF)
+[23-18] (01:40) [RAY] Ce3 FT 1 out of 2 Missed
+[23-19] (01:40) [RAY] Ce3 FT 2 out of 2 (2 PTS)
+[25-19] (01:25) [QUE] Ia2 Inside Shot Made (8 PTS) Assist: Ej5 (4 AST)
+[25-19] (01:11) [RAY] Gc7 3Pt Shot Missed
+[25-19] (01:11) [RAY] Cg1 Off Rebound (Off:4 Def:0)
+[25-19] (00:56) [RAY] Ce3 Jump Shot Missed
+[25-19] (00:56) [RAY] Ce3 Off Rebound (Off:1 Def:0)
+[25-21] (00:49) [RAY] Ce3 Jump Shot Made (4 PTS)
+[28-21] (00:36) [QUE] Ej5 3Pt Shot Made (8 PTS)
+[28-23] (00:20) [RAY] Gc7 Jump Shot Made (6 PTS) Assist: Cg1 (2 AST)
+[31-23] (00:00) [QUE] Dg3 3Pt Shot Made (8 PTS)
+***End of the 1st Period***
+***Start of the 2nd Period***
+[31-23] (09:53) [RAY] Gc7 Inside Shot Missed
+[31-23] (09:53) [RAY] Gc7 Off Rebound (Off:1 Def:3)
+[31-23] (09:31) [RAY] Jj3 3Pt Shot Missed
+[31-23] (09:31) [QUE] Ie9 Def Rebound (Off:1 Def:1)
+[31-23] (09:17) [QUE] Ia2 Inside Shot Missed
+[31-23] (09:17) [RAY] Fa3 Def Rebound (Off:0 Def:1)
+[31-25] (08:55) [RAY] Fa3 Jump Shot Made (4 PTS) Assist: Ce3 (1 AST)
+[33-25] (08:35) [QUE] Ia2 Inside Shot Made (10 PTS) Assist: Dg3 (3 AST)
+[33-28] (08:24) [RAY] Jj3 3Pt Shot Made (6 PTS)
+[36-28] (08:05) [QUE] Ie9 3Pt Shot Made (6 PTS)
+[36-28] (07:42) [RAY] Gc7 3Pt Shot Missed
+[36-28] (07:42) [QUE] Ia2 Def Rebound (Off:0 Def:4)
+[36-28] (07:36) [QUE] Ej5 Jump Shot Missed
+[36-28] (07:36) [QUE] Dg3 Off Rebound (Off:1 Def:0)
+[38-28] (07:34) [QUE] Dg3 Put Back Shot Made (10 PTS)
+[38-28] (07:28) [QUE] Ec2 Shooting Foul: Inside (1 PF)
+[38-28] (07:28) [RAY] Gc7 FT 1 out of 2 Missed
+[38-29] (07:28) [RAY] Gc7 FT 2 out of 2 (7 PTS)
+[38-29] (07:05) [RAY] Jj3 Shooting Foul: Inside (1 PF)
+[39-29] (07:05) [QUE] Ia2 FT 1 out of 2 (11 PTS)
+[40-29] (07:05) [QUE] Ia2 FT 2 out of 2 (12 PTS)
+[40-29] (06:59) [RAY] Fa3 Inside Shot Missed
+[40-29] (06:59) [QUE] Ec2 Def Rebound (Off:2 Def:3)
+[40-29] (06:43) [QUE] Ia2 Inside Shot Missed
+[40-29] (06:43) [RAY] Cg1 Def Rebound (Off:4 Def:1)
+[40-31] (06:34) [RAY] Gc7 Jump Shot Made (9 PTS)
+[42-31] (06:27) [QUE] Ia2 Inside Shot Made (14 PTS)
+[42-33] (06:07) [RAY] Fa3 Inside Shot Made (6 PTS) Assist: Cg1 (3 AST)
+[42-33] (05:48) [QUE] Ia2 Jump Shot Missed
+[42-33] (05:48) [RAY] Gc7 Def Rebound (Off:1 Def:4)
+[42-35] (05:29) [RAY] Fa3 Jump Shot Made (8 PTS) Assist: Jj3 (3 AST)
+[42-35] (05:12) [QUE] Ie9 Jump Shot Missed
+[42-35] (05:12) [RAY] Gc7 Def Rebound (Off:1 Def:5)
+[42-35] (04:59) [RAY] Cg1 Inside Shot Missed
+[42-35] (04:59) [QUE] Ej5 Def Rebound (Off:0 Def:1)
+[44-35] (04:47) [QUE] Ej5 Inside Shot Made (10 PTS) Assist: Dg3 (4 AST)
+[44-35] (04:41) [RAY] Cg1 Jump Shot Missed
+[44-35] (04:41) [RAY] Fa3 Off Rebound (Off:1 Def:1)
+[44-35] (04:38) [RAY] Fa3 Put Back Shot Missed
+[44-35] (04:38) [RAY] Fa3 Off Rebound (Off:2 Def:1)
+[44-37] (04:23) [RAY] Gc7 Inside Shot Made (11 PTS) Assist: Jj3 (4 AST)
+[44-37] (04:09) [QUE] Dg3 Inside Shot Missed
+[44-37] (04:09) [RAY] Fa3 Def Rebound (Off:2 Def:2)
+[44-37] (03:52) [RAY] Jj3 3Pt Shot Missed
+[44-37] (03:52) [QUE] Dg3 Def Rebound (Off:1 Def:1)
+[44-37] (03:31) [RAY] Gc7 Shooting Foul: 3Pt (1 PF)
+[45-37] (03:31) [QUE] Ej5 FT 1 out of 3 (11 PTS)
+[46-37] (03:31) [QUE] Ej5 FT 2 out of 3 (12 PTS)
+[47-37] (03:31) [QUE] Ej5 FT 3 out of 3 (13 PTS)
+[47-37] (03:18) [RAY] Cg1 Inside Shot Missed
+[47-37] (03:18) [RAY] Ce3 Off Rebound (Off:2 Def:0)
+[47-39] (03:04) [RAY] Fa3 Inside Shot Made (10 PTS) Assist: Ce3 (2 AST)
+[49-39] (02:48) [QUE] Ie9 Jump Shot Made (8 PTS) Assist: Ej5 (5 AST)
+[49-39] (02:38) [QUE] Ie9 Shooting Foul: Inside (2 PF)
+[49-39] (02:38) [RAY] Cg1 FT 1 out of 2 Missed
+[49-40] (02:38) [RAY] Cg1 FT 2 out of 2 (9 PTS)
+[49-40] (02:38) [QUE] Sub(s) in: He5 | Sub(s) out: Ie9 
+[49-40] (02:20) [QUE] Ia2 Inside Shot Missed
+[49-40] (02:20) [RAY] Gc7 Def Rebound (Off:1 Def:6)
+[49-42] (02:06) [RAY] Ce3 Jump Shot Made (6 PTS) Assist: Gc7 (1 AST)
+[49-42] (02:00) [QUE] Ia2 Jump Shot Missed
+[49-42] (02:00) [RAY] Fa3 Def Rebound (Off:2 Def:3)
+[49-42] (01:43) [RAY] Cg1 3Pt Shot Missed
+[49-42] (01:43) [QUE] Ia2 Def Rebound (Off:0 Def:5)
+[49-42] (01:34) [RAY] Gc7 Shooting Foul: Inside (2 PF)
+[50-42] (01:34) [QUE] Ia2 FT 1 out of 2 (15 PTS)
+[50-42] (01:34) [QUE] Ia2 FT 2 out of 2 Missed
+[50-42] (01:34) [RAY] Gc7 Def Rebound (Off:1 Def:7)
+[50-42] (01:34) [RAY] Sub(s) in: Fd1 | Sub(s) out: Gc7 
+[50-42] (01:27) [RAY] Fa3 Jump Shot Missed
+[50-42] (01:27) [QUE] Ia2 Def Rebound (Off:0 Def:6)
+[50-42] (01:07) [QUE] He5 Inside Shot Missed
+[50-42] (01:07) [RAY] Jj3 Def Rebound (Off:0 Def:3)
+[50-42] (00:48) [RAY] Ce3 3Pt Shot Missed
+[50-42] (00:48) [QUE] He5 Def Rebound (Off:0 Def:1)
+[52-42] (00:33) [QUE] Ec2 Jump Shot Made (6 PTS) Assist: Ej5 (6 AST)
+[52-42] (00:15) [QUE] Ej5 Shooting Foul: 3Pt (1 PF)
+[52-43] (00:15) [RAY] Fd1 FT 1 out of 3 (1 PTS)
+[52-44] (00:15) [RAY] Fd1 FT 2 out of 3 (2 PTS)
+[52-45] (00:15) [RAY] Fd1 FT 3 out of 3 (3 PTS)
+[52-45] (00:00) [QUE] Ec2 Inside Shot Missed
+[52-45] (00:00) [RAY] Fd1 Def Rebound (Off:0 Def:1)
+***End of the 2nd Period***
+[QUE] Sub(s) in: Ie9 | Sub(s) out: He5 
+***Start of the 3rd Period***
+[52-45] (09:54) [QUE] Ia2 Shooting Foul: Inside (1 PF)
+[52-46] (09:54) [RAY] Fa3 FT 1 out of 2 (11 PTS)
+[52-46] (09:54) [RAY] Fa3 FT 2 out of 2 Missed
+[52-46] (09:54) [QUE] Ia2 Def Rebound (Off:0 Def:7)
+[54-46] (09:37) [QUE] Dg3 Jump Shot Made (12 PTS) Assist: Ej5 (7 AST)
+[54-49] (09:28) [RAY] Jj3 3Pt Shot Made (9 PTS) Assist: Ce3 (3 AST)
+[54-49] (09:06) [QUE] Ie9 Inside Shot Missed
+[54-49] (09:06) [QUE] Ia2 Off Rebound (Off:1 Def:7)
+[54-49] (08:48) [QUE] Ie9 Jump Shot Missed
+[54-49] (08:48) [RAY] Cg1 Def Rebound (Off:4 Def:2)
+[54-49] (08:42) [RAY] Fa3 Inside Shot Missed
+[54-49] (08:42) [QUE] Ia2 Def Rebound (Off:1 Def:8)
+[54-49] (08:30) [QUE] Ec2 Jump Shot Missed
+[54-49] (08:30) [QUE] Ia2 Off Rebound (Off:2 Def:8)
+[56-49] (08:18) [QUE] Ie9 Inside Shot Made (10 PTS) Assist: Dg3 (5 AST)
+[56-49] (07:56) [RAY] Jj3 Inside Shot Missed
+[56-49] (07:56) [QUE] Ie9 Def Rebound (Off:1 Def:2)
+[56-49] (07:41) [QUE] Ej5 3Pt Shot Missed
+[56-49] (07:41) [QUE] Ia2 Off Rebound (Off:3 Def:8)
+[56-49] (07:22) [QUE] Ia2 Inside Shot Missed
+[56-49] (07:22) [RAY] Fa3 Def Rebound (Off:2 Def:4)
+[56-49] (07:00) [QUE] Ie9 Shooting Foul: 3Pt (3 PF)
+[56-50] (07:00) [RAY] Fd1 FT 1 out of 3 (4 PTS)
+[56-50] (07:00) [RAY] Fd1 FT 2 out of 3 Missed
+[56-50] (07:00) [RAY] Fd1 FT 3 out of 3 Missed
+[56-50] (07:00) [RAY] Ce3 Off Rebound (Off:3 Def:0)
+[56-50] (06:44) [RAY] Cg1 Jump Shot Missed
+[56-50] (06:44) [QUE] Ec2 Def Rebound (Off:2 Def:4)
+[56-50] (06:44) [QUE] Sub(s) in: He5 | Sub(s) out: Ie9 
+[56-50] (06:24) [QUE] Dg3 Inside Shot Missed
+[56-50] (06:24) [QUE] Ia2 Off Rebound (Off:4 Def:8)
+[56-50] (06:07) [RAY] Ce3 Shooting Foul: 3Pt (2 PF)
+[57-50] (06:07) [QUE] Ej5 FT 1 out of 3 (14 PTS)
+[58-50] (06:07) [QUE] Ej5 FT 2 out of 3 (15 PTS)
+[59-50] (06:07) [QUE] Ej5 FT 3 out of 3 (16 PTS)
+[59-50] (05:59) [RAY] Ce3 Inside Shot Missed
+[59-50] (05:59) [QUE] Ia2 Def Rebound (Off:4 Def:9)
+[61-50] (05:49) [QUE] Ia2 Inside Shot Made (17 PTS)
+[61-52] (05:41) [RAY] Ce3 Jump Shot Made (8 PTS) Assist: Cg1 (4 AST)
+[61-52] (05:21) [RAY] Fa3 Shooting Foul: Inside (2 PF)
+[62-52] (05:21) [QUE] Ia2 FT 1 out of 2 (18 PTS)
+[63-52] (05:21) [QUE] Ia2 FT 2 out of 2 (19 PTS)
+[63-52] (04:59) [RAY] Jj3 Jump Shot Missed
+[63-52] (04:59) [QUE] Ia2 Def Rebound (Off:4 Def:10)
+[63-52] (04:45) [QUE] Ec2 Jump Shot Missed
+[63-52] (04:45) [RAY] Ce3 Def Rebound (Off:3 Def:1)
+[63-52] (04:23) [RAY] Fd1 3Pt Shot Missed
+[63-52] (04:23) [RAY] Cg1 Off Rebound (Off:5 Def:2)
+[63-54] (04:22) [RAY] Cg1 Put Back Shot Made (11 PTS)
+[63-54] (04:13) [QUE] Ec2 3Pt Shot Missed
+[63-54] (04:13) [QUE] Ia2 Off Rebound (Off:5 Def:10)
+[63-54] (04:10) [RAY] Cg1 Shooting Foul: Inside (1 PF)
+[63-54] (04:10) [QUE] Ia2 FT 1 out of 2 Missed
+[63-54] (04:10) [QUE] Ia2 FT 2 out of 2 Missed
+[63-54] (04:10) [RAY] Fd1 Def Rebound (Off:0 Def:2)
+[63-54] (04:03) [RAY] Fd1 Inside Shot Missed
+[63-54] (04:03) [QUE] Ec2 Def Rebound (Off:2 Def:5)
+[65-54] (03:57) [QUE] Dg3 Inside Shot Made (14 PTS)
+[65-54] (03:57) [RAY] Sub(s) in: Gc7 Ea6 | Sub(s) out: Fa3 Fd1 
+[65-56] (03:49) [RAY] Jj3 Jump Shot Made (11 PTS)
+[65-56] (03:33) [QUE] He5 3Pt Shot Missed
+[65-56] (03:33) [RAY] Ce3 Def Rebound (Off:3 Def:2)
+[65-56] (03:16) [QUE] Ia2 Shooting Foul: Inside (2 PF)
+[65-57] (03:16) [RAY] Gc7 FT 1 out of 2 (12 PTS)
+[65-58] (03:16) [RAY] Gc7 FT 2 out of 2 (13 PTS)
+[65-58] (02:58) [QUE] Ia2 Jump Shot Missed
+[65-58] (02:58) [QUE] Ia2 Off Rebound (Off:6 Def:10)
+[67-58] (02:57) [QUE] Ia2 Put Back Shot Made (21 PTS)
+[67-58] (02:46) [RAY] Ce3 Jump Shot Missed
+[67-58] (02:46) [RAY] Cg1 Off Rebound (Off:6 Def:2)
+[67-58] (02:44) [RAY] Cg1 Put Back Shot Missed
+[67-58] (02:44) [QUE] Dg3 Def Rebound (Off:1 Def:2)
+[69-58] (02:36) [QUE] Ia2 Inside Shot Made (23 PTS) Assist: Ej5 (8 AST)
+[69-58] (02:17) [RAY] Jj3 Jump Shot Missed
+[69-58] (02:17) [QUE] He5 Def Rebound (Off:0 Def:2)
+[69-58] (02:08) [RAY] Ce3 Shooting Foul: Inside (3 PF)
+[70-58] (02:08) [QUE] Ia2 FT 1 out of 2 (24 PTS)
+[71-58] (02:08) [QUE] Ia2 FT 2 out of 2 (25 PTS)
+[71-58] (02:08) [RAY] Sub(s) in: Fd1 | Sub(s) out: Ce3 
+[71-58] (01:49) [RAY] Gc7 Inside Shot Missed
+[71-58] (01:49) [QUE] Ej5 Def Rebound (Off:0 Def:2)
+[73-58] (01:43) [QUE] Ec2 Jump Shot Made (8 PTS) Assist: Dg3 (6 AST)
+[73-58] (01:35) [RAY] Gc7 Jump Shot Missed
+[73-58] (01:35) [QUE] Ia2 Def Rebound (Off:6 Def:11)
+[73-58] (01:16) [QUE] He5 Jump Shot Missed
+[73-58] (01:16) [QUE] Ec2 Off Rebound (Off:3 Def:5)
+[73-58] (01:02) [QUE] Dg3 Inside Shot Missed
+[73-58] (01:02) [RAY] Cg1 Def Rebound (Off:6 Def:3)
+[73-58] (00:43) [RAY] Gc7 Jump Shot Missed
+[73-58] (00:43) [RAY] Jj3 Off Rebound (Off:1 Def:3)
+[73-60] (00:35) [RAY] Ea6 Inside Shot Made (2 PTS) Assist: Gc7 (2 AST)
+[73-60] (00:27) [QUE] He5 3Pt Shot Missed
+[73-60] (00:27) [QUE] He5 Off Rebound (Off:1 Def:2)
+[73-60] (00:26) [QUE] He5 Put Back Shot Missed
+[73-60] (00:26) [RAY] Cg1 Def Rebound (Off:6 Def:4)
+[73-63] (00:06) [RAY] Cg1 3Pt Shot Made (14 PTS)
+[73-63] (00:00) [QUE] Ej5 Inside Shot Missed
+[73-63] (00:00) [RAY] Ea6 Def Rebound (Off:0 Def:1)
+***End of the 3rd Period***
+***Start of the 4th Period***
+[75-63] (09:49) [QUE] Ec2 Inside Shot Made (10 PTS) Assist: Ej5 (9 AST)
+[75-65] (09:35) [RAY] Jj3 Inside Shot Made (13 PTS) Assist: Cg1 (5 AST)
+[75-65] (09:24) [QUE] Ia2 Inside Shot Missed
+[75-65] (09:24) [RAY] Fd1 Def Rebound (Off:0 Def:3)
+[75-65] (09:14) [RAY] Fd1 3Pt Shot Missed
+[75-65] (09:14) [QUE] Dg3 Def Rebound (Off:1 Def:3)
+[75-65] (09:00) [QUE] Ej5 Jump Shot Missed
+[75-65] (09:00) [RAY] Fd1 Def Rebound (Off:0 Def:4)
+[75-65] (08:46) [RAY] Jj3 3Pt Shot Missed
+[75-65] (08:46) [RAY] Jj3 Off Rebound (Off:2 Def:3)
+[75-65] (08:40) [QUE] He5 Shooting Foul: Inside (1 PF)
+[75-66] (08:40) [RAY] Cg1 FT 1 out of 2 (15 PTS)
+[75-67] (08:40) [RAY] Cg1 FT 2 out of 2 (16 PTS)
+[77-67] (08:24) [QUE] Dg3 Inside Shot Made (16 PTS) Assist: Ej5 (10 AST)
+[77-67] (08:02) [RAY] Gc7 Inside Shot Missed
+[77-67] (08:02) [QUE] Ia2 Def Rebound (Off:6 Def:12)
+[77-67] (07:48) [QUE] Ec2 Inside Shot Missed
+[77-67] (07:48) [RAY] Fd1 Def Rebound (Off:0 Def:5)
+[77-67] (07:39) [RAY] Gc7 Inside Shot Missed
+[77-67] (07:39) [QUE] Ec2 Def Rebound (Off:3 Def:6)
+[77-67] (07:16) [QUE] Dg3 Jump Shot Missed
+[77-67] (07:16) [RAY] Cg1 Def Rebound (Off:6 Def:5)
+[77-70] (07:00) [RAY] Cg1 3Pt Shot Made (19 PTS) Assist: Jj3 (5 AST)
+[79-70] (06:47) [QUE] Ia2 Inside Shot Made (27 PTS) Assist: Ej5 (11 AST)
+[79-70] (06:24) [QUE] Ec2 Shooting Foul: Inside (2 PF)
+[79-71] (06:24) [RAY] Ea6 FT 1 out of 2 (3 PTS)
+[79-72] (06:24) [RAY] Ea6 FT 2 out of 2 (4 PTS)
+[81-72] (06:11) [QUE] Ec2 Jump Shot Made (12 PTS) Assist: Ej5 (12 AST)
+[81-72] (05:56) [RAY] Gc7 Inside Shot Missed
+[81-72] (05:56) [RAY] Gc7 Off Rebound (Off:2 Def:7)
+[81-75] (05:34) [RAY] Jj3 3Pt Shot Made (16 PTS)
+[81-75] (05:24) [QUE] Ia2 Jump Shot Missed
+[81-75] (05:24) [RAY] Gc7 Def Rebound (Off:2 Def:8)
+[81-75] (05:18) [RAY] Cg1 3Pt Shot Missed
+[81-75] (05:18) [RAY] Jj3 Off Rebound (Off:3 Def:3)
+[81-77] (04:55) [RAY] Cg1 Inside Shot Made (21 PTS) Assist: Jj3 (6 AST)
+[84-77] (04:47) [QUE] Ej5 3Pt Shot Made (19 PTS)
+[84-80] (04:30) [RAY] Cg1 3Pt Shot Made (24 PTS)
+[87-80] (04:19) [QUE] Ej5 3Pt Shot Made (22 PTS)
+[87-80] (03:58) [QUE] Ia2 Shooting Foul: Inside (3 PF)
+[87-81] (03:58) [RAY] Cg1 FT 1 out of 2 (25 PTS)
+[87-82] (03:58) [RAY] Cg1 FT 2 out of 2 (26 PTS)
+[87-82] (03:58) [QUE] Sub(s) in: Fa7 | Sub(s) out: Ia2 
+[87-82] (03:36) [QUE] He5 Jump Shot Missed
+[87-82] (03:36) [RAY] Ea6 Def Rebound (Off:0 Def:2)
+[87-82] (03:15) [RAY] Jj3 3Pt Shot Missed
+[87-82] (03:15) [RAY] Fd1 Off Rebound (Off:1 Def:5)
+[87-82] (03:05) [QUE] Dg3 Shooting Foul: Inside (2 PF)
+[87-83] (03:05) [RAY] Gc7 FT 1 out of 2 (14 PTS)
+[87-84] (03:05) [RAY] Gc7 FT 2 out of 2 (15 PTS)
+[90-84] (02:50) [QUE] Ej5 3Pt Shot Made (25 PTS)
+[90-86] (02:27) [RAY] Fd1 Jump Shot Made (6 PTS) Assist: Gc7 (3 AST)
+[90-86] (02:19) [QUE] Dg3 3Pt Shot Missed
+[90-86] (02:19) [RAY] Ea6 Def Rebound (Off:0 Def:3)
+[90-86] (02:10) [RAY] Gc7 Inside Shot Missed
+[90-86] (02:10) [RAY] Fd1 Off Rebound (Off:2 Def:5)
+[90-88] (02:04) [RAY] Jj3 Inside Shot Made (18 PTS)
+[90-88] (01:41) [QUE] Dg3 Jump Shot Missed
+[90-88] (01:41) [RAY] Fd1 Def Rebound (Off:2 Def:6)
+[90-88] (01:35) [RAY] Fd1 Jump Shot Missed
+[90-88] (01:35) [RAY] Gc7 Off Rebound (Off:3 Def:8)
+[90-88] (01:12) [QUE] Fa7 Shooting Foul: Inside (1 PF)
+[90-89] (01:12) [RAY] Ea6 FT 1 out of 2 (5 PTS)
+[90-89] (01:12) [RAY] Ea6 FT 2 out of 2 Missed
+[90-89] (01:12) [QUE] Ej5 Def Rebound (Off:0 Def:3)
+[90-89] (00:59) [RAY] Gc7 Shooting Foul: 2Pt (3 PF)
+[91-89] (00:59) [QUE] Dg3 FT 1 out of 2 (17 PTS)
+[91-89] (00:59) [QUE] Dg3 FT 2 out of 2 Missed
+[91-89] (00:59) [RAY] Ea6 Def Rebound (Off:0 Def:4)
+[91-89] (00:59) [RAY] Sub(s) in: Fa3 | Sub(s) out: Gc7 
+[91-89] (00:51) [RAY] Jj3 3Pt Shot Missed
+[91-89] (00:51) [QUE] Ec2 Def Rebound (Off:3 Def:7)
+[91-89] (00:43) [QUE] Fa7 Jump Shot Missed
+[91-89] (00:43) [QUE] He5 Off Rebound (Off:2 Def:2)
+[91-89] (00:42) [QUE] He5 Put Back Shot Missed
+[91-89] (00:42) [RAY] Fd1 Def Rebound (Off:2 Def:7)
+[91-89] (00:31) [RAY] Ea6 Jump Shot Missed
+[91-89] (00:31) [QUE] He5 Def Rebound (Off:2 Def:3)
+[91-89] (00:12) [QUE] Dg3 3Pt Shot Missed
+[91-89] (00:12) [QUE] Ej5 Off Rebound (Off:1 Def:3)
+[91-89] (00:12) [QUE] Sub(s) in: Hi3 | Sub(s) out: Ec2 
+[91-89] (00:11) [RAY] Jj3 Shooting Foul: 2Pt (2 PF)
+[92-89] (00:11) [QUE] Hi3 FT 1 out of 2 (1 PTS)
+[93-89] (00:11) [QUE] Hi3 FT 2 out of 2 (2 PTS)
+[93-89] (00:04) [RAY] Ea6 3Pt Shot Missed
+[93-89] (00:04) [QUE] Fa7 Def Rebound (Off:0 Def:1)
+[93-89] (00:02) [RAY] Fd1 Shooting Foul: 2Pt (1 PF)
+[93-89] (00:02) [QUE] He5 FT 1 out of 2 Missed
+[94-89] (00:02) [QUE] He5 FT 2 out of 2 (1 PTS)
+[94-89] (00:00) [RAY] Fa3 3Pt Shot Missed
+[94-89] (00:00) [RAY] Ea6 Off Rebound (Off:1 Def:4)
+***End of the match***

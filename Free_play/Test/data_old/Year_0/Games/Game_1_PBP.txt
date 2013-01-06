@@ -1,0 +1,306 @@
+Year:0 Game:1 Type:RS BRE@CRO
+***Start of the match***
+***Start of the 1st Period***
+[2-0] (09:48) [CRO] Ia3 Jump Shot Made (2 PTS) Assist: Fj3 (1 AST)
+[2-0] (09:28) [CRO] Ia3 Shooting Foul: Inside (1 PF)
+[2-0] (09:28) [BRE] Ea5 FT 1 out of 2 Missed
+[2-0] (09:28) [BRE] Ea5 FT 2 out of 2 Missed
+[2-0] (09:28) [CRO] Ja3 Def Rebound (Off:0 Def:1)
+[2-0] (09:12) [CRO] Ja3 Jump Shot Missed
+[2-0] (09:12) [BRE] Ea5 Def Rebound (Off:0 Def:1)
+[2-0] (09:06) [BRE] Ie4 3Pt Shot Missed
+[2-0] (09:06) [CRO] Ie8 Def Rebound (Off:0 Def:1)
+[4-0] (08:51) [CRO] Fj3 Jump Shot Made (2 PTS)
+[4-2] (08:36) [BRE] Gc8 Inside Shot Made (2 PTS)
+[6-2] (08:22) [CRO] Ia3 Inside Shot Made (4 PTS) Assist: Fj3 (2 AST)
+[6-4] (08:15) [BRE] Gc8 Inside Shot Made (4 PTS) Assist: Jj5 (1 AST)
+[8-4] (07:55) [CRO] Fj3 Inside Shot Made (4 PTS)
+[8-6] (07:46) [BRE] Ea5 Inside Shot Made (2 PTS)
+[8-6] (07:32) [CRO] Fj3 Jump Shot Missed
+[8-6] (07:32) [BRE] Ea5 Def Rebound (Off:0 Def:2)
+[8-6] (07:16) [BRE] Hh9 Jump Shot Missed
+[8-6] (07:16) [CRO] Ia3 Def Rebound (Off:0 Def:1)
+[8-6] (07:10) [CRO] Ja3 Jump Shot Missed
+[8-6] (07:10) [BRE] Ea5 Def Rebound (Off:0 Def:3)
+[8-6] (06:55) [BRE] Ea5 Inside Shot Missed
+[8-6] (06:55) [BRE] Ea5 Off Rebound (Off:1 Def:3)
+[8-8] (06:32) [BRE] Gc8 Inside Shot Made (6 PTS)
+[8-8] (06:12) [CRO] Ja3 Inside Shot Missed
+[8-8] (06:12) [BRE] Ea5 Def Rebound (Off:1 Def:4)
+[8-8] (06:04) [CRO] Eg6 Shooting Foul: 3Pt (1 PF)
+[8-9] (06:04) [BRE] Ie4 FT 1 out of 3 (1 PTS)
+[8-10] (06:04) [BRE] Ie4 FT 2 out of 3 (2 PTS)
+[8-11] (06:04) [BRE] Ie4 FT 3 out of 3 (3 PTS)
+[8-11] (05:56) [CRO] Ja3 Jump Shot Missed
+[8-11] (05:56) [BRE] Gc8 Def Rebound (Off:0 Def:1)
+[8-14] (05:45) [BRE] Ie4 3Pt Shot Made (6 PTS) Assist: Gc8 (1 AST)
+[10-14] (05:33) [CRO] Ja3 Inside Shot Made (2 PTS)
+[10-16] (05:12) [BRE] Ea5 Inside Shot Made (4 PTS) Assist: Hh9 (1 AST)
+[10-16] (04:57) [CRO] Ia3 Jump Shot Missed
+[10-16] (04:57) [BRE] Gc8 Def Rebound (Off:0 Def:2)
+[10-16] (04:44) [BRE] Jj5 Inside Shot Missed
+[10-16] (04:44) [BRE] Ea5 Off Rebound (Off:2 Def:4)
+[10-16] (04:30) [BRE] Gc8 Jump Shot Missed
+[10-16] (04:30) [CRO] Eg6 Def Rebound (Off:0 Def:1)
+[13-16] (04:23) [CRO] Fj3 3Pt Shot Made (7 PTS)
+[13-16] (04:17) [BRE] Ie4 Inside Shot Missed
+[13-16] (04:17) [CRO] Fj3 Def Rebound (Off:0 Def:1)
+[15-16] (03:56) [CRO] Ja3 Inside Shot Made (4 PTS) Assist: Fj3 (3 AST)
+[15-16] (03:36) [BRE] Ie4 Inside Shot Missed
+[15-16] (03:36) [CRO] Ie8 Def Rebound (Off:0 Def:2)
+[17-16] (03:18) [CRO] Ie8 Jump Shot Made (2 PTS) Assist: Fj3 (4 AST)
+[17-16] (03:06) [BRE] Ie4 3Pt Shot Missed
+[17-16] (03:06) [BRE] Hh9 Off Rebound (Off:1 Def:0)
+[17-18] (02:59) [BRE] Gc8 Inside Shot Made (8 PTS) Assist: Hh9 (2 AST)
+[19-18] (02:53) [CRO] Ja3 Inside Shot Made (6 PTS) Assist: Fj3 (5 AST)
+[19-20] (02:30) [BRE] Ie4 Jump Shot Made (8 PTS) Assist: Jj5 (2 AST)
+[21-20] (02:23) [CRO] Ja3 Inside Shot Made (8 PTS)
+[21-20] (02:01) [BRE] Hh9 3Pt Shot Missed
+[21-20] (02:01) [CRO] Fj3 Def Rebound (Off:0 Def:2)
+[24-20] (01:48) [CRO] Fj3 3Pt Shot Made (10 PTS)
+[24-20] (01:31) [CRO] Ia3 Shooting Foul: Inside (2 PF)
+[24-21] (01:31) [BRE] Gc8 FT 1 out of 2 (9 PTS)
+[24-22] (01:31) [BRE] Gc8 FT 2 out of 2 (10 PTS)
+[27-22] (01:14) [CRO] Fj3 3Pt Shot Made (13 PTS)
+[27-22] (01:07) [CRO] Ja3 Shooting Foul: Inside (1 PF)
+[27-23] (01:07) [BRE] Ie4 FT 1 out of 2 (9 PTS)
+[27-23] (01:07) [BRE] Ie4 FT 2 out of 2 Missed
+[27-23] (01:07) [CRO] Ja3 Def Rebound (Off:0 Def:2)
+[29-23] (00:46) [CRO] Ie8 Inside Shot Made (4 PTS)
+[29-23] (00:38) [BRE] Ea5 Inside Shot Missed
+[29-23] (00:38) [CRO] Ja3 Def Rebound (Off:0 Def:3)
+[29-23] (00:32) [CRO] Fj3 3Pt Shot Missed
+[29-23] (00:32) [CRO] Ie8 Off Rebound (Off:1 Def:2)
+[31-23] (00:29) [CRO] Ie8 Put Back Shot Made (6 PTS)
+[31-25] (00:14) [BRE] Ea5 Inside Shot Made (6 PTS) Assist: Gc8 (2 AST)
+[33-25] (00:00) [CRO] Ja3 Inside Shot Made (10 PTS)
+***End of the 1st Period***
+***Start of the 2nd Period***
+[33-25] (09:40) [BRE] Ie4 Inside Shot Missed
+[33-25] (09:40) [CRO] Ja3 Def Rebound (Off:0 Def:4)
+[33-25] (09:25) [CRO] Ja3 Inside Shot Missed
+[33-25] (09:25) [CRO] Eg6 Off Rebound (Off:1 Def:1)
+[33-25] (09:17) [CRO] Eg6 3Pt Shot Missed
+[33-25] (09:17) [BRE] Ea5 Def Rebound (Off:2 Def:5)
+[33-25] (09:10) [BRE] Ea5 3Pt Shot Missed
+[33-25] (09:10) [CRO] Ja3 Def Rebound (Off:0 Def:5)
+[33-25] (09:03) [CRO] Fj3 Inside Shot Missed
+[33-25] (09:03) [BRE] Ie4 Def Rebound (Off:0 Def:1)
+[33-27] (08:46) [BRE] Ea5 Inside Shot Made (8 PTS) Assist: Jj5 (3 AST)
+[35-27] (08:34) [CRO] Ja3 Inside Shot Made (12 PTS)
+[35-30] (08:18) [BRE] Jj5 3Pt Shot Made (3 PTS) Assist: Hh9 (3 AST)
+[38-30] (08:06) [CRO] Fj3 3Pt Shot Made (16 PTS) Assist: Ja3 (1 AST)
+[38-30] (07:43) [CRO] Ia3 Shooting Foul: 3Pt (3 PF)
+[38-31] (07:43) [BRE] Hh9 FT 1 out of 3 (1 PTS)
+[38-32] (07:43) [BRE] Hh9 FT 2 out of 3 (2 PTS)
+[38-32] (07:43) [BRE] Hh9 FT 3 out of 3 Missed
+[38-32] (07:43) [CRO] Ia3 Def Rebound (Off:0 Def:2)
+[40-32] (07:22) [CRO] Ja3 Jump Shot Made (14 PTS) Assist: Ie8 (1 AST)
+[40-32] (07:11) [CRO] Eg6 Shooting Foul: Inside (2 PF)
+[40-33] (07:11) [BRE] Gc8 FT 1 out of 2 (11 PTS)
+[40-34] (07:11) [BRE] Gc8 FT 2 out of 2 (12 PTS)
+[42-34] (06:48) [CRO] Ja3 Inside Shot Made (16 PTS) Assist: Fj3 (6 AST)
+[42-36] (06:25) [BRE] Ie4 Inside Shot Made (11 PTS) Assist: Hh9 (4 AST)
+[42-36] (06:07) [CRO] Fj3 Inside Shot Missed
+[42-36] (06:07) [BRE] Hh9 Def Rebound (Off:1 Def:1)
+[42-38] (06:00) [BRE] Ea5 Inside Shot Made (10 PTS) Assist: Jj5 (4 AST)
+[44-38] (05:37) [CRO] Ia3 Inside Shot Made (6 PTS)
+[44-40] (05:24) [BRE] Gc8 Inside Shot Made (14 PTS) Assist: Hh9 (5 AST)
+[46-40] (05:06) [CRO] Ie8 Inside Shot Made (8 PTS) Assist: Eg6 (1 AST)
+[46-40] (04:45) [BRE] Ie4 3Pt Shot Missed
+[46-40] (04:45) [BRE] Ie4 Off Rebound (Off:1 Def:1)
+[46-43] (04:31) [BRE] Ie4 3Pt Shot Made (14 PTS) Assist: Jj5 (5 AST)
+[46-43] (04:18) [CRO] Fj3 Inside Shot Missed
+[46-43] (04:18) [BRE] Ie4 Def Rebound (Off:1 Def:2)
+[46-45] (03:55) [BRE] Ea5 Inside Shot Made (12 PTS) Assist: Jj5 (6 AST)
+[46-45] (03:32) [CRO] Ja3 Inside Shot Missed
+[46-45] (03:32) [BRE] Ea5 Def Rebound (Off:2 Def:6)
+[46-45] (03:25) [BRE] Gc8 3Pt Shot Missed
+[46-45] (03:25) [CRO] Eg6 Def Rebound (Off:1 Def:2)
+[49-45] (03:08) [CRO] Fj3 3Pt Shot Made (19 PTS)
+[49-45] (03:01) [CRO] Eg6 Shooting Foul: 2Pt (3 PF)
+[49-46] (03:01) [BRE] Ie4 FT 1 out of 2 (15 PTS)
+[49-46] (03:01) [BRE] Ie4 FT 2 out of 2 Missed
+[49-46] (03:01) [CRO] Ia3 Def Rebound (Off:0 Def:3)
+[49-46] (02:43) [BRE] Gc8 Shooting Foul: Inside (1 PF)
+[49-46] (02:43) [CRO] Ia3 FT 1 out of 2 Missed
+[50-46] (02:43) [CRO] Ia3 FT 2 out of 2 (7 PTS)
+[50-48] (02:20) [BRE] Gc8 Inside Shot Made (16 PTS)
+[52-48] (02:13) [CRO] Ie8 Inside Shot Made (10 PTS) Assist: Ia3 (1 AST)
+[52-50] (02:06) [BRE] Ie4 Inside Shot Made (17 PTS) Assist: Jj5 (7 AST)
+[55-50] (01:58) [CRO] Fj3 3Pt Shot Made (22 PTS)
+[55-52] (01:39) [BRE] Ea5 Inside Shot Made (14 PTS)
+[55-52] (01:16) [CRO] Ie8 Jump Shot Missed
+[55-52] (01:16) [BRE] Hh9 Def Rebound (Off:1 Def:2)
+[55-54] (01:10) [BRE] Ie4 Inside Shot Made (19 PTS)
+[55-54] (00:47) [CRO] Ie8 Inside Shot Missed
+[55-54] (00:47) [BRE] Hh9 Def Rebound (Off:1 Def:3)
+[55-56] (00:35) [BRE] Ea5 Inside Shot Made (16 PTS) Assist: Jj5 (8 AST)
+[55-56] (00:29) [CRO] Ie8 Inside Shot Missed
+[55-56] (00:29) [CRO] Eg6 Off Rebound (Off:2 Def:2)
+[55-56] (00:19) [CRO] Ja3 Jump Shot Missed
+[55-56] (00:19) [CRO] Ie8 Off Rebound (Off:2 Def:2)
+[55-56] (00:03) [BRE] Jj5 Shooting Foul: 2Pt (1 PF)
+[56-56] (00:03) [CRO] Ie8 FT 1 out of 2 (11 PTS)
+[56-56] (00:03) [CRO] Ie8 FT 2 out of 2 Missed
+[56-56] (00:03) [BRE] Gc8 Def Rebound (Off:0 Def:3)
+[56-58] (00:00) [BRE] Gc8 Inside Shot Made (18 PTS) Assist: Hh9 (6 AST)
+***End of the 2nd Period***
+***Start of the 3rd Period***
+[56-58] (09:45) [BRE] Hh9 3Pt Shot Missed
+[56-58] (09:45) [CRO] Ie8 Def Rebound (Off:2 Def:3)
+[56-58] (09:39) [CRO] Ia3 Jump Shot Missed
+[56-58] (09:39) [BRE] Hh9 Def Rebound (Off:1 Def:4)
+[56-58] (09:28) [BRE] Ea5 Inside Shot Missed
+[56-58] (09:28) [CRO] Ja3 Def Rebound (Off:0 Def:6)
+[56-58] (09:13) [CRO] Eg6 3Pt Shot Missed
+[56-58] (09:13) [CRO] Ja3 Off Rebound (Off:1 Def:6)
+[58-58] (08:51) [CRO] Fj3 Jump Shot Made (24 PTS) Assist: Ja3 (2 AST)
+[58-58] (08:43) [BRE] Hh9 3Pt Shot Missed
+[58-58] (08:43) [BRE] Ie4 Off Rebound (Off:2 Def:2)
+[58-61] (08:28) [BRE] Ie4 3Pt Shot Made (22 PTS) Assist: Jj5 (9 AST)
+[58-61] (08:13) [CRO] Ia3 Jump Shot Missed
+[58-61] (08:13) [BRE] Ie4 Def Rebound (Off:2 Def:3)
+[58-61] (08:02) [BRE] Gc8 Inside Shot Missed
+[58-61] (08:02) [CRO] Eg6 Def Rebound (Off:2 Def:3)
+[58-61] (07:46) [BRE] Hh9 Shooting Foul: Inside (1 PF)
+[59-61] (07:46) [CRO] Eg6 FT 1 out of 2 (1 PTS)
+[60-61] (07:46) [CRO] Eg6 FT 2 out of 2 (2 PTS)
+[60-61] (07:34) [BRE] Gc8 Inside Shot Missed
+[60-61] (07:34) [CRO] Ia3 Def Rebound (Off:0 Def:4)
+[60-61] (07:19) [CRO] Ia3 Jump Shot Missed
+[60-61] (07:19) [CRO] Ia3 Off Rebound (Off:1 Def:4)
+[60-61] (07:17) [CRO] Ia3 Put Back Shot Missed
+[60-61] (07:17) [CRO] Ie8 Off Rebound (Off:3 Def:3)
+[63-61] (06:54) [CRO] Eg6 3Pt Shot Made (5 PTS) Assist: Ia3 (2 AST)
+[63-64] (06:40) [BRE] Hh9 3Pt Shot Made (5 PTS) Assist: Jj5 (10 AST)
+[63-64] (06:17) [BRE] Ea5 Shooting Foul: Inside (1 PF)
+[64-64] (06:17) [CRO] Ia3 FT 1 out of 2 (8 PTS)
+[65-64] (06:17) [CRO] Ia3 FT 2 out of 2 (9 PTS)
+[65-66] (05:54) [BRE] Gc8 Inside Shot Made (20 PTS) Assist: Hh9 (7 AST)
+[65-66] (05:36) [CRO] Ie8 Inside Shot Missed
+[65-66] (05:36) [BRE] Gc8 Def Rebound (Off:0 Def:4)
+[65-66] (05:26) [CRO] Ia3 Shooting Foul: Inside (4 PF)
+[65-67] (05:26) [BRE] Gc8 FT 1 out of 2 (21 PTS)
+[65-68] (05:26) [BRE] Gc8 FT 2 out of 2 (22 PTS)
+[65-68] (05:10) [CRO] Ie8 Inside Shot Missed
+[65-68] (05:10) [BRE] Ea5 Def Rebound (Off:2 Def:7)
+[65-70] (04:50) [BRE] Jj5 Jump Shot Made (5 PTS) Assist: Gc8 (3 AST)
+[65-70] (04:30) [CRO] Fj3 Jump Shot Missed
+[65-70] (04:30) [BRE] Hh9 Def Rebound (Off:1 Def:5)
+[65-73] (04:23) [BRE] Jj5 3Pt Shot Made (8 PTS) Assist: Ie4 (1 AST)
+[67-73] (04:06) [CRO] Ia3 Inside Shot Made (11 PTS)
+[67-73] (03:58) [BRE] Hh9 Jump Shot Missed
+[67-73] (03:58) [CRO] Ja3 Def Rebound (Off:1 Def:7)
+[67-73] (03:50) [CRO] Eg6 Jump Shot Missed
+[67-73] (03:50) [CRO] Ja3 Off Rebound (Off:2 Def:7)
+[67-73] (03:39) [CRO] Ie8 3Pt Shot Missed
+[67-73] (03:39) [BRE] Ie4 Def Rebound (Off:2 Def:4)
+[67-73] (03:22) [BRE] Gc8 Inside Shot Missed
+[67-73] (03:22) [BRE] Ea5 Off Rebound (Off:3 Def:7)
+[67-73] (03:12) [BRE] Ea5 3Pt Shot Missed
+[67-73] (03:12) [BRE] Gc8 Off Rebound (Off:1 Def:4)
+[67-75] (03:11) [BRE] Gc8 Put Back Shot Made (24 PTS)
+[67-75] (02:49) [CRO] Ie8 Inside Shot Missed
+[67-75] (02:49) [BRE] Gc8 Def Rebound (Off:1 Def:5)
+[67-75] (02:29) [BRE] Gc8 Inside Shot Missed
+[67-75] (02:29) [CRO] Ie8 Def Rebound (Off:3 Def:4)
+[67-75] (02:20) [BRE] Hh9 Shooting Foul: 2Pt (2 PF)
+[68-75] (02:20) [CRO] Fj3 FT 1 out of 2 (25 PTS)
+[69-75] (02:20) [CRO] Fj3 FT 2 out of 2 (26 PTS)
+[69-75] (02:00) [BRE] Hh9 Jump Shot Missed
+[69-75] (02:00) [CRO] Eg6 Def Rebound (Off:2 Def:4)
+[69-75] (01:46) [CRO] Ie8 3Pt Shot Missed
+[69-75] (01:46) [CRO] Eg6 Off Rebound (Off:3 Def:4)
+[69-75] (01:45) [CRO] Eg6 Put Back Shot Missed
+[69-75] (01:45) [BRE] Ie4 Def Rebound (Off:2 Def:5)
+[69-75] (01:31) [BRE] Hh9 Inside Shot Missed
+[69-75] (01:31) [CRO] Eg6 Def Rebound (Off:3 Def:5)
+[69-75] (01:25) [CRO] Fj3 3Pt Shot Missed
+[69-75] (01:25) [CRO] Ia3 Off Rebound (Off:2 Def:4)
+[72-75] (01:13) [CRO] Fj3 3Pt Shot Made (29 PTS)
+[72-77] (01:03) [BRE] Ea5 Inside Shot Made (18 PTS)
+[74-77] (00:44) [CRO] Ja3 Inside Shot Made (18 PTS)
+[74-77] (00:34) [BRE] Hh9 Jump Shot Missed
+[74-77] (00:34) [BRE] Ea5 Off Rebound (Off:4 Def:7)
+[74-77] (00:12) [BRE] Hh9 3Pt Shot Missed
+[74-77] (00:12) [CRO] Fj3 Def Rebound (Off:0 Def:3)
+[76-77] (00:04) [CRO] Ja3 Inside Shot Made (20 PTS) Assist: Eg6 (2 AST)
+[76-79] (00:00) [BRE] Gc8 Inside Shot Made (26 PTS)
+***End of the 3rd Period***
+***Start of the 4th Period***
+[78-79] (09:52) [CRO] Ia3 Inside Shot Made (13 PTS)
+[78-79] (09:31) [BRE] Ea5 Inside Shot Missed
+[78-79] (09:31) [BRE] Jj5 Off Rebound (Off:1 Def:0)
+[78-79] (09:10) [BRE] Gc8 Inside Shot Missed
+[78-79] (09:10) [CRO] Ja3 Def Rebound (Off:2 Def:8)
+[81-79] (08:57) [CRO] Fj3 3Pt Shot Made (32 PTS)
+[81-81] (08:43) [BRE] Ea5 Inside Shot Made (20 PTS) Assist: Jj5 (11 AST)
+[81-81] (08:32) [CRO] Ie8 Inside Shot Missed
+[81-81] (08:32) [BRE] Gc8 Def Rebound (Off:1 Def:6)
+[81-81] (08:09) [CRO] Ia3 Shooting Foul: Inside (5 PF)
+[81-81] (08:09) [BRE] Ea5 FT 1 out of 2 Missed
+[81-82] (08:09) [BRE] Ea5 FT 2 out of 2 (21 PTS)
+[81-82] (07:48) [CRO] Ia3 Jump Shot Missed
+[81-82] (07:48) [CRO] Ie8 Off Rebound (Off:4 Def:4)
+[81-82] (07:45) [CRO] Ie8 Put Back Shot Missed
+[81-82] (07:45) [BRE] Ea5 Def Rebound (Off:4 Def:8)
+[81-84] (07:26) [BRE] Gc8 Inside Shot Made (28 PTS)
+[84-84] (07:09) [CRO] Fj3 3Pt Shot Made (35 PTS)
+[84-84] (06:51) [BRE] Jj5 Jump Shot Missed
+[84-84] (06:51) [CRO] Ja3 Def Rebound (Off:2 Def:9)
+[86-84] (06:30) [CRO] Ia3 Jump Shot Made (15 PTS) Assist: Fj3 (7 AST)
+[86-84] (06:24) [BRE] Hh9 Jump Shot Missed
+[86-84] (06:24) [BRE] Ie4 Off Rebound (Off:3 Def:5)
+[86-84] (06:16) [BRE] Gc8 Inside Shot Missed
+[86-84] (06:16) [CRO] Ja3 Def Rebound (Off:2 Def:10)
+[86-84] (05:59) [BRE] Ie4 Shooting Foul: Inside (1 PF)
+[87-84] (05:59) [CRO] Ia3 FT 1 out of 2 (16 PTS)
+[88-84] (05:59) [CRO] Ia3 FT 2 out of 2 (17 PTS)
+[88-84] (05:51) [CRO] Eg6 Shooting Foul: 3Pt (4 PF)
+[88-85] (05:51) [BRE] Ie4 FT 1 out of 3 (23 PTS)
+[88-86] (05:51) [BRE] Ie4 FT 2 out of 3 (24 PTS)
+[88-87] (05:51) [BRE] Ie4 FT 3 out of 3 (25 PTS)
+[88-87] (05:30) [CRO] Fj3 3Pt Shot Missed
+[88-87] (05:30) [CRO] Eg6 Off Rebound (Off:4 Def:5)
+[88-87] (05:18) [CRO] Ia3 Inside Shot Missed
+[88-87] (05:18) [BRE] Ie4 Def Rebound (Off:3 Def:6)
+[88-87] (05:03) [BRE] Hh9 Jump Shot Missed
+[88-87] (05:03) [BRE] Gc8 Off Rebound (Off:2 Def:6)
+[88-87] (04:49) [BRE] Ie4 Inside Shot Missed
+[88-87] (04:49) [BRE] Ea5 Off Rebound (Off:5 Def:8)
+[88-89] (04:46) [BRE] Ea5 Put Back Shot Made (23 PTS)
+[88-89] (04:23) [CRO] Ja3 Jump Shot Missed
+[88-89] (04:23) [BRE] Gc8 Def Rebound (Off:2 Def:7)
+[88-89] (04:09) [BRE] Ea5 Inside Shot Missed
+[88-89] (04:09) [CRO] Eg6 Def Rebound (Off:4 Def:6)
+[91-89] (04:01) [CRO] Fj3 3Pt Shot Made (38 PTS) Assist: Ia3 (3 AST)
+[91-89] (03:44) [BRE] Hh9 Inside Shot Missed
+[91-89] (03:44) [CRO] Ie8 Def Rebound (Off:4 Def:5)
+[93-89] (03:32) [CRO] Ia3 Jump Shot Made (19 PTS) Assist: Fj3 (8 AST)
+[93-89] (03:17) [BRE] Gc8 Inside Shot Missed
+[93-89] (03:17) [CRO] Ja3 Def Rebound (Off:2 Def:11)
+[93-89] (03:11) [CRO] Ia3 Jump Shot Missed
+[93-89] (03:11) [BRE] Ie4 Def Rebound (Off:3 Def:7)
+[93-89] (02:57) [BRE] Gc8 Inside Shot Missed
+[93-89] (02:57) [BRE] Ie4 Off Rebound (Off:4 Def:7)
+[93-89] (02:42) [BRE] Hh9 3Pt Shot Missed
+[93-89] (02:42) [CRO] Ja3 Def Rebound (Off:2 Def:12)
+[93-89] (02:26) [CRO] Fj3 Jump Shot Missed
+[93-89] (02:26) [BRE] Ea5 Def Rebound (Off:5 Def:9)
+[93-89] (02:10) [BRE] Gc8 Inside Shot Missed
+[93-89] (02:10) [CRO] Fj3 Def Rebound (Off:0 Def:4)
+[95-89] (01:57) [CRO] Ja3 Inside Shot Made (22 PTS) Assist: Ie8 (2 AST)
+[95-89] (01:44) [BRE] Ie4 3Pt Shot Missed
+[95-89] (01:44) [CRO] Ja3 Def Rebound (Off:2 Def:13)
+[95-89] (01:31) [CRO] Ia3 Jump Shot Missed
+[95-89] (01:31) [BRE] Ea5 Def Rebound (Off:5 Def:10)
+[95-91] (01:20) [BRE] Ie4 Inside Shot Made (27 PTS) Assist: Jj5 (12 AST)
+[97-91] (01:03) [CRO] Fj3 Jump Shot Made (40 PTS)
+[97-91] (00:48) [BRE] Ie4 Inside Shot Missed
+[97-91] (00:48) [CRO] Eg6 Def Rebound (Off:4 Def:7)
+[99-91] (00:24) [CRO] Ia3 Inside Shot Made (21 PTS) Assist: Fj3 (9 AST)
+[99-91] (00:06) [BRE] Hh9 Jump Shot Missed
+[99-91] (00:06) [CRO] Eg6 Def Rebound (Off:4 Def:8)
+[102-91] (00:00) [CRO] Ia3 3Pt Shot Made (24 PTS) Assist: Fj3 (10 AST)
+***End of the match***

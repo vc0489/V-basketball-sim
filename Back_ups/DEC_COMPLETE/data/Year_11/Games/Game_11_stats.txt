@@ -1,0 +1,32 @@
+Year:11 Game:11 Type:RS CRO@WIL
+Cromwell CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD
+STARTERS
+     Ie8  2400   9  15   6  10   3   5   0   0   1   1   5   8   1   2  2  8 10   0  0  0  21  10   2 -15  95 110   16    1   0   0   0   0
+     Ji7  2400   8  17   6  13   2   4   0   0   0   0   3   6   3   7  1  1  2  18  2  0  18   6   0 -15  95 110   58   41   0   2   0   0
+    Kc11  2400   9  17   9  16   0   1   1   4   2   2   8  12   1   4  3  9 12   2  1  2  19  17   6 -15  95 110   21    2   1   0   2   0
+     Ja3  1752   7  12   7  12   0   0   2   2   0   0   4   7   3   5  2  3  5   1  2  1  16  10   2 -20  63  83   18    5   2   0   1   0
+     Eg6   844   0   4   0   0   0   4   0   0   0   0   0   0   0   0  0  3  3   0  0  0   0   0   0   1  31  30    4    0   0   0   0   0
+BENCH
+     If1  1142   5   9   1   1   4   8   1   2   0   0   0   0   1   1  0  1  1   4  1  1  15   0   0  -5  49  54   14    4   1   0   0   1
+     Jc5   648   3   5   3   5   0   0   0   0   0   0   1   2   2   3  1  1  2   0  0  0   6   2   0   5  32  27    5    0   0   0   0   0
+     Fj3   414   0   3   0   1   0   2   0   0   0   0   0   1   0   0  0  0  0   2  0  0   0   0   0 -11  15  26    5    2   0   0   0   0
+Fi3      DNP-CD
+He10     DNP-CD
+Ia3      DNP-CD
+Kf2      DNP-CD
+Wilson CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD
+STARTERS
+   Gi3  2400  10  19   7  15   3   4   2   2   0   0   2   4   5  11  1  3  4  18  1  1  25   4   0  15 110  95   50   30   0   1   0   1
+   Hc5  2400  11  17  11  17   0   0   4   4   0   2   8  14   3   3  2  5  7   1  0  2  26  20   4  15 110  95   21    2   0   0   2   0
+   Ic4  2400   6  12   6  11   0   1   3   4   0   0   6  11   0   0  4 10 14   0  2  2  15  15   0  15 110  95   14    0   2   0   2   0
+   Jg6  1463   4   9   4   8   0   1   0   0   0   0   1   4   3   4  0  6  6   3  1  0   8   2   2   3  63  60   14    5   1   0   0   0
+   Hf1   600   2   7   1   3   1   4   0   0   0   1   0   2   1   1  2  1  3   1  0  0   5   0   0  -3  22  25    8    1   0   0   0   0
+BENCH
+   He2  1800   8  10   6   8   2   2   3   3   0   0   2   2   4   6  1  2  3   1  0  1  21   4   0  18  88  70   12    1   0   0   0   1
+   Ei5   937   4   6   2   3   2   3   0   0   0   0   1   1   1   2  0  6  6   3  0  0  10   2   2  12  47  35   12    6   0   0   0   0
+Ea2    DNP-CD
+Ee3    DNP-CD
+Fj6    DNP-CD
+Jh6    DNP-CD
+Ka4    DNP-CD
+Kh2    DNP-CD

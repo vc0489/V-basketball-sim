@@ -1,0 +1,7 @@
+DReb improved by 2.4 @Y11-D18-RSG1
+InFR regressed by -2.1 @Y11-D18-RSG1
+InPro changed by -0.7 @Y11-D28-RSG11
+2JEff improved by 1 @Y11-D31-RSG14
+2JEff regressed by -1.6 @Y11-D35-RSG18
+InEff improved by 2.0 @Y11-D42-RSG25
+PerDef improved by 1 @Y11-D43-RSG26

@@ -1,0 +1,349 @@
+Year:11 Game:None Type:ASG ALP@BET
+***Start of the match***
+***Start of the 1st Period***
+[0-0] (09:47) [BET] Ha5 Jump Shot Missed
+[0-0] (09:47) [BET] Ge7 Off Rebound (Off:1 Def:0)
+[0-0] (09:36) [BET] Eh1 3Pt Shot Missed
+[0-0] (09:36) [ALP] Ie4 Def Rebound (Off:0 Def:1)
+[0-2] (09:29) [ALP] Ic4 Inside Shot Made (2 PTS)
+[0-2] (09:21) [BET] Eh1 3Pt Shot Missed
+[0-2] (09:21) [ALP] Ic4 Def Rebound (Off:0 Def:1)
+[0-4] (09:02) [ALP] Ic4 Inside Shot Made (4 PTS)
+[0-4] (08:55) [BET] Gc7 Jump Shot Missed
+[0-4] (08:55) [ALP] Ic4 Def Rebound (Off:0 Def:2)
+[0-4] (08:45) [ALP] Ea5 Inside Shot Missed
+[0-4] (08:45) [ALP] Ic4 Off Rebound (Off:1 Def:2)
+[0-6] (08:42) [ALP] Ic4 Put Back Shot Made (6 PTS)
+[2-6] (08:19) [BET] Ge7 Inside Shot Made (2 PTS) Assist: Gj1 (1 AST)
+[2-8] (08:07) [ALP] Dg3 Inside Shot Made (2 PTS) Assist: Ej5 (1 AST)
+[4-8] (07:52) [BET] Gc7 Inside Shot Made (2 PTS)
+[4-8] (07:30) [ALP] Ic4 Inside Shot Missed
+[4-8] (07:30) [BET] Gc7 Def Rebound (Off:0 Def:1)
+[7-8] (07:12) [BET] Gj1 3Pt Shot Made (3 PTS)
+[7-10] (07:05) [ALP] Dg3 Inside Shot Made (4 PTS) Assist: Ej5 (2 AST)
+[9-10] (06:52) [BET] Gc7 Inside Shot Made (4 PTS)
+[9-12] (06:46) [ALP] Dg3 Jump Shot Made (6 PTS)
+[9-12] (06:25) [BET] Ha5 Inside Shot Missed
+[9-12] (06:25) [BET] Ha5 Off Rebound (Off:1 Def:0)
+[9-12] (06:22) [ALP] Ie4 Shooting Foul: Inside (1 PF)
+[9-12] (06:22) [BET] Ha5 FT 1 out of 2 Missed
+[10-12] (06:22) [BET] Ha5 FT 2 out of 2 (1 PTS)
+[10-12] (06:08) [ALP] Ej5 Jump Shot Missed
+[10-12] (06:08) [BET] Gc7 Def Rebound (Off:0 Def:2)
+[10-12] (05:49) [ALP] Ic4 Shooting Foul: 3Pt (1 PF)
+[10-12] (05:49) [BET] Gj1 FT 1 out of 3 Missed
+[11-12] (05:49) [BET] Gj1 FT 2 out of 3 (4 PTS)
+[12-12] (05:49) [BET] Gj1 FT 3 out of 3 (5 PTS)
+[12-14] (05:41) [ALP] Ic4 Inside Shot Made (8 PTS) Assist: Ej5 (3 AST)
+[14-14] (05:33) [BET] Ha5 Inside Shot Made (3 PTS) Assist: Gc7 (1 AST)
+[14-14] (05:15) [ALP] Dg3 Jump Shot Missed
+[14-14] (05:15) [BET] Ha5 Def Rebound (Off:1 Def:1)
+[14-14] (05:00) [ALP] Ea5 Shooting Foul: Inside (1 PF)
+[15-14] (05:00) [BET] Gj1 FT 1 out of 2 (6 PTS)
+[16-14] (05:00) [BET] Gj1 FT 2 out of 2 (7 PTS)
+[16-17] (04:44) [ALP] Ie4 3Pt Shot Made (3 PTS) Assist: Ej5 (4 AST)
+[16-17] (04:29) [BET] Eh1 3Pt Shot Missed
+[16-17] (04:29) [ALP] Ea5 Def Rebound (Off:0 Def:1)
+[16-19] (04:22) [ALP] Ic4 Inside Shot Made (10 PTS) Assist: Ej5 (5 AST)
+[16-19] (04:11) [BET] Gj1 Jump Shot Missed
+[16-19] (04:11) [ALP] Ea5 Def Rebound (Off:0 Def:2)
+[16-19] (04:04) [ALP] Dg3 3Pt Shot Missed
+[16-19] (04:04) [ALP] Ic4 Off Rebound (Off:2 Def:2)
+[16-19] (03:44) [BET] Ha5 Shooting Foul: Inside (1 PF)
+[16-20] (03:44) [ALP] Ie4 FT 1 out of 2 (4 PTS)
+[16-21] (03:44) [ALP] Ie4 FT 2 out of 2 (5 PTS)
+[16-21] (03:23) [BET] Gc7 Jump Shot Missed
+[16-21] (03:23) [BET] Eh1 Off Rebound (Off:1 Def:0)
+[16-21] (03:11) [BET] Ge7 Jump Shot Missed
+[16-21] (03:11) [ALP] Ie4 Def Rebound (Off:0 Def:2)
+[16-21] (02:52) [ALP] Ej5 3Pt Shot Missed
+[16-21] (02:52) [BET] Gc7 Def Rebound (Off:0 Def:3)
+[16-21] (02:52) [BET] Timeout
+[16-21] (02:52) [ALP] Sub(s) in: Ei5 Ha2 | Sub(s) out: Ej5 Ea5 
+[16-21] (02:52) [BET] Sub(s) in: Eg3 Ga2 | Sub(s) out: Eh1 Ha5 
+[16-21] (02:40) [BET] Gj1 3Pt Shot Missed
+[16-21] (02:40) [ALP] Ie4 Def Rebound (Off:0 Def:3)
+[16-21] (02:17) [ALP] Ei5 3Pt Shot Missed
+[16-21] (02:17) [BET] Gc7 Def Rebound (Off:0 Def:4)
+[16-21] (02:01) [BET] Ge7 3Pt Shot Missed
+[16-21] (02:01) [ALP] Ic4 Def Rebound (Off:2 Def:3)
+[16-23] (01:44) [ALP] Ic4 Inside Shot Made (12 PTS)
+[18-23] (01:25) [BET] Ga2 Inside Shot Made (2 PTS) Assist: Gj1 (2 AST)
+[18-23] (01:15) [ALP] Ie4 3Pt Shot Missed
+[18-23] (01:15) [BET] Ge7 Def Rebound (Off:1 Def:1)
+[18-23] (01:06) [BET] Eg3 Jump Shot Missed
+[18-23] (01:06) [ALP] Ie4 Def Rebound (Off:0 Def:4)
+[18-23] (00:54) [ALP] Dg3 Inside Shot Missed
+[18-23] (00:54) [BET] Ga2 Def Rebound (Off:0 Def:1)
+[18-23] (00:41) [BET] Ga2 Jump Shot Missed
+[18-23] (00:41) [ALP] Ha2 Def Rebound (Off:0 Def:1)
+[18-23] (00:29) [ALP] Dg3 Jump Shot Missed
+[18-23] (00:29) [ALP] Dg3 Off Rebound (Off:1 Def:0)
+[18-26] (00:06) [ALP] Ie4 3Pt Shot Made (8 PTS) Assist: Ei5 (1 AST)
+[18-26] (00:00) [BET] Gc7 Jump Shot Missed
+[18-26] (00:00) [ALP] Ha2 Def Rebound (Off:0 Def:2)
+***End of the 1st Period***
+[ALP] Sub(s) in: Hc5 | Sub(s) out: Dg3 
+[BET] Sub(s) in: Ia7 | Sub(s) out: Gc7 
+***Start of the 2nd Period***
+[18-28] (09:44) [ALP] Ie4 Inside Shot Made (10 PTS) Assist: Hc5 (1 AST)
+[18-28] (09:38) [BET] Ia7 Inside Shot Missed
+[18-28] (09:38) [ALP] Ha2 Def Rebound (Off:0 Def:3)
+[18-30] (09:31) [ALP] Ic4 Inside Shot Made (14 PTS) Assist: Ei5 (2 AST)
+[20-30] (09:13) [BET] Ia7 Inside Shot Made (2 PTS) Assist: Gj1 (3 AST)
+[20-30] (09:07) [BET] Gj1 Shooting Foul: Inside (1 PF)
+[20-31] (09:07) [ALP] Ic4 FT 1 out of 2 (15 PTS)
+[20-32] (09:07) [ALP] Ic4 FT 2 out of 2 (16 PTS)
+[23-32] (08:44) [BET] Eg3 3Pt Shot Made (3 PTS)
+[23-32] (08:30) [ALP] Ha2 Jump Shot Missed
+[23-32] (08:30) [BET] Ge7 Def Rebound (Off:1 Def:2)
+[25-32] (08:09) [BET] Ge7 Jump Shot Made (4 PTS)
+[25-34] (07:56) [ALP] Ha2 Jump Shot Made (2 PTS) Assist: Ei5 (3 AST)
+[27-34] (07:45) [BET] Eg3 Inside Shot Made (5 PTS) Assist: Gj1 (4 AST)
+[27-34] (07:33) [ALP] Ie4 Inside Shot Missed
+[27-34] (07:33) [BET] Ga2 Def Rebound (Off:0 Def:2)
+[27-34] (07:24) [BET] Gj1 3Pt Shot Missed
+[27-34] (07:24) [ALP] Ic4 Def Rebound (Off:2 Def:4)
+[27-36] (07:13) [ALP] Ic4 Inside Shot Made (18 PTS) Assist: Hc5 (2 AST)
+[27-36] (06:53) [ALP] Ei5 Shooting Foul: 3Pt (1 PF)
+[28-36] (06:53) [BET] Gj1 FT 1 out of 3 (8 PTS)
+[29-36] (06:53) [BET] Gj1 FT 2 out of 3 (9 PTS)
+[30-36] (06:53) [BET] Gj1 FT 3 out of 3 (10 PTS)
+[30-36] (06:38) [BET] Ge7 Shooting Foul: Inside (1 PF)
+[30-37] (06:38) [ALP] Ha2 FT 1 out of 2 (3 PTS)
+[30-37] (06:38) [ALP] Ha2 FT 2 out of 2 Missed
+[30-37] (06:38) [BET] Ia7 Def Rebound (Off:0 Def:1)
+[30-37] (06:18) [BET] Eg3 Inside Shot Missed
+[30-37] (06:18) [ALP] Ei5 Def Rebound (Off:0 Def:1)
+[30-37] (06:07) [ALP] Ie4 Inside Shot Missed
+[30-37] (06:07) [BET] Ia7 Def Rebound (Off:0 Def:2)
+[32-37] (05:45) [BET] Ge7 Jump Shot Made (6 PTS) Assist: Gj1 (5 AST)
+[32-37] (05:31) [BET] Ia7 Shooting Foul: Inside (1 PF)
+[32-37] (05:31) [ALP] Ic4 FT 1 out of 2 Missed
+[32-37] (05:31) [ALP] Ic4 FT 2 out of 2 Missed
+[32-37] (05:31) [ALP] Ha2 Off Rebound (Off:1 Def:3)
+[32-39] (05:23) [ALP] Hc5 Inside Shot Made (2 PTS)
+[35-39] (05:04) [BET] Eg3 3Pt Shot Made (8 PTS) Assist: Gj1 (6 AST)
+[35-39] (04:57) [ALP] Hc5 Inside Shot Missed
+[35-39] (04:57) [ALP] Ic4 Off Rebound (Off:3 Def:4)
+[35-39] (04:36) [ALP] Ic4 Inside Shot Missed
+[35-39] (04:36) [BET] Ia7 Def Rebound (Off:0 Def:3)
+[35-39] (04:36) [BET] Timeout
+[35-39] (04:36) [ALP] Sub(s) in: Ea5 Ej5 | Sub(s) out: Ic4 Ie4 
+[35-39] (04:36) [BET] Sub(s) in: Eh1 Ha5 | Sub(s) out: Ge7 Gj1 
+[37-39] (04:13) [BET] Ia7 Inside Shot Made (4 PTS) Assist: Eh1 (1 AST)
+[37-41] (03:56) [ALP] Ha2 Inside Shot Made (5 PTS) Assist: Ej5 (6 AST)
+[37-41] (03:34) [BET] Ha5 Inside Shot Missed
+[37-41] (03:34) [BET] Eh1 Off Rebound (Off:2 Def:0)
+[39-41] (03:22) [BET] Eg3 Jump Shot Made (10 PTS)
+[39-44] (03:13) [ALP] Ej5 3Pt Shot Made (3 PTS)
+[41-44] (02:50) [BET] Eg3 Jump Shot Made (12 PTS) Assist: Eh1 (2 AST)
+[41-44] (02:32) [BET] Ha5 Shooting Foul: Inside (2 PF)
+[41-44] (02:32) [ALP] Ea5 FT 1 out of 2 Missed
+[41-44] (02:32) [ALP] Ea5 FT 2 out of 2 Missed
+[41-44] (02:32) [ALP] Ea5 Off Rebound (Off:1 Def:2)
+[41-44] (02:30) [ALP] Ea5 Put Back Shot Missed
+[41-44] (02:30) [BET] Ia7 Def Rebound (Off:0 Def:4)
+[44-44] (02:23) [BET] Eh1 3Pt Shot Made (3 PTS)
+[44-44] (02:13) [ALP] Ea5 Inside Shot Missed
+[44-44] (02:13) [BET] Eh1 Def Rebound (Off:2 Def:1)
+[44-44] (02:07) [ALP] Ej5 Shooting Foul: 3Pt (1 PF)
+[45-44] (02:07) [BET] Eg3 FT 1 out of 3 (13 PTS)
+[45-44] (02:07) [BET] Eg3 FT 2 out of 3 Missed
+[46-44] (02:07) [BET] Eg3 FT 3 out of 3 (14 PTS)
+[46-46] (01:46) [ALP] Ea5 Inside Shot Made (2 PTS)
+[46-46] (01:33) [ALP] Ei5 Shooting Foul: 3Pt (2 PF)
+[46-46] (01:33) [BET] Eh1 FT 1 out of 3 Missed
+[47-46] (01:33) [BET] Eh1 FT 2 out of 3 (4 PTS)
+[48-46] (01:33) [BET] Eh1 FT 3 out of 3 (5 PTS)
+[48-48] (01:26) [ALP] Ea5 Inside Shot Made (4 PTS) Assist: Ej5 (7 AST)
+[48-48] (01:16) [BET] Eh1 3Pt Shot Missed
+[48-48] (01:16) [ALP] Ea5 Def Rebound (Off:1 Def:3)
+[48-50] (01:09) [ALP] Ea5 Inside Shot Made (6 PTS)
+[48-50] (01:00) [BET] Ha5 Inside Shot Missed
+[48-50] (01:00) [ALP] Ha2 Def Rebound (Off:1 Def:4)
+[48-50] (00:50) [ALP] Ea5 Inside Shot Missed
+[48-50] (00:50) [BET] Ha5 Def Rebound (Off:1 Def:2)
+[48-50] (00:36) [ALP] Ej5 Shooting Foul: 3Pt (2 PF)
+[49-50] (00:36) [BET] Eh1 FT 1 out of 3 (6 PTS)
+[50-50] (00:36) [BET] Eh1 FT 2 out of 3 (7 PTS)
+[50-50] (00:36) [BET] Eh1 FT 3 out of 3 Missed
+[50-50] (00:36) [BET] Ia7 Off Rebound (Off:1 Def:4)
+[50-50] (00:34) [ALP] Ei5 Shooting Foul: Inside (3 PF)
+[51-50] (00:34) [BET] Ia7 FT 1 out of 2 (5 PTS)
+[52-50] (00:34) [BET] Ia7 FT 2 out of 2 (6 PTS)
+[52-52] (00:21) [ALP] Ha2 Inside Shot Made (7 PTS) Assist: Ej5 (8 AST)
+[52-52] (00:00) [BET] Ha5 Inside Shot Missed
+[52-52] (00:00) [ALP] Ea5 Def Rebound (Off:1 Def:4)
+***End of the 2nd Period***
+[ALP] Sub(s) in: Dg3 Ic4 Ie4 | Sub(s) out: Ei5 Ha2 Hc5 
+[BET] Sub(s) in: Gj1 Ge7 Gc7 | Sub(s) out: Ga2 Ia7 Eh1 
+***Start of the 3rd Period***
+[52-52] (09:45) [ALP] Ej5 Inside Shot Missed
+[52-52] (09:45) [ALP] Ic4 Off Rebound (Off:4 Def:4)
+[52-55] (09:32) [ALP] Dg3 3Pt Shot Made (9 PTS) Assist: Ej5 (9 AST)
+[54-55] (09:10) [BET] Eg3 Inside Shot Made (16 PTS)
+[54-55] (08:54) [BET] Ha5 Shooting Foul: Inside (3 PF)
+[54-56] (08:54) [ALP] Dg3 FT 1 out of 2 (10 PTS)
+[54-57] (08:54) [ALP] Dg3 FT 2 out of 2 (11 PTS)
+[56-57] (08:47) [BET] Gc7 Inside Shot Made (6 PTS) Assist: Eg3 (1 AST)
+[56-57] (08:26) [ALP] Ej5 3Pt Shot Missed
+[56-57] (08:26) [BET] Ha5 Def Rebound (Off:1 Def:3)
+[56-57] (08:05) [BET] Gc7 Jump Shot Missed
+[56-57] (08:05) [ALP] Ie4 Def Rebound (Off:0 Def:5)
+[56-60] (07:49) [ALP] Ej5 3Pt Shot Made (6 PTS)
+[56-60] (07:35) [BET] Gj1 3Pt Shot Missed
+[56-60] (07:35) [ALP] Ea5 Def Rebound (Off:1 Def:5)
+[56-60] (07:27) [ALP] Ea5 Inside Shot Missed
+[56-60] (07:27) [BET] Ha5 Def Rebound (Off:1 Def:4)
+[56-60] (07:21) [ALP] Dg3 Shooting Foul: 2Pt (1 PF)
+[57-60] (07:21) [BET] Gj1 FT 1 out of 2 (11 PTS)
+[58-60] (07:21) [BET] Gj1 FT 2 out of 2 (12 PTS)
+[58-63] (06:59) [ALP] Ej5 3Pt Shot Made (9 PTS) Assist: Dg3 (1 AST)
+[58-63] (06:38) [BET] Gj1 Jump Shot Missed
+[58-63] (06:38) [ALP] Ea5 Def Rebound (Off:1 Def:6)
+[58-65] (06:30) [ALP] Ic4 Inside Shot Made (20 PTS) Assist: Ej5 (10 AST)
+[61-65] (06:09) [BET] Gj1 3Pt Shot Made (15 PTS) Assist: Ge7 (1 AST)
+[61-67] (05:54) [ALP] Ie4 Inside Shot Made (12 PTS) Assist: Dg3 (2 AST)
+[64-67] (05:40) [BET] Gj1 3Pt Shot Made (18 PTS) Assist: Eg3 (2 AST)
+[64-67] (05:19) [ALP] Ic4 Inside Shot Missed
+[64-67] (05:19) [ALP] Ej5 Off Rebound (Off:1 Def:0)
+[64-69] (05:18) [ALP] Ej5 Put Back Shot Made (11 PTS)
+[66-69] (04:57) [BET] Gc7 Inside Shot Made (8 PTS)
+[66-69] (04:35) [ALP] Ie4 Inside Shot Missed
+[66-69] (04:35) [BET] Gc7 Def Rebound (Off:0 Def:5)
+[68-69] (04:26) [BET] Gj1 Inside Shot Made (20 PTS)
+[68-72] (04:11) [ALP] Ie4 3Pt Shot Made (15 PTS) Assist: Ej5 (11 AST)
+[68-72] (03:57) [ALP] Dg3 Shooting Foul: 3Pt (2 PF)
+[69-72] (03:57) [BET] Gj1 FT 1 out of 3 (21 PTS)
+[70-72] (03:57) [BET] Gj1 FT 2 out of 3 (22 PTS)
+[71-72] (03:57) [BET] Gj1 FT 3 out of 3 (23 PTS)
+[71-72] (03:46) [BET] Ge7 Shooting Foul: Inside (2 PF)
+[71-73] (03:46) [ALP] Ea5 FT 1 out of 2 (7 PTS)
+[71-74] (03:46) [ALP] Ea5 FT 2 out of 2 (8 PTS)
+[73-74] (03:39) [BET] Gc7 Inside Shot Made (10 PTS) Assist: Gj1 (7 AST)
+[73-76] (03:33) [ALP] Ea5 Inside Shot Made (10 PTS) Assist: Ej5 (12 AST)
+[75-76] (03:16) [BET] Ha5 Inside Shot Made (5 PTS) Assist: Gj1 (8 AST)
+[75-78] (02:58) [ALP] Ic4 Inside Shot Made (22 PTS) Assist: Ej5 (13 AST)
+[75-78] (02:58) [BET] Timeout
+[75-78] (02:58) [ALP] Sub(s) in: Ha2 | Sub(s) out: Ea5 
+[75-78] (02:58) [BET] Sub(s) in: Eh1 | Sub(s) out: Ha5 
+[75-78] (02:47) [BET] Gj1 3Pt Shot Missed
+[75-78] (02:47) [ALP] Ic4 Def Rebound (Off:4 Def:5)
+[75-78] (02:36) [ALP] Dg3 Inside Shot Missed
+[75-78] (02:36) [ALP] Ej5 Off Rebound (Off:2 Def:0)
+[75-78] (02:23) [BET] Eg3 Shooting Foul: Inside (1 PF)
+[75-79] (02:23) [ALP] Ha2 FT 1 out of 2 (8 PTS)
+[75-80] (02:23) [ALP] Ha2 FT 2 out of 2 (9 PTS)
+[75-80] (02:15) [BET] Gj1 Inside Shot Missed
+[75-80] (02:15) [ALP] Ic4 Def Rebound (Off:4 Def:6)
+[75-83] (02:07) [ALP] Ie4 3Pt Shot Made (18 PTS) Assist: Ej5 (14 AST)
+[78-83] (01:52) [BET] Eg3 3Pt Shot Made (19 PTS) Assist: Gj1 (9 AST)
+[78-83] (01:35) [BET] Eg3 Shooting Foul: 3Pt (2 PF)
+[78-84] (01:35) [ALP] Dg3 FT 1 out of 3 (12 PTS)
+[78-85] (01:35) [ALP] Dg3 FT 2 out of 3 (13 PTS)
+[78-86] (01:35) [ALP] Dg3 FT 3 out of 3 (14 PTS)
+[78-86] (01:15) [BET] Eg3 Inside Shot Missed
+[78-86] (01:15) [ALP] Ie4 Def Rebound (Off:0 Def:6)
+[78-86] (01:09) [ALP] Dg3 3Pt Shot Missed
+[78-86] (01:09) [ALP] Ic4 Off Rebound (Off:5 Def:6)
+[78-88] (00:57) [ALP] Dg3 Inside Shot Made (16 PTS)
+[81-88] (00:44) [BET] Gj1 3Pt Shot Made (26 PTS) Assist: Eh1 (3 AST)
+[81-90] (00:25) [ALP] Ha2 Inside Shot Made (11 PTS) Assist: Ej5 (15 AST)
+[81-90] (00:10) [BET] Gc7 3Pt Shot Missed
+[81-90] (00:10) [ALP] Dg3 Def Rebound (Off:1 Def:1)
+[81-90] (00:00) [BET] Gc7 Shooting Foul: Inside (1 PF)
+[81-91] (00:00) [ALP] Ha2 FT 1 out of 2 (12 PTS)
+[81-92] (00:00) [ALP] Ha2 FT 2 out of 2 (13 PTS)
+***End of the 3rd Period***
+[ALP] Sub(s) in: Hc5 Ei5 | Sub(s) out: Dg3 Ic4 
+[BET] Sub(s) in: Ga2 Ia7 | Sub(s) out: Gj1 Ge7 
+***Start of the 4th Period***
+[81-92] (09:43) [ALP] Ej5 Shooting Foul: 2Pt (3 PF)
+[82-92] (09:43) [BET] Eg3 FT 1 out of 2 (20 PTS)
+[83-92] (09:43) [BET] Eg3 FT 2 out of 2 (21 PTS)
+[83-92] (09:37) [BET] Eg3 Shooting Foul: Inside (3 PF)
+[83-93] (09:37) [ALP] Hc5 FT 1 out of 2 (3 PTS)
+[83-94] (09:37) [ALP] Hc5 FT 2 out of 2 (4 PTS)
+[83-94] (09:22) [BET] Eh1 3Pt Shot Missed
+[83-94] (09:22) [ALP] Ie4 Def Rebound (Off:0 Def:7)
+[83-96] (09:03) [ALP] Ha2 Inside Shot Made (15 PTS) Assist: Ej5 (16 AST)
+[83-96] (08:55) [ALP] Ie4 Shooting Foul: 3Pt (2 PF)
+[84-96] (08:55) [BET] Eh1 FT 1 out of 3 (8 PTS)
+[85-96] (08:55) [BET] Eh1 FT 2 out of 3 (9 PTS)
+[86-96] (08:55) [BET] Eh1 FT 3 out of 3 (10 PTS)
+[86-99] (08:35) [ALP] Ei5 3Pt Shot Made (3 PTS)
+[86-99] (08:21) [BET] Eh1 3Pt Shot Missed
+[86-99] (08:21) [BET] Ia7 Off Rebound (Off:2 Def:4)
+[86-99] (08:03) [BET] Gc7 Inside Shot Missed
+[86-99] (08:03) [ALP] Hc5 Def Rebound (Off:0 Def:1)
+[86-99] (07:44) [ALP] Ie4 3Pt Shot Missed
+[86-99] (07:44) [BET] Ia7 Def Rebound (Off:2 Def:5)
+[86-99] (07:27) [ALP] Hc5 Shooting Foul: 3Pt (1 PF)
+[87-99] (07:27) [BET] Eh1 FT 1 out of 3 (11 PTS)
+[88-99] (07:27) [BET] Eh1 FT 2 out of 3 (12 PTS)
+[89-99] (07:27) [BET] Eh1 FT 3 out of 3 (13 PTS)
+[89-101] (07:07) [ALP] Ha2 Inside Shot Made (17 PTS) Assist: Ej5 (17 AST)
+[89-101] (06:58) [ALP] Hc5 Shooting Foul: Inside (2 PF)
+[90-101] (06:58) [BET] Ga2 FT 1 out of 2 (3 PTS)
+[90-101] (06:58) [BET] Ga2 FT 2 out of 2 Missed
+[90-101] (06:58) [ALP] Ie4 Def Rebound (Off:0 Def:8)
+[90-104] (06:41) [ALP] Ha2 3Pt Shot Made (20 PTS) Assist: Ej5 (18 AST)
+[90-104] (06:33) [BET] Eh1 Jump Shot Missed
+[90-104] (06:33) [ALP] Ie4 Def Rebound (Off:0 Def:9)
+[90-104] (06:23) [ALP] Ej5 3Pt Shot Missed
+[90-104] (06:23) [BET] Eg3 Def Rebound (Off:0 Def:1)
+[90-104] (06:02) [BET] Eg3 Inside Shot Missed
+[90-104] (06:02) [ALP] Ej5 Def Rebound (Off:2 Def:1)
+[90-104] (05:52) [BET] Ga2 Shooting Foul: 3Pt (1 PF)
+[90-105] (05:52) [ALP] Ie4 FT 1 out of 3 (19 PTS)
+[90-106] (05:52) [ALP] Ie4 FT 2 out of 3 (20 PTS)
+[90-107] (05:52) [ALP] Ie4 FT 3 out of 3 (21 PTS)
+[93-107] (05:42) [BET] Eh1 3Pt Shot Made (16 PTS) Assist: Eg3 (3 AST)
+[93-109] (05:36) [ALP] Ha2 Inside Shot Made (22 PTS) Assist: Ej5 (19 AST)
+[93-109] (05:20) [ALP] Ha2 Shooting Foul: Inside (1 PF)
+[94-109] (05:20) [BET] Gc7 FT 1 out of 2 (11 PTS)
+[95-109] (05:20) [BET] Gc7 FT 2 out of 2 (12 PTS)
+[95-111] (05:04) [ALP] Hc5 Inside Shot Made (6 PTS) Assist: Ei5 (4 AST)
+[95-111] (05:04) [BET] Timeout
+[95-111] (05:04) [ALP] Sub(s) in: Ic4 Ea5 | Sub(s) out: Ej5 Ie4 
+[95-111] (05:04) [BET] Sub(s) in: Ha5 | Sub(s) out: Gc7 
+[97-111] (04:45) [BET] Eg3 Inside Shot Made (23 PTS)
+[97-113] (04:30) [ALP] Ea5 Inside Shot Made (12 PTS) Assist: Ei5 (5 AST)
+[99-113] (04:19) [BET] Eg3 Inside Shot Made (25 PTS)
+[99-115] (04:05) [ALP] Hc5 Jump Shot Made (8 PTS)
+[99-115] (03:57) [ALP] Ic4 Shooting Foul: Inside (2 PF)
+[100-115] (03:57) [BET] Ha5 FT 1 out of 2 (6 PTS)
+[100-115] (03:57) [BET] Ha5 FT 2 out of 2 Missed
+[100-115] (03:57) [ALP] Ea5 Def Rebound (Off:1 Def:7)
+[100-117] (03:39) [ALP] Hc5 Inside Shot Made (10 PTS)
+[100-117] (03:27) [BET] Ia7 Jump Shot Missed
+[100-117] (03:27) [ALP] Ha2 Def Rebound (Off:1 Def:5)
+[100-117] (03:08) [ALP] Ic4 Inside Shot Missed
+[100-117] (03:08) [ALP] Hc5 Off Rebound (Off:1 Def:1)
+[100-119] (02:55) [ALP] Ic4 Inside Shot Made (24 PTS) Assist: Ei5 (6 AST)
+[100-119] (02:44) [BET] Eh1 Inside Shot Missed
+[100-119] (02:44) [ALP] Ic4 Def Rebound (Off:5 Def:7)
+[100-119] (02:26) [ALP] Ei5 3Pt Shot Missed
+[100-119] (02:26) [ALP] Ha2 Off Rebound (Off:2 Def:5)
+[100-119] (02:17) [ALP] Ei5 Jump Shot Missed
+[100-119] (02:17) [ALP] Ha2 Off Rebound (Off:3 Def:5)
+[100-121] (01:54) [ALP] Ic4 Inside Shot Made (26 PTS)
+[100-121] (01:54) [BET] Timeout
+[100-121] (01:54) [ALP] Sub(s) in: Dg3 Ej5 Ie4 | Sub(s) out: Ha2 Hc5 Ic4 
+[100-121] (01:54) [BET] Sub(s) in: Gj1 | Sub(s) out: Eh1 
+[100-121] (01:39) [BET] Eg3 3Pt Shot Missed
+[100-121] (01:39) [ALP] Ea5 Def Rebound (Off:1 Def:8)
+[100-124] (01:19) [ALP] Dg3 3Pt Shot Made (19 PTS)
+[102-124] (01:13) [BET] Eg3 Jump Shot Made (27 PTS) Assist: Gj1 (10 AST)
+[102-126] (01:04) [ALP] Ea5 Inside Shot Made (14 PTS) Assist: Ej5 (20 AST)
+[104-126] (00:54) [BET] Ha5 Inside Shot Made (8 PTS) Assist: Gj1 (11 AST)
+[104-128] (00:33) [ALP] Ea5 Inside Shot Made (16 PTS)
+[104-128] (00:22) [BET] Eg3 3Pt Shot Missed
+[104-128] (00:22) [ALP] Ea5 Def Rebound (Off:1 Def:9)
+[104-131] (00:14) [ALP] Dg3 3Pt Shot Made (22 PTS) Assist: Ej5 (21 AST)
+[104-131] (00:05) [BET] Ga2 Jump Shot Missed
+[104-131] (00:05) [ALP] Ea5 Def Rebound (Off:1 Def:10)
+[104-133] (00:00) [ALP] Ei5 Inside Shot Made (5 PTS) Assist: Ej5 (22 AST)
+***End of the 4th Period***
+***End of the match***

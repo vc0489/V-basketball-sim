@@ -1,0 +1,3 @@
+Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
+   1   RS vBRE  W(105-97)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
+   5   RS @BRE   L(70-94)  0  0   834   2   7   2   7   0   0   0   0   1   1   2   5   0   2  2  2  4   0  1  0   4   4   2  -7  23  30    7    0   1   0   0   0  A

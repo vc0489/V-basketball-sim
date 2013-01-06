@@ -1,0 +1,6 @@
+Year Team Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
+   0  BRE    5   RS vHAR L(100-102)  0  0 1975   9  16   5   8   4   8   4   5   0   0   3   3   2   5  0  2  2   3  2  2  26   6   3  -3  80  83   25    7   0   2   0   2  A
+   0  BRE   11   RS vKEN  L(86-103)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
+   0  BRE   16   RS @HAR  L(84-106)  0  0 1186   1  12   1  10   0   2   4   4   0   0   0   1   1   9  1  1  2   2  2  2   6   2   0 -10  40  50   21    7   1   1   1   1  A
+   0  BRE   17   RS vWIL   W(95-92)  0  0   16   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   2   2   0    0    0   0   0   0   0  A
+   0  BRE   22   RS @KEN L(101-109)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A

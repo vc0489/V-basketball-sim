@@ -1,0 +1,4 @@
+PerDef improved by 2.7 @Y11-D19-RSG2
+InDef improved by 2.0 @Y11-D20-RSG3
+2JPro changed by 0.9 @Y11-D21-RSG4
+InFR regressed by -1 @Y11-D22-RSG5

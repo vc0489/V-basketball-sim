@@ -1,0 +1,6 @@
+PassR changed by 0.0 @Y11-D24-RSG7
+PerFR improved by 1 @Y11-D37-RSG20
+PerDef improved by 1.8 @Y11-D52-RSG35
+Suffered a 9 injury @Y11-D55-RSG38
+PassE improved by 1.8 @Y11-D56-RSG39
+PerDef regressed by -1 @Y11-D66-RSG49

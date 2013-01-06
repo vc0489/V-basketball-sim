@@ -1,0 +1,2 @@
+Draft Pos Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff  OReb  DReb  BDom PassR PassE InDef PerDef  InFR PerFR FTEff GInj Updated
+  4.6 SF2  27    7  LAT  56.0   3.0  41.0  68.0  97.1  89.0  19.0  52.0  10.0  59.0  52.0  87.0   70.0  40.0  63.0  74.0    0 Y11-D21-RSG4

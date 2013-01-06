@@ -1,0 +1,33 @@
+Year:11 Game:64 Type:RS LAT@KEN
+Latymer CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD
+STARTERS
+    Ii1  2400   5  12   5  10   0   2   0   0   0   0   4   8   1   2  1  3  4   7  2  0  10   8   0  -8  67  75   31   19   0   2   0   0
+    Ia7  2314   4   8   4   7   0   1   5   6   0   0   4   7   0   0  5  9 14   0  2  3  13  13   3  -8  65  73   11    0   1   1   3   0
+    Eg3  1931   4  17   3  14   1   3   7  10   0   0   2  10   1   4  3  5  8   4  0  4  16   7   1  -1  56  57   33   12   0   0   2   2
+    Ga4  1800   5  15   5  13   0   2   2   2   0   1   3   8   2   5  2 10 12   0  0  1  12   8   2 -10  46  56   16    0   0   0   1   0
+    Gi6  1650   2   8   2   6   0   2   0   0   0   0   0   3   2   3  1  3  4   0  3  0   4   0   0  -7  42  49    8    0   0   3   0   0
+BENCH
+    Df2   631   1   5   1   4   0   1   5   6   0   0   1   4   0   0  0  0  0   0  2  2   7   2   0  -1  22  23    7    0   1   1   0   2
+    Ja1   600   1   2   1   2   0   0   0   0   0   0   1   2   0   0  0  3  3   0  0  0   2   2   0   2  21  19    2    0   0   0   0   0
+    Ee6   588   1   4   0   1   1   3   0   0   0   0   0   1   0   0  1  2  3   1  1  0   3   0   0  -7  14  21    5    1   0   1   0   0
+    Ka2    86   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   1  0  0   0   0   0   0   2   2    1    1   0   0   0   0
+Ce2     DNP-CD
+Ia6     DNP-CD
+Ji1     DNP-CD
+Ki2     DNP-CD
+Kendal CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD
+STARTERS
+   Ff2  2400   5  10   2   3   3   7   0   0   0   0   0   0   2   3  1  6  7   0  0  0  13   0   3   8  75  67   15    5   0   0   0   0
+   Gj1  2298   4   9   2   4   2   5   4   4   0   0   1   2   1   2  2  5  7   7  2  2  14   2   2   7  72  65   30   19   0   2   0   2
+   Hb1  2041   3  13   1   7   2   6   2   2   0   0   1   3   0   4  2  3  5   0  2  1  10   2   2   7  59  52   15    1   2   0   0   1
+   Eh1  2009   5  17   3   5   2  12   6   8   1   1   2   3   1   2  2  5  7   4  2  3  18   4   3   8  65  57   29    9   1   1   0   3
+   Da1  1607   3  13   3  12   0   1   2   2   0   2   2   9   1   3  4  8 12   1  3  1   8   4   2  -5  46  51   17    3   2   1   0   1
+BENCH
+  Ga11  1543   4  13   4  13   0   0   4   6   1   3   3   8   1   5  7 11 18   1  1  3  12   9   3  14  55  41   19    3   1   0   2   1
+   Ii6   102   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   1   3   2    1    1   0   0   0   0
+Ge2    DNP-CD
+Jc3    DNP-CD
+Jc7    DNP-CD
+Ka8    DNP-CD
+Kg9    DNP-CD
+Ej4    DNP-Injured

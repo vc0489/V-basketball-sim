@@ -1,0 +1,31 @@
+Year:0 Game:1 Type:RS KEN@RAY
+Kendal Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD
+STARTERS
+Eh1    2400   8  20   2   4   6  16   8   9   0   0   1   3   1   1  3  3  6   3  1  3  30   2   5  -5  94  99   37   14   1   0   0   3
+Gj1    2400   5  10   3   4   2   6   2   3   1   1   1   1   2   3  3  6  9   9  1  1  14   2   2  -5  94  99   38   27   0   1   0   1
+Jc3    2400   5  10   5  10   0   0   1   2   1   1   5   9   0   1  2 12 14   0  2  1  11  11   2  -5  94  99   11    0   1   1   1   0
+Ga11   1822   8  17   8  17   0   0   2   6   0   0   4   5   4  12  4  6 10   4  3  3  18  10   1  -3  76  79   27    7   3   0   3   0
+De4    1707   4  14   2   7   2   7   0   0   1   1   2   6   0   1  2  6  8   1  3  0  10   4   2  -8  64  72   15    1   2   1   0   0
+BENCH
+Jc7     513   2   3   2   3   0   0   0   0   0   0   2   2   0   1  0  2  2   1  0  0   4   4   0  -1  15  16    4    1   0   0   0   0
+Ff2     386   1   5   0   2   1   3   2   3   0   0   0   0   0   2  0  0  0   1  0  1   5   0   0  -1  19  20    7    1   0   0   0   1
+Ej4     372   0   1   0   0   0   1   2   3   0   0   0   0   0   0  0  0  0   1  0  1   2   0   0   3  14  11    6    4   0   0   0   1
+Ge2    DNP-CD
+Hb1    DNP-CD
+Ii6    DNP-CD
+Da1    DNP-Suspended
+Rays Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD
+STARTERS
+Dj3  2400   6  13   0   4   6   9   2   2   0   0   0   0   0   4  0  4  4  13  1  1  20   0   0   5  99  94   43   29   0   1   0   1
+Fd1  2400   5  14   4   9   1   5   4   5   0   0   3   5   1   4  2  7  9   1  1  2  15   8   0   5  99  94   18    2   0   1   1   1
+Gc7  2314   9  12   8  11   1   1   7   8   1   1   5   7   3   4  2 10 12   0  2  4  26  15  10   7  99  92   18    2   2   0   3   1
+Cg1  1788   5  15   1   5   4  10   0   0   0   0   1   3   0   2  1  6  7   4  3  0  14   2   0   0  74  74   26   11   0   3   0   0
+Fa3  1752   6  12   6  12   0   0   3   6   1   2   5   7   1   5  4  5  9   0  2  3  15  13   4   2  70  68   15    0   1   1   3   0
+BENCH
+Ig2   612   3   9   3   6   0   3   0   0   0   0   2   4   1   2  1  0  1   0  0  0   6   4   0   5  25  20   11    2   0   0   0   0
+Ce3   600   1   5   0   3   1   2   0   0   0   0   0   2   0   1  2  4  6   0  1  0   3   0   0   2  25  23    6    1   1   0   0   0
+Ea6   134   0   1   0   1   0   0   0   0   0   0   0   0   0   1  2  1  3   0  0  0   0   0   0  -1   4   5    1    0   0   0   0   0
+Hf2  DNP-CD
+Jj3  DNP-CD
+Ja6  DNP-Suspended
+Ge7  DNP-Injured

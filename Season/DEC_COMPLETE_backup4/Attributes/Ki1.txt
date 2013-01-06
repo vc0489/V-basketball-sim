@@ -1,0 +1,2 @@
+Draft Pos Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff  OReb  DReb  BDom PassR PassE InDef PerDef  InFR PerFR FTEff GInj 
+ 11.U PG1  21    0   FA  26.3  40.0  33.7  58.2  80.3  64.8   5.7  21.8  76.6  71.2  49.3  32.9   69.7  27.0  52.6  77.1    0 

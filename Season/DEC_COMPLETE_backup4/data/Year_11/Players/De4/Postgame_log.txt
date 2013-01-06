@@ -1,0 +1,10 @@
+FTEff improved by 1 @Y11-D19-RSG2
+2JPro changed by -2.2 @Y11-D24-RSG7
+DReb regressed by -3.8 @Y11-D27-RSG10
+InEff improved by 1.9 @Y11-D28-RSG11
+InFR regressed by -3.2 @Y11-D47-RSG30
+PassE improved by 2.3 @Y11-D48-RSG31
+2JEff regressed by -3.6 @Y11-D53-RSG36
+PassR changed by 0.9 @Y11-D55-RSG38
+3PPro changed by 1.0 @Y11-D58-RSG41
+Suffered a 35 injury @Y11-D65-RSG48

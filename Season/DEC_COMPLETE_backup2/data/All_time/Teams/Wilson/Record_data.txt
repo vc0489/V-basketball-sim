@@ -1,0 +1,120 @@
+All|Streak|1
+All|H L10|1
+All|H Wins|1
+All|H Streak|1
+All|Wins|1
+All|A Losses|0
+All|Losses|0
+All|L10|1
+All|H Losses|0
+All|A L10|
+All|A Wins|0
+All|A Streak|0
+Conf|Streak|1
+Conf|H L10|1
+Conf|H Wins|1
+Conf|H Streak|1
+Conf|Wins|1
+Conf|A Losses|0
+Conf|Losses|0
+Conf|L10|1
+Conf|H Losses|0
+Conf|A L10|
+Conf|A Wins|0
+Conf|A Streak|0
+Inter-Conf|Streak|0
+Inter-Conf|H L10|
+Inter-Conf|H Wins|0
+Inter-Conf|H Streak|0
+Inter-Conf|Wins|0
+Inter-Conf|A Losses|0
+Inter-Conf|Losses|0
+Inter-Conf|L10|
+Inter-Conf|H Losses|0
+Inter-Conf|A L10|
+Inter-Conf|A Wins|0
+Inter-Conf|A Streak|0
+H2H|KEN|Streak|0
+H2H|KEN|H L10|
+H2H|KEN|H Wins|0
+H2H|KEN|H Streak|0
+H2H|KEN|Wins|0
+H2H|KEN|A Losses|0
+H2H|KEN|Losses|0
+H2H|KEN|L10|
+H2H|KEN|H Losses|0
+H2H|KEN|A L10|
+H2H|KEN|A Wins|0
+H2H|KEN|A Streak|0
+H2H|CRO|Streak|0
+H2H|CRO|H L10|
+H2H|CRO|H Wins|0
+H2H|CRO|H Streak|0
+H2H|CRO|Wins|0
+H2H|CRO|A Losses|0
+H2H|CRO|Losses|0
+H2H|CRO|L10|
+H2H|CRO|H Losses|0
+H2H|CRO|A L10|
+H2H|CRO|A Wins|0
+H2H|CRO|A Streak|0
+H2H|QUE|Streak|0
+H2H|QUE|H L10|
+H2H|QUE|H Wins|0
+H2H|QUE|H Streak|0
+H2H|QUE|Wins|0
+H2H|QUE|A Losses|0
+H2H|QUE|Losses|0
+H2H|QUE|L10|
+H2H|QUE|H Losses|0
+H2H|QUE|A L10|
+H2H|QUE|A Wins|0
+H2H|QUE|A Streak|0
+H2H|LAT|Streak|0
+H2H|LAT|H L10|
+H2H|LAT|H Wins|0
+H2H|LAT|H Streak|0
+H2H|LAT|Wins|0
+H2H|LAT|A Losses|0
+H2H|LAT|Losses|0
+H2H|LAT|L10|
+H2H|LAT|H Losses|0
+H2H|LAT|A L10|
+H2H|LAT|A Wins|0
+H2H|LAT|A Streak|0
+H2H|BRE|Streak|1
+H2H|BRE|H L10|1
+H2H|BRE|H Wins|1
+H2H|BRE|H Streak|1
+H2H|BRE|Wins|1
+H2H|BRE|A Losses|0
+H2H|BRE|Losses|0
+H2H|BRE|L10|1
+H2H|BRE|H Losses|0
+H2H|BRE|A L10|
+H2H|BRE|A Wins|0
+H2H|BRE|A Streak|0
+H2H|HAR|Streak|0
+H2H|HAR|H L10|
+H2H|HAR|H Wins|0
+H2H|HAR|H Streak|0
+H2H|HAR|Wins|0
+H2H|HAR|A Losses|0
+H2H|HAR|Losses|0
+H2H|HAR|L10|
+H2H|HAR|H Losses|0
+H2H|HAR|A L10|
+H2H|HAR|A Wins|0
+H2H|HAR|A Streak|0
+H2H|RAY|Streak|0
+H2H|RAY|H L10|
+H2H|RAY|H Wins|0
+H2H|RAY|H Streak|0
+H2H|RAY|Wins|0
+H2H|RAY|A Losses|0
+H2H|RAY|Losses|0
+H2H|RAY|L10|
+H2H|RAY|H Losses|0
+H2H|RAY|A L10|
+H2H|RAY|A Wins|0
+H2H|RAY|A Streak|0

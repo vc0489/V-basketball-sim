@@ -1,0 +1,317 @@
+Year:11 Game:65 Type:RS KEN@CRO
+***Start of the match***
+***Start of the 1st Period***
+[0-0] (09:42) [CRO] Ji7 Jump Shot Missed
+[0-0] (09:42) [KEN] Ga11 Def Rebound (Off:0 Def:1)
+[0-2] (09:23) [KEN] Hb1 Inside Shot Made (2 PTS) Assist: Ga11 (1 AST)
+[2-2] (09:06) [CRO] If1 Jump Shot Made (2 PTS)
+[2-2] (08:50) [KEN] Eh1 3Pt Shot Missed
+[2-2] (08:50) [CRO] Ji7 Def Rebound (Off:0 Def:1)
+[2-2] (08:35) [CRO] Ji7 Inside Shot Missed
+[2-2] (08:35) [KEN] Eh1 Def Rebound (Off:0 Def:1)
+[2-2] (08:16) [CRO] Ia3 Shooting Foul: Inside (1 PF)
+[2-2] (08:16) [KEN] Ga11 FT 1 out of 2 Missed
+[2-2] (08:16) [KEN] Ga11 FT 2 out of 2 Missed
+[2-2] (08:16) [CRO] Ji7 Def Rebound (Off:0 Def:2)
+[2-2] (07:54) [CRO] Ia3 Inside Shot Missed
+[2-2] (07:54) [KEN] Ga11 Def Rebound (Off:0 Def:2)
+[2-2] (07:42) [CRO] If1 Shooting Foul: 3Pt (1 PF)
+[2-3] (07:42) [KEN] Gj1 FT 1 out of 3 (1 PTS)
+[2-4] (07:42) [KEN] Gj1 FT 2 out of 3 (2 PTS)
+[2-5] (07:42) [KEN] Gj1 FT 3 out of 3 (3 PTS)
+[2-5] (07:33) [CRO] If1 Jump Shot Missed
+[2-5] (07:33) [KEN] Eh1 Def Rebound (Off:0 Def:2)
+[2-7] (07:16) [KEN] Ff2 Jump Shot Made (2 PTS) Assist: Gj1 (1 AST)
+[5-7] (06:58) [CRO] Ji7 3Pt Shot Made (3 PTS) Assist: Fj3 (1 AST)
+[5-7] (06:42) [KEN] Ga11 Inside Shot Missed
+[5-7] (06:42) [CRO] Ia3 Def Rebound (Off:0 Def:1)
+[5-7] (06:31) [CRO] If1 Jump Shot Missed
+[5-7] (06:31) [KEN] Gj1 Def Rebound (Off:0 Def:1)
+[5-7] (06:22) [CRO] Kc11 Shooting Foul: 2Pt (1 PF)
+[5-8] (06:22) [KEN] Ff2 FT 1 out of 2 (3 PTS)
+[5-9] (06:22) [KEN] Ff2 FT 2 out of 2 (4 PTS)
+[8-9] (06:14) [CRO] Ji7 3Pt Shot Made (6 PTS) Assist: Fj3 (2 AST)
+[8-9] (05:51) [KEN] Ga11 Jump Shot Missed
+[8-9] (05:51) [CRO] Kc11 Def Rebound (Off:0 Def:1)
+[8-9] (05:41) [KEN] Eh1 Shooting Foul: Inside (1 PF)
+[9-9] (05:41) [CRO] Kc11 FT 1 out of 2 (1 PTS)
+[10-9] (05:41) [CRO] Kc11 FT 2 out of 2 (2 PTS)
+[10-9] (05:22) [CRO] If1 Shooting Foul: 3Pt (2 PF)
+[10-10] (05:22) [KEN] Eh1 FT 1 out of 3 (1 PTS)
+[10-11] (05:22) [KEN] Eh1 FT 2 out of 3 (2 PTS)
+[10-12] (05:22) [KEN] Eh1 FT 3 out of 3 (3 PTS)
+[10-12] (05:22) [CRO] Timeout
+[10-12] (05:22) [KEN] Sub(s) in: Da1 | Sub(s) out: Ga11 
+[10-12] (05:22) [CRO] Sub(s) in: He10 | Sub(s) out: If1 
+[10-12] (05:03) [CRO] Fj3 Jump Shot Missed
+[10-12] (05:03) [CRO] Ji7 Off Rebound (Off:1 Def:2)
+[12-12] (04:42) [CRO] Ji7 Inside Shot Made (8 PTS)
+[12-15] (04:23) [KEN] Eh1 3Pt Shot Made (6 PTS) Assist: Gj1 (2 AST)
+[12-15] (04:15) [CRO] Fj3 Jump Shot Missed
+[12-15] (04:15) [CRO] Fj3 Off Rebound (Off:1 Def:0)
+[15-15] (04:03) [CRO] He10 3Pt Shot Made (3 PTS)
+[15-18] (03:56) [KEN] Gj1 3Pt Shot Made (6 PTS) Assist: Eh1 (1 AST)
+[15-18] (03:37) [KEN] Da1 Shooting Foul: 2Pt (1 PF)
+[16-18] (03:37) [CRO] He10 FT 1 out of 2 (4 PTS)
+[17-18] (03:37) [CRO] He10 FT 2 out of 2 (5 PTS)
+[17-21] (03:28) [KEN] Ff2 3Pt Shot Made (7 PTS) Assist: Eh1 (2 AST)
+[19-21] (03:07) [CRO] Ji7 Inside Shot Made (10 PTS)
+[19-24] (02:46) [KEN] Eh1 3Pt Shot Made (9 PTS) Assist: Gj1 (3 AST)
+[22-24] (02:24) [CRO] Fj3 3Pt Shot Made (3 PTS)
+[22-24] (02:01) [CRO] Ji7 Shooting Foul: 3Pt (1 PF)
+[22-25] (02:01) [KEN] Gj1 FT 1 out of 3 (7 PTS)
+[22-26] (02:01) [KEN] Gj1 FT 2 out of 3 (8 PTS)
+[22-27] (02:01) [KEN] Gj1 FT 3 out of 3 (9 PTS)
+[24-27] (01:38) [CRO] Ia3 Inside Shot Made (2 PTS) Assist: Fj3 (3 AST)
+[24-29] (01:25) [KEN] Hb1 Inside Shot Made (4 PTS)
+[24-29] (01:09) [CRO] Ji7 Jump Shot Missed
+[24-29] (01:09) [KEN] Da1 Def Rebound (Off:0 Def:1)
+[24-31] (01:00) [KEN] Hb1 Jump Shot Made (6 PTS) Assist: Gj1 (4 AST)
+[24-31] (00:48) [CRO] Fj3 Inside Shot Missed
+[24-31] (00:48) [KEN] Da1 Def Rebound (Off:0 Def:2)
+[24-34] (00:37) [KEN] Eh1 3Pt Shot Made (12 PTS)
+[26-34] (00:27) [CRO] Ia3 Jump Shot Made (4 PTS) Assist: Ji7 (1 AST)
+[26-37] (00:14) [KEN] Gj1 3Pt Shot Made (12 PTS)
+[28-37] (00:07) [CRO] Ia3 Inside Shot Made (6 PTS) Assist: Ji7 (2 AST)
+[28-37] (00:00) [KEN] Gj1 3Pt Shot Missed
+[28-37] (00:00) [CRO] Ia3 Def Rebound (Off:0 Def:2)
+***End of the 1st Period***
+[CRO] Sub(s) in: Eg6 | Sub(s) out: He10 
+***Start of the 2nd Period***
+[28-37] (09:53) [KEN] Hb1 3Pt Shot Missed
+[28-37] (09:53) [CRO] Kc11 Def Rebound (Off:0 Def:2)
+[28-37] (09:39) [CRO] Eg6 3Pt Shot Missed
+[28-37] (09:39) [KEN] Da1 Def Rebound (Off:0 Def:3)
+[28-37] (09:29) [KEN] Eh1 3Pt Shot Missed
+[28-37] (09:29) [CRO] Ia3 Def Rebound (Off:0 Def:3)
+[28-37] (09:06) [CRO] Fj3 Jump Shot Missed
+[28-37] (09:06) [KEN] Ff2 Def Rebound (Off:0 Def:1)
+[28-39] (08:50) [KEN] Da1 Inside Shot Made (2 PTS)
+[28-39] (08:41) [CRO] Fj3 Jump Shot Missed
+[28-39] (08:41) [KEN] Gj1 Def Rebound (Off:0 Def:2)
+[28-39] (08:28) [KEN] Gj1 Jump Shot Missed
+[28-39] (08:28) [CRO] Ia3 Def Rebound (Off:0 Def:4)
+[30-39] (08:12) [CRO] Ji7 Jump Shot Made (12 PTS)
+[30-39] (07:52) [CRO] Ji7 Shooting Foul: 3Pt (2 PF)
+[30-40] (07:52) [KEN] Gj1 FT 1 out of 3 (13 PTS)
+[30-40] (07:52) [KEN] Gj1 FT 2 out of 3 Missed
+[30-40] (07:52) [KEN] Gj1 FT 3 out of 3 Missed
+[30-40] (07:52) [KEN] Hb1 Off Rebound (Off:1 Def:0)
+[30-43] (07:29) [KEN] Eh1 3Pt Shot Made (15 PTS) Assist: Gj1 (5 AST)
+[30-43] (07:29) [CRO] Timeout
+[30-43] (07:29) [CRO] Sub(s) in: Fi3 | Sub(s) out: Ji7 
+[33-43] (07:18) [CRO] Fj3 3Pt Shot Made (6 PTS) Assist: Fi3 (1 AST)
+[33-43] (07:06) [KEN] Ff2 3Pt Shot Missed
+[33-43] (07:06) [CRO] Ia3 Def Rebound (Off:0 Def:5)
+[36-43] (06:50) [CRO] Fj3 3Pt Shot Made (9 PTS) Assist: Ia3 (1 AST)
+[36-46] (06:32) [KEN] Eh1 3Pt Shot Made (18 PTS)
+[38-46] (06:12) [CRO] Fi3 Jump Shot Made (2 PTS)
+[38-46] (06:00) [KEN] Eh1 3Pt Shot Missed
+[38-46] (06:00) [CRO] Eg6 Def Rebound (Off:0 Def:1)
+[38-46] (05:49) [CRO] Ia3 Inside Shot Missed
+[38-46] (05:49) [KEN] Gj1 Def Rebound (Off:0 Def:3)
+[38-46] (05:37) [KEN] Gj1 Jump Shot Missed
+[38-46] (05:37) [CRO] Ia3 Def Rebound (Off:0 Def:6)
+[40-46] (05:24) [CRO] Kc11 Jump Shot Made (4 PTS) Assist: Fi3 (2 AST)
+[40-49] (05:18) [KEN] Eh1 3Pt Shot Made (21 PTS)
+[42-49] (05:01) [CRO] Fi3 Inside Shot Made (4 PTS)
+[42-52] (04:40) [KEN] Gj1 3Pt Shot Made (16 PTS)
+[42-52] (04:24) [CRO] Fi3 Jump Shot Missed
+[42-52] (04:24) [KEN] Gj1 Def Rebound (Off:0 Def:4)
+[42-52] (04:02) [CRO] Fi3 Shooting Foul: 3Pt (1 PF)
+[42-53] (04:02) [KEN] Eh1 FT 1 out of 3 (22 PTS)
+[42-54] (04:02) [KEN] Eh1 FT 2 out of 3 (23 PTS)
+[42-55] (04:02) [KEN] Eh1 FT 3 out of 3 (24 PTS)
+[44-55] (03:50) [CRO] Kc11 Inside Shot Made (6 PTS) Assist: Fi3 (3 AST)
+[44-55] (03:44) [KEN] Eh1 Jump Shot Missed
+[44-55] (03:44) [CRO] Eg6 Def Rebound (Off:0 Def:2)
+[44-55] (03:29) [KEN] Da1 Shooting Foul: Inside (2 PF)
+[44-55] (03:29) [CRO] Ia3 FT 1 out of 2 Missed
+[44-55] (03:29) [CRO] Ia3 FT 2 out of 2 Missed
+[44-55] (03:29) [KEN] Da1 Def Rebound (Off:0 Def:4)
+[44-55] (03:29) [KEN] Timeout
+[44-55] (03:29) [KEN] Sub(s) in: Ga11 | Sub(s) out: Da1 
+[44-55] (03:16) [KEN] Gj1 Inside Shot Missed
+[44-55] (03:16) [KEN] Eh1 Off Rebound (Off:1 Def:2)
+[44-58] (03:01) [KEN] Gj1 3Pt Shot Made (19 PTS)
+[44-58] (02:46) [CRO] Ia3 Jump Shot Missed
+[44-58] (02:46) [KEN] Ga11 Def Rebound (Off:0 Def:3)
+[44-58] (02:32) [KEN] Hb1 3Pt Shot Missed
+[44-58] (02:32) [KEN] Hb1 Off Rebound (Off:2 Def:0)
+[44-60] (02:10) [KEN] Ga11 Inside Shot Made (2 PTS) Assist: Gj1 (6 AST)
+[46-60] (01:52) [CRO] Kc11 Inside Shot Made (8 PTS) Assist: Fi3 (4 AST)
+[46-62] (01:46) [KEN] Eh1 Inside Shot Made (26 PTS) Assist: Gj1 (7 AST)
+[49-62] (01:23) [CRO] Fi3 3Pt Shot Made (7 PTS)
+[49-62] (01:11) [CRO] Eg6 Shooting Foul: 3Pt (1 PF)
+[49-63] (01:11) [KEN] Eh1 FT 1 out of 3 (27 PTS)
+[49-64] (01:11) [KEN] Eh1 FT 2 out of 3 (28 PTS)
+[49-65] (01:11) [KEN] Eh1 FT 3 out of 3 (29 PTS)
+[51-65] (00:49) [CRO] Ia3 Inside Shot Made (8 PTS) Assist: Fj3 (4 AST)
+[51-68] (00:36) [KEN] Gj1 3Pt Shot Made (22 PTS)
+[53-68] (00:30) [CRO] Fi3 Jump Shot Made (9 PTS) Assist: Ia3 (2 AST)
+[53-68] (00:11) [KEN] Gj1 3Pt Shot Missed
+[53-68] (00:11) [CRO] Fi3 Def Rebound (Off:0 Def:1)
+[53-68] (00:00) [CRO] Fj3 Inside Shot Missed
+[53-68] (00:00) [KEN] Hb1 Def Rebound (Off:2 Def:1)
+***End of the 2nd Period***
+[KEN] Sub(s) in: Da1 | Sub(s) out: Ga11 
+[CRO] Sub(s) in: Ji7 If1 | Sub(s) out: Eg6 Fi3 
+***Start of the 3rd Period***
+[53-68] (09:44) [KEN] Ff2 3Pt Shot Missed
+[53-68] (09:44) [KEN] Eh1 Off Rebound (Off:2 Def:2)
+[53-68] (09:35) [CRO] If1 Shooting Foul: 2Pt (3 PF)
+[53-68] (09:35) [KEN] Gj1 FT 1 out of 2 Missed
+[53-69] (09:35) [KEN] Gj1 FT 2 out of 2 (23 PTS)
+[53-69] (09:35) [CRO] Timeout
+[53-69] (09:35) [CRO] Sub(s) in: Eg6 | Sub(s) out: If1 
+[53-69] (09:22) [CRO] Kc11 Inside Shot Missed
+[53-69] (09:22) [KEN] Ff2 Def Rebound (Off:0 Def:2)
+[53-69] (09:13) [KEN] Hb1 3Pt Shot Missed
+[53-69] (09:13) [CRO] Ia3 Def Rebound (Off:0 Def:7)
+[53-69] (09:05) [CRO] Ia3 Jump Shot Missed
+[53-69] (09:05) [KEN] Hb1 Def Rebound (Off:2 Def:2)
+[53-69] (08:47) [CRO] Ia3 Shooting Foul: 3Pt (2 PF)
+[53-70] (08:47) [KEN] Ff2 FT 1 out of 3 (8 PTS)
+[53-71] (08:47) [KEN] Ff2 FT 2 out of 3 (9 PTS)
+[53-72] (08:47) [KEN] Ff2 FT 3 out of 3 (10 PTS)
+[55-72] (08:35) [CRO] Ia3 Jump Shot Made (10 PTS) Assist: Ji7 (3 AST)
+[55-75] (08:25) [KEN] Eh1 3Pt Shot Made (32 PTS) Assist: Gj1 (8 AST)
+[55-75] (08:07) [CRO] Ia3 Inside Shot Missed
+[55-75] (08:07) [KEN] Da1 Def Rebound (Off:0 Def:5)
+[55-75] (07:44) [KEN] Eh1 3Pt Shot Missed
+[55-75] (07:44) [CRO] Eg6 Def Rebound (Off:0 Def:3)
+[55-75] (07:21) [CRO] Ia3 Jump Shot Missed
+[55-75] (07:21) [KEN] Ff2 Def Rebound (Off:0 Def:3)
+[55-75] (07:03) [KEN] Eh1 3Pt Shot Missed
+[55-75] (07:03) [CRO] Ji7 Def Rebound (Off:1 Def:3)
+[55-75] (06:52) [CRO] Fj3 Inside Shot Missed
+[55-75] (06:52) [CRO] Kc11 Off Rebound (Off:1 Def:2)
+[55-75] (06:30) [CRO] Kc11 Inside Shot Missed
+[55-75] (06:30) [CRO] Ia3 Off Rebound (Off:1 Def:7)
+[55-75] (06:07) [CRO] Ia3 Inside Shot Missed
+[55-75] (06:07) [KEN] Da1 Def Rebound (Off:0 Def:6)
+[55-75] (05:57) [KEN] Gj1 3Pt Shot Missed
+[55-75] (05:57) [KEN] Da1 Off Rebound (Off:1 Def:6)
+[55-77] (05:54) [KEN] Da1 Put Back Shot Made (4 PTS)
+[57-77] (05:43) [CRO] Ia3 Inside Shot Made (12 PTS)
+[57-79] (05:32) [KEN] Da1 Inside Shot Made (6 PTS) Assist: Eh1 (3 AST)
+[57-79] (05:21) [KEN] Ff2 Shooting Foul: Inside (1 PF)
+[58-79] (05:21) [CRO] Ji7 FT 1 out of 2 (13 PTS)
+[59-79] (05:21) [CRO] Ji7 FT 2 out of 2 (14 PTS)
+[59-79] (05:09) [KEN] Ff2 Jump Shot Missed
+[59-79] (05:09) [CRO] Kc11 Def Rebound (Off:1 Def:3)
+[59-79] (04:55) [CRO] Kc11 Inside Shot Missed
+[59-79] (04:55) [KEN] Ff2 Def Rebound (Off:0 Def:4)
+[59-82] (04:41) [KEN] Eh1 3Pt Shot Made (35 PTS)
+[59-82] (04:33) [CRO] Kc11 Inside Shot Missed
+[59-82] (04:33) [KEN] Da1 Def Rebound (Off:1 Def:7)
+[59-84] (04:10) [KEN] Da1 Inside Shot Made (8 PTS) Assist: Gj1 (9 AST)
+[59-84] (04:10) [CRO] Timeout
+[59-84] (04:10) [KEN] Sub(s) in: Ga11 | Sub(s) out: Hb1 
+[59-84] (04:10) [CRO] Sub(s) in: Fi3 | Sub(s) out: Fj3 
+[59-84] (03:52) [CRO] Ji7 Inside Shot Missed
+[59-84] (03:52) [KEN] Da1 Def Rebound (Off:1 Def:8)
+[59-86] (03:40) [KEN] Da1 Inside Shot Made (10 PTS) Assist: Gj1 (10 AST)
+[59-86] (03:32) [CRO] Kc11 Jump Shot Missed
+[59-86] (03:32) [CRO] Kc11 Off Rebound (Off:2 Def:3)
+[59-86] (03:23) [KEN] Eh1 Shooting Foul: 2Pt (2 PF)
+[60-86] (03:23) [CRO] Fi3 FT 1 out of 2 (10 PTS)
+[61-86] (03:23) [CRO] Fi3 FT 2 out of 2 (11 PTS)
+[61-86] (03:07) [KEN] Ga11 Jump Shot Missed
+[61-86] (03:07) [CRO] Fi3 Def Rebound (Off:0 Def:2)
+[63-86] (02:53) [CRO] Ji7 Inside Shot Made (16 PTS)
+[63-88] (02:40) [KEN] Da1 Inside Shot Made (12 PTS) Assist: Eh1 (4 AST)
+[63-88] (02:24) [CRO] Ia3 Inside Shot Missed
+[63-88] (02:24) [KEN] Da1 Def Rebound (Off:1 Def:9)
+[63-88] (02:18) [KEN] Eh1 3Pt Shot Missed
+[63-88] (02:18) [KEN] Da1 Off Rebound (Off:2 Def:9)
+[63-88] (02:17) [KEN] Da1 Put Back Shot Missed
+[63-88] (02:17) [KEN] Gj1 Off Rebound (Off:1 Def:4)
+[63-90] (02:01) [KEN] Ga11 Inside Shot Made (4 PTS)
+[63-90] (01:42) [CRO] Fi3 3Pt Shot Missed
+[63-90] (01:42) [KEN] Eh1 Def Rebound (Off:2 Def:3)
+[63-90] (01:21) [KEN] Ga11 Jump Shot Missed
+[63-90] (01:21) [KEN] Ga11 Off Rebound (Off:1 Def:3)
+[63-90] (01:15) [KEN] Eh1 3Pt Shot Missed
+[63-90] (01:15) [CRO] Kc11 Def Rebound (Off:2 Def:4)
+[65-90] (01:03) [CRO] Kc11 Inside Shot Made (10 PTS)
+[65-90] (00:42) [KEN] Ga11 Jump Shot Missed
+[65-90] (00:42) [CRO] Kc11 Def Rebound (Off:2 Def:5)
+[65-90] (00:24) [CRO] Ia3 Inside Shot Missed
+[65-90] (00:24) [KEN] Ff2 Def Rebound (Off:0 Def:5)
+[65-90] (00:13) [KEN] Gj1 3Pt Shot Missed
+[65-90] (00:13) [CRO] Eg6 Def Rebound (Off:0 Def:4)
+[68-90] (00:00) [CRO] Fi3 3Pt Shot Made (14 PTS) Assist: Ji7 (4 AST)
+***End of the 3rd Period***
+***Start of the 4th Period***
+[68-90] (09:47) [CRO] Kc11 Jump Shot Missed
+[68-90] (09:47) [KEN] Ga11 Def Rebound (Off:1 Def:4)
+[68-92] (09:36) [KEN] Ga11 Jump Shot Made (6 PTS)
+[70-92] (09:30) [CRO] Ia3 Inside Shot Made (14 PTS) Assist: Ji7 (5 AST)
+[70-92] (09:16) [KEN] Ff2 3Pt Shot Missed
+[70-92] (09:16) [CRO] Eg6 Def Rebound (Off:0 Def:5)
+[70-92] (08:56) [CRO] Fi3 Jump Shot Missed
+[70-92] (08:56) [CRO] Eg6 Off Rebound (Off:1 Def:5)
+[72-92] (08:34) [CRO] Ia3 Inside Shot Made (16 PTS) Assist: Ji7 (6 AST)
+[72-94] (08:28) [KEN] Ga11 Inside Shot Made (8 PTS)
+[74-94] (08:11) [CRO] Kc11 Jump Shot Made (12 PTS) Assist: Ji7 (7 AST)
+[74-94] (08:04) [KEN] Eh1 Inside Shot Missed
+[74-94] (08:04) [CRO] Ia3 Def Rebound (Off:1 Def:8)
+[76-94] (07:55) [CRO] Ji7 Inside Shot Made (18 PTS)
+[76-96] (07:35) [KEN] Gj1 Jump Shot Made (25 PTS)
+[76-96] (07:25) [CRO] Fi3 3Pt Shot Missed
+[76-96] (07:25) [KEN] Ga11 Def Rebound (Off:1 Def:5)
+[76-96] (07:08) [KEN] Ff2 Inside Shot Missed
+[76-96] (07:08) [CRO] Ia3 Def Rebound (Off:1 Def:9)
+[76-96] (06:55) [CRO] Ia3 Jump Shot Missed
+[76-96] (06:55) [KEN] Eh1 Def Rebound (Off:2 Def:4)
+[76-96] (06:39) [KEN] Eh1 3Pt Shot Missed
+[76-96] (06:39) [CRO] Kc11 Def Rebound (Off:2 Def:6)
+[76-96] (06:24) [CRO] Eg6 3Pt Shot Missed
+[76-96] (06:24) [KEN] Da1 Def Rebound (Off:2 Def:10)
+[76-96] (06:10) [KEN] Da1 Jump Shot Missed
+[76-96] (06:10) [CRO] Eg6 Def Rebound (Off:1 Def:6)
+[78-96] (06:01) [CRO] Ia3 Inside Shot Made (18 PTS) Assist: Ji7 (8 AST)
+[78-96] (05:43) [KEN] Eh1 3Pt Shot Missed
+[78-96] (05:43) [CRO] Ia3 Def Rebound (Off:1 Def:10)
+[81-96] (05:27) [CRO] Eg6 3Pt Shot Made (3 PTS) Assist: Ji7 (9 AST)
+[81-96] (05:15) [KEN] Gj1 3Pt Shot Missed
+[81-96] (05:15) [KEN] Ga11 Off Rebound (Off:2 Def:5)
+[81-98] (05:13) [KEN] Ga11 Put Back Shot Made (10 PTS)
+[83-98] (04:57) [CRO] Kc11 Jump Shot Made (14 PTS) Assist: Ji7 (10 AST)
+[83-101] (04:49) [KEN] Gj1 3Pt Shot Made (28 PTS)
+[85-101] (04:26) [CRO] Kc11 Jump Shot Made (16 PTS) Assist: Ji7 (11 AST)
+[85-101] (04:11) [KEN] Ff2 3Pt Shot Missed
+[85-101] (04:11) [CRO] Kc11 Def Rebound (Off:2 Def:7)
+[85-101] (03:52) [CRO] Ji7 Jump Shot Missed
+[85-101] (03:52) [KEN] Ga11 Def Rebound (Off:2 Def:6)
+[85-101] (03:45) [KEN] Ga11 Inside Shot Missed
+[85-101] (03:45) [KEN] Ga11 Off Rebound (Off:3 Def:6)
+[85-101] (03:24) [KEN] Eh1 3Pt Shot Missed
+[85-101] (03:24) [CRO] Ia3 Def Rebound (Off:1 Def:11)
+[87-101] (03:17) [CRO] Kc11 Inside Shot Made (18 PTS) Assist: Ia3 (3 AST)
+[87-101] (03:11) [KEN] Eh1 Jump Shot Missed
+[87-101] (03:11) [CRO] Ia3 Def Rebound (Off:1 Def:12)
+[90-101] (02:51) [CRO] Fi3 3Pt Shot Made (17 PTS)
+[90-101] (02:51) [KEN] Timeout
+[90-101] (02:51) [KEN] Sub(s) in: Hb1 | Sub(s) out: Ff2 
+[90-103] (02:35) [KEN] Ga11 Jump Shot Made (12 PTS)
+[90-103] (02:22) [CRO] Kc11 3Pt Shot Missed
+[90-103] (02:22) [KEN] Da1 Def Rebound (Off:2 Def:11)
+[90-106] (02:06) [KEN] Gj1 3Pt Shot Made (31 PTS)
+[90-106] (01:50) [CRO] Eg6 Jump Shot Missed
+[90-106] (01:50) [KEN] Da1 Def Rebound (Off:2 Def:12)
+[90-108] (01:40) [KEN] Ga11 Inside Shot Made (14 PTS) Assist: Gj1 (11 AST)
+[90-108] (01:30) [CRO] Kc11 Jump Shot Missed
+[90-108] (01:30) [CRO] Eg6 Off Rebound (Off:2 Def:6)
+[92-108] (01:23) [CRO] Ia3 Inside Shot Made (20 PTS) Assist: Fi3 (5 AST)
+[92-108] (01:00) [KEN] Eh1 Inside Shot Missed
+[92-108] (01:00) [KEN] Eh1 Off Rebound (Off:3 Def:4)
+[92-110] (00:53) [KEN] Ga11 Jump Shot Made (16 PTS)
+[94-110] (00:31) [CRO] Kc11 Inside Shot Made (20 PTS)
+[94-110] (00:21) [KEN] Ga11 Jump Shot Missed
+[94-110] (00:21) [KEN] Gj1 Off Rebound (Off:2 Def:4)
+[94-112] (00:06) [KEN] Da1 Inside Shot Made (14 PTS) Assist: Ga11 (2 AST)
+[96-112] (00:00) [CRO] Ji7 Inside Shot Made (20 PTS) Assist: Fi3 (6 AST)
+***End of the 4th Period***
+***End of the match***

@@ -1,0 +1,2 @@
+Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
+   2   RS vHAR  L(95-110)  0  1 2290  16  23  16  20   0   3   0   0   2   2  14  17   2   3  4  5  9   1  2  0  32  28   4 -17  91 108   25    2   2   0   0   0  A

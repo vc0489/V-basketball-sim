@@ -1,0 +1,17 @@
+OReb regressed by -1 @Y11-D19-RSG2
+InDef improved by 1 @Y11-D23-RSG6
+2JPro changed by 0.7 @Y11-D24-RSG7
+InDef regressed by -2.5 @Y11-D25-RSG8
+3PPro changed by -1.4 @Y11-D26-RSG9
+DReb regressed by -1.3 @Y11-D32-RSG15
+2JPro changed by -1.8 @Y11-D32-RSG15
+3PPro changed by 0.0 @Y11-D32-RSG15
+PassE improved by 3.7 @Y11-D34-RSG17
+DReb improved by 1 @Y11-D40-RSG23
+BDom changed by 0.0 @Y11-D40-RSG23
+Suffered a 11 injury @Y11-D40-RSG23
+3PPro changed by -0.8 @Y11-D45-RSG28
+InDef regressed by -1.4 @Y11-D48-RSG31
+InPro changed by -1.3 @Y11-D53-RSG36
+InPro changed by -1.1 @Y11-D58-RSG41
+InDef improved by 1.2 @Y11-D64-RSG47

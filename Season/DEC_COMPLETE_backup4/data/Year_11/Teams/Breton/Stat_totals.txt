@@ -1,0 +1,65 @@
+Games|15
+Own|Inside FGA|635
+Own|Put Backs M|20
+Own|Touches|2075
+Own|Possessions|1307
+Own|Passes|768
+Own|Inside FGM|346
+Own|Put Backs A|42
+Own|Inside Fouls Drawn|87
+Own|Fouls Drawn|162
+Own|Inside Pts|811
+Own|Bench Pts|319
+Own|Def Reb|452
+Own|2nd Chance Pts|210
+Own|FGM|536
+Own|Assists|332
+Own|3PFGA|315
+Own|Tot Reb|635
+Own|3PFGM|106
+Own|Per Fouls Drawn|75
+Own|FGA|1145
+Own|2PJFGA|195
+Own|Fouls|141
+Own|2PJFGM|84
+Own|FTA|355
+Own|Points|1415
+Own|Perimeter Pts|604
+Own|FTM|237
+Own|Per Fouls|59
+Own|Off Reb|183
+Own|Inside Fouls|82
+Own|2PFGA|830
+Own|2PFGM|430
+Opp|Inside FGA|566
+Opp|Put Backs M|26
+Opp|Touches|1986
+Opp|Possessions|1296
+Opp|Passes|690
+Opp|Inside FGM|297
+Opp|Put Backs A|45
+Opp|Inside Fouls Drawn|82
+Opp|Fouls Drawn|141
+Opp|Inside Pts|724
+Opp|Bench Pts|342
+Opp|Def Reb|477
+Opp|2nd Chance Pts|202
+Opp|FGM|551
+Opp|Assists|310
+Opp|3PFGA|214
+Opp|Tot Reb|655
+Opp|3PFGM|83
+Opp|Per Fouls Drawn|59
+Opp|FGA|1155
+Opp|2PJFGA|375
+Opp|Fouls|162
+Opp|2PJFGM|171
+Opp|FTA|307
+Opp|Points|1431
+Opp|Perimeter Pts|707
+Opp|FTM|246
+Opp|Per Fouls|75
+Opp|Off Reb|178
+Opp|Inside Fouls|87
+Opp|2PFGA|941
+Opp|2PFGM|468

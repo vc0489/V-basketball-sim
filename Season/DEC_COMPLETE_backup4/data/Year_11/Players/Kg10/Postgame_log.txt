@@ -1,0 +1,8 @@
+PerDef improved by 3.4 @Y11-D20-RSG3
+2JEff improved by 1.6 @Y11-D28-RSG11
+3PPro changed by 0.2 @Y11-D40-RSG23
+BDom changed by 0.9 @Y11-D49-RSG32
+2JEff improved by 1.7 @Y11-D56-RSG39
+2JPro changed by 2.5 @Y11-D61-RSG44
+PassE improved by 5.7 @Y11-D61-RSG44
+PerDef improved by 1 @Y11-D64-RSG47

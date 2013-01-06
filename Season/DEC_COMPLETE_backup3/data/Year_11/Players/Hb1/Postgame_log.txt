@@ -1,0 +1,12 @@
+BDom changed by -1.8 @Y11-D19-RSG2
+FTEff improved by 1 @Y11-D22-RSG5
+InDef improved by 1 @Y11-D27-RSG10
+BDom changed by 0.8 @Y11-D27-RSG10
+FTEff regressed by -2.6 @Y11-D29-RSG12
+InPro changed by -0.4 @Y11-D30-RSG13
+DReb improved by 3.4 @Y11-D33-RSG16
+3PEff improved by 1 @Y11-D33-RSG16
+2JPro changed by 1.1 @Y11-D33-RSG16
+PerDef improved by 1.9 @Y11-D41-RSG24
+InPro changed by 0.2 @Y11-D41-RSG24
+OReb improved by 1 @Y11-D43-RSG26

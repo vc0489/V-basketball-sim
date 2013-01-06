@@ -1,0 +1,9 @@
+Year Team Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
+  11  LAT    6   RS vLAT   W(96-65)  0  0   628   2   3   2   3   0   0   4   6   0   0   1   1   1   2  0  2  2   1  0  3   8   3   0   0  20  20   10    4   0   0   1   2  A
+  11  LAT   10   RS @LAT   W(90-86)  0  0    76   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   1  0  0   0   0   0  -1   4   5    1    1   0   0   0   0  A
+  11  RAY   14   RS vRAY   L(78-91)  0  0   727   2   8   2   5   0   3   0   0   0   0   0   1   2   4  0  1  1   2  1  0   4   0   0   1  29  28   13    5   1   0   0   0  A
+  11  KEN   16   RS @KEN  L(85-101)  0  0   600   0   2   0   0   0   2   0   0   0   0   0   0   0   0  0  0  0   3  0  0   0   0   0 -10  16  26    7    5   0   0   0   0  A
+  11  LAT   18   RS @LAT   L(88-91)  0  0  1200   4  11   2   5   2   6   0   0   0   0   0   2   2   3  1  2  3   1  0  0  10   0   0  -4  44  48   14    3   0   0   0   0  A
+  11  RAY   20   RS @RAY L(105-112)  1  1  1098   1  10   1   5   0   5   4   5   1   1   1   2   0   3  2  0  2   2  1  2   6   2   2  -4  41  45   22   10   1   0   0   2  A
+  11  KEN   22   RS vKEN   W(99-92)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
+  11  CRO   25   RS @CRO  W(101-92)  0  0   608   5   8   4   7   1   1   0   0   0   1   0   2   4   5  1  0  1   2  0  0  11   0   5   7  24  17   12    4   0   0   0   0  A

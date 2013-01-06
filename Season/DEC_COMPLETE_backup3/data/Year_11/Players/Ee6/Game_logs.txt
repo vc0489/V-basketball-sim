@@ -1,0 +1,8 @@
+Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
+   2   RS vRAY  W(107-99)  0  0    35   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   2   4   2    0    0   0   0   0   0  A
+   4   RS @RAY  L(95-114)  0  0   111   0   1   0   0   0   1   0   0   0   0   0   0   0   0  1  0  1   0  0  0   0   0   0  -2   4   6    1    0   0   0   0   0  A
+   6   RS @HAR   L(65-96)  0  0   891   0   3   0   1   0   2   2   2   0   0   0   0   0   1  0  2  2   2  1  1   2   2   0 -13  28  41    9    5   1   0   1   0  A
+  10   RS vHAR   L(86-90)  0  0  1309   3   8   3   8   0   0   4   4   0   0   2   4   1   4  1  4  5   2  1  2  10   8   4   4  49  45   12    2   0   1   2   0  A
+  12   RS @RAY  W(107-77)  0  0   186   1   1   1   1   0   0   0   0   0   0   1   1   0   0  0  0  0   0  0  0   2   2   0  10  14   4    1    0   0   0   0   0  A
+  18   RS vHAR   W(91-88)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
+  26   RS vQUE  W(105-96)  0  0   409   5   7   5   6   0   1   0   0   0   0   3   4   2   2  0  0  0   0  1  0  10   6   0  -2  18  20    7    0   1   0   0   0  A

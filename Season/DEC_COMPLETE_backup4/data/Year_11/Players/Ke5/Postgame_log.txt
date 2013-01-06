@@ -1,0 +1,10 @@
+PassE improved by 1.9 @Y11-D28-RSG11
+OReb regressed by -1 @Y11-D30-RSG13
+InDef improved by 1 @Y11-D30-RSG13
+2JEff regressed by -2.0 @Y11-D31-RSG14
+InEff regressed by -1.2 @Y11-D34-RSG17
+PerFR regressed by -1.4 @Y11-D38-RSG21
+InFR regressed by -1 @Y11-D48-RSG31
+PassR changed by -1.9 @Y11-D55-RSG38
+InDef regressed by -2.9 @Y11-D59-RSG42
+2JPro changed by 0.4 @Y11-D60-RSG43

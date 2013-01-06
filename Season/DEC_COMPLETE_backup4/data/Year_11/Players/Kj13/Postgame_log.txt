@@ -1,0 +1,12 @@
+InFR regressed by -1.8 @Y11-D21-RSG4
+InFR improved by 1.9 @Y11-D26-RSG9
+2JPro changed by -1.1 @Y11-D33-RSG16
+InFR regressed by -1 @Y11-D33-RSG16
+PerDef regressed by -2.7 @Y11-D37-RSG20
+InFR improved by 1 @Y11-D39-RSG22
+2JPro changed by 2.3 @Y11-D40-RSG23
+3PEff regressed by -2.4 @Y11-D46-RSG29
+InEff regressed by -1.4 @Y11-D46-RSG29
+3PEff improved by 5.4 @Y11-D48-RSG31
+FTEff improved by 1 @Y11-D51-RSG34
+OReb regressed by -1 @Y11-D54-RSG37

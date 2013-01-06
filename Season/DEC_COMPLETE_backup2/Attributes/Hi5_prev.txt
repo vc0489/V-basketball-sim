@@ -1,0 +1,2 @@
+Draft Pos Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff  OReb  DReb  BDom PassR PassE InDef PerDef  InFR PerFR FTEff GInj Updated
+  8.3 PG1  23    3  HAR  28.3  56.1  15.6  86.0 106.0  94.0  15.0  39.0  82.0  60.0  59.0  18.0   93.0  35.0  47.0  74.0    0 Y11-D18-RSG1

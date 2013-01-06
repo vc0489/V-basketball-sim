@@ -1,0 +1,6 @@
+InFR improved by 1.8 @Y11-D18-RSG1
+BDom changed by -1.8 @Y11-D20-RSG3
+2JPro changed by -2.4 @Y11-D21-RSG4
+DReb improved by 1 @Y11-D35-RSG18
+PerDef improved by 2.1 @Y11-D40-RSG23
+InDef regressed by -1.1 @Y11-D43-RSG26
