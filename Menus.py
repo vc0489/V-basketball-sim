@@ -1,9 +1,4 @@
-from SeasonFunctions import *
 from StatsDisplayFunctions import *
-
-
-
-
   
 def player_P40_stats_menu(game_dir):
   return
