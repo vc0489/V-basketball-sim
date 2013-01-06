@@ -1,7 +1,0 @@
-Year Team Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-  11  BRE    3   RS vBRE   W(93-74)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
-  11  CRO   11   RS vCRO  W(110-95)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
-  11  BRE   13   RS @BRE  L(99-111)  0  0   615   1   1   1   1   0   0   0   0   0   0   1   1   0   0  1  2  3   2  1  0   2   2   0   1  24  23    5    4   1   0   0   0  A
-  11  QUE   15   RS @QUE  W(101-89)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
-  11  BRE   19   RS vBRE L(107-108)  0  0   365   0   3   0   3   0   0   0   0   0   0   0   2   0   1  0  1  1   0  0  0   0   0   0 -12   7  19    5    2   0   0   0   0  A
-  11  KEN   27   RS vKEN  W(113-79)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A

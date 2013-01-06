@@ -1,5 +1,0 @@
-DReb improved by 2.1 @Y11-D19-RSG2
-BDom changed by 1.1 @Y11-D21-RSG4
-InFR regressed by -1 @Y11-D21-RSG4
-InDef regressed by -3.0 @Y11-D21-RSG4
-PassR changed by 0.1 @Y11-D22-RSG5

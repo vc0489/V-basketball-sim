@@ -1,9 +1,0 @@
-Year Team Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-  11  CRO    1   RS @CRO  L(97-105)  0  0   782   3   6   3   5   0   1   5   5   0   0   1   3   2   2  0  0  0   3  1  2  11   4   0   1  34  33   12    4   0   1   1   1  A
-  11  WIL    3   RS @WIL   L(74-93)  0  0   600   2   7   0   3   2   4   0   0   0   0   0   1   0   2  1  0  1   4  0  0   6   0   0  -3  23  26   12    5   0   0   0   0  A
-  11  CRO    5   RS vCRO   W(94-70)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
-  11  QUE    7   RS @QUE  L(96-102)  0  0  1530   6  13   4   8   2   5   2   2   0   0   2   4   2   4  2  2  4   5  1  1  16   6   0  -4  56  60   28   14   1   0   1   0  A
-  11  WIL   13   RS vWIL  W(111-99)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
-  11  CRO   17   RS @CRO W(105-100)  0  0    45   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0  -4   2   6    0    0   0   0   0   0  A
-  11  WIL   19   RS @WIL W(108-107)  0  0    30   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0  -7   5  12    0    0   0   0   0   0  A
-  11  QUE   21   RS vQUE  L(97-106)  0  0   375   1   4   1   1   0   3   0   0   0   0   0   0   1   1  2  0  2   1  0  0   2   0   2  -2   9  11    6    2   0   0   0   0  A

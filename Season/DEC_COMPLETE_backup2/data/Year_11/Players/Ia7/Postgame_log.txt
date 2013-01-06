@@ -1,3 +1,0 @@
-InDef improved by 2.0 @Y11-D18-RSG1
-Suffered a 2 injury @Y11-D19-RSG2
-FTEff regressed by -1 @Y11-D22-RSG5

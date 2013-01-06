@@ -1,9 +1,0 @@
-InDef regressed by -1.0 @Y11-D22-RSG5
-InFR improved by 2.4 @Y11-D24-RSG7
-InEff improved by 2.6 @Y11-D32-RSG15
-PassE regressed by -2.7 @Y11-D45-RSG28
-2JPro changed by 0.8 @Y11-D48-RSG31
-FTEff improved by 1 @Y11-D50-RSG33
-BDom changed by 1.6 @Y11-D52-RSG35
-OReb regressed by -1.4 @Y11-D56-RSG39
-InFR improved by 1 @Y11-D60-RSG43

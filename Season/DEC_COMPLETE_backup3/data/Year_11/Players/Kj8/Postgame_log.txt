@@ -1,5 +1,0 @@
-2JEff regressed by -2.5 @Y11-D24-RSG7
-InFR regressed by -2.3 @Y11-D29-RSG12
-PerDef improved by 1 @Y11-D33-RSG16
-Suffered a 21 injury @Y11-D34-RSG17
-InEff regressed by -2.3 @Y11-D36-RSG19

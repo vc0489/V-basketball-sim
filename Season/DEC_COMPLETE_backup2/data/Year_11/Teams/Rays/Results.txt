@@ -1,3 +1,0 @@
-Game Type Conf-Type Opp. Res.   Score OTs         Record     Opp.Record     All-TimeRecord Conf-TypeRecord      SeasonH2H        All-TimeH2H  SeasonL10 Streak     H2HL10 A-TStreak H2HStreak 
-   2   RS     Intra @LAT    L  99-107   0     0-1(A:0-1)     1-0(H:1-0)         0-1(A:0-1)      0-1(A:0-1)     0-1(A:0-1)         0-1(A:0-1)          L     L1          L        L1        L1 
-   4   RS     Intra vLAT    W  114-95   0     1-1(H:1-0)     1-1(A:0-1)         1-1(H:1-0)      1-1(H:1-0)     1-1(H:1-0)         1-1(H:1-0)         LW     W1         LW        W1        W1 

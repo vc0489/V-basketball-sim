@@ -1,9 +1,0 @@
-DReb regressed by -1 @Y11-D21-RSG4
-PassE regressed by -2.2 @Y11-D23-RSG6
-InFR improved by 3.3 @Y11-D28-RSG11
-PassR changed by 0.5 @Y11-D29-RSG12
-2JPro changed by -0.7 @Y11-D29-RSG12
-InEff regressed by -1 @Y11-D31-RSG14
-PassE improved by 1.9 @Y11-D41-RSG24
-InFR regressed by -1 @Y11-D41-RSG24
-BDom changed by -0.4 @Y11-D43-RSG26

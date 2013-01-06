@@ -1,7 +1,0 @@
-DReb regressed by -2.1 @Y11-D18-RSG1
-3PPro changed by -0.4 @Y11-D22-RSG5
-3PPro changed by 0.9 @Y11-D30-RSG13
-OReb regressed by -1.2 @Y11-D36-RSG19
-BDom changed by -0.7 @Y11-D36-RSG19
-2JEff regressed by -1.0 @Y11-D36-RSG19
-2JEff improved by 3.4 @Y11-D37-RSG20

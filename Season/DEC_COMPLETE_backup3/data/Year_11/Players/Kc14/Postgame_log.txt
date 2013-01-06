@@ -1,3 +1,0 @@
-InDef regressed by -1.0 @Y11-D22-RSG5
-InFR improved by 2.4 @Y11-D24-RSG7
-InEff improved by 2.6 @Y11-D32-RSG15

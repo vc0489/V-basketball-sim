@@ -1,3 +1,0 @@
-Year Team Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-  11  RAY    2   RS vRAY  W(107-99)  0  1  2381   9  18   7  14   2   4  12  17   1   1   4   9   3   5  2  9 11   4  2  7  32  11   5   4 103  99   40   15   0   2   3   4  A
-  11  RAY    4   RS @RAY  L(95-114)  0  1  2289  11  21   7  15   4   6   3   6   0   1   4   9   3   6  1  4  5   1  0  3  29   9   5 -17  91 108   26    2   0   0   1   2  A

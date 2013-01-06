@@ -1,6 +1,0 @@
-PassE regressed by -1 @Y11-D18-RSG1
-InEff improved by 2.4 @Y11-D20-RSG3
-2JEff regressed by -1 @Y11-D21-RSG4
-BDom changed by -0.8 @Y11-D23-RSG6
-BDom changed by -1.8 @Y11-D25-RSG8
-InDef improved by 1.9 @Y11-D35-RSG18

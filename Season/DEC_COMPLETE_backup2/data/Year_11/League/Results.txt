@@ -1,6 +1,0 @@
-Game Type Conf-Type Home Away   Score OT       HomeRecord      H-L10 H-Streak H-Conf-TypeRecord       AwayRecord      A-L10 A-Conf-TypeRecord A-Streak        SeasonH2H   H2HL10 H2HStreak           AllTimeH2H 
-   1   RS     Intra  CRO  BRE  105-97  0       1-0(H:1-0)          W       W1        1-0(H:1-0)       0-1(A:0-1)          L        0-1(A:0-1)      L-1   CRO:1-0(H:1-0)  CRO:1-0    CRO:W1       CRO:1-0(H:1-0) 
-   2   RS     Intra  LAT  RAY  107-99  0       1-0(H:1-0)          W       W1        1-0(H:1-0)       0-1(A:0-1)          L        0-1(A:0-1)      L-1   LAT:1-0(H:1-0)  LAT:1-0    LAT:W1       LAT:1-0(H:1-0) 
-   3   RS     Intra  WIL  BRE   93-74  0       1-0(H:1-0)          W       W1        1-0(H:1-0)       0-2(A:0-2)         LL        0-2(A:0-2)      L-1   WIL:1-0(H:1-0)  WIL:1-0    WIL:W1       WIL:1-0(H:1-0) 
-   4   RS     Intra  RAY  LAT  114-95  0       1-1(H:1-0)         LW       W1        1-1(H:1-0)       1-1(A:0-1)         WL        1-1(A:0-1)      L-1   RAY:1-1(H:1-0)  RAY:1-1    RAY:W1       RAY:1-1(H:1-0) 
-   5   RS     Intra  BRE  CRO   94-70  0       1-2(H:1-0)        LLW       W1        1-2(H:1-0)       1-1(A:0-1)         WL        1-1(A:0-1)      L-1   BRE:1-1(H:1-0)  BRE:1-1    BRE:W1       BRE:1-1(H:1-0) 

@@ -1,8 +1,0 @@
-DReb improved by 1.7 @Y11-D18-RSG1
-InPro changed by 0.1 @Y11-D21-RSG4
-DReb regressed by -3.0 @Y11-D23-RSG6
-PassE improved by 4.7 @Y11-D24-RSG7
-3PPro changed by -0.4 @Y11-D25-RSG8
-3PPro changed by 0.0 @Y11-D33-RSG16
-2JPro changed by -0.2 @Y11-D42-RSG25
-PerDef improved by 1.1 @Y11-D43-RSG26

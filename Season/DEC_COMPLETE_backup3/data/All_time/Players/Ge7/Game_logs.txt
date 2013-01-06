@@ -1,8 +1,0 @@
-Year Team Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-  11  LAT    2   RS @LAT  L(99-107)  0  1  1608   8  13   6  11   2   2   2   2   1   1   4   6   2   5  1  3  4   0  4  1  20  10   2   1  74  73   14    0   2   2   1   0  S
-  11  LAT    4   RS vLAT  W(114-95)  0  1  2289   6   9   5   6   1   3   0   0   1   1   5   5   0   1  3  8 11   0  3  0  13  10   2  17 108  91    9    0   1   2   0   0  A
-  11  KEN    8   RS @KEN   W(99-79)  0  1  2225   7  15   6  11   1   4   2   2   1   2   3   6   3   5  5 11 16   0  1  1  17   6   2  17  90  73   16    0   0   1   0   1  A
-  11  LAT   12   RS vLAT  L(77-107)  0  1  2191   5  11   3   8   2   3   0   0   0   1   2   3   1   5  1  7  8   0  3  0  12   4   0 -22  71  93   11    0   3   0   0   0  A
-  11  HAR   14   RS @HAR   W(91-78)  0  1  1884   4  17   2  11   2   6   4   4   1   3   1   6   1   5  3  2  5   0  1  2  14   4   5  -3  63  66   21    2   0   1   1   1  A
-  11  HAR   20   RS vHAR W(112-105)  1  1  2700   7  16   4   7   3   9   2   2   1   1   2   3   2   4  2 10 12   1  1  1  19   6   4   7 112 105   18    1   0   1   1   0  A
-  11  KEN   24   RS @KEN L(114-118)  1  1  2700   8  13   7  11   1   2   0   0   2   2   4   7   3   4  3 12 15   0  2  0  17   8   4  -4 114 118   13    0   1   1   0   0  A

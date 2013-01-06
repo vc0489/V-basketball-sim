@@ -1,5 +1,0 @@
-InFR improved by 2.9 @Y11-D24-RSG7
-InPro changed by 1.7 @Y11-D34-RSG17
-PerDef regressed by -2.4 @Y11-D68-RSG51
-3PEff regressed by -1.5 @Y11-D77-RSG60
-DReb improved by 1.5 @Y11-D79-RSG62

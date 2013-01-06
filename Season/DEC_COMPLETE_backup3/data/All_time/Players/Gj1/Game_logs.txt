@@ -1,6 +1,0 @@
-Year Team Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-  11  RAY    8   RS vRAY   L(79-99)  0  1  2191   5  11   2   2   3   9   3   3   0   0   0   0   2   2  0  3  3   7  1  1  16   0   3 -17  73  90   33   21   0   1   0   1  A
-  11  HAR   16   RS vHAR  W(101-85)  0  1  2078   8  12   4   5   4   7   2   2   0   0   0   0   4   5  1  3  4  12  0  1  22   0   0  21  92  71   31   18   0   0   0   1  A
-  11  HAR   22   RS @HAR   L(92-99)  0  1  2161   6  13   4   6   2   7  10  11   0   1   1   2   3   4  2  1  3  10  2  4  24   2   0  -7  82  89   39   22   1   1   0   4  A
-  11  RAY   24   RS vRAY W(118-114)  1  1  2700   6  13   2   4   4   9   2   2   0   0   0   2   2   2  1  8  9  16  1  1  18   0   3   4 118 114   43   29   0   1   0   1  A
-  11  WIL   27   RS @WIL  L(79-113)  0  1  1451   7  11   3   6   4   5   1   2   1   1   2   5   1   1  1  2  3   5  1  1  19   4   2 -31  44  75   24   12   0   1   0   1  A

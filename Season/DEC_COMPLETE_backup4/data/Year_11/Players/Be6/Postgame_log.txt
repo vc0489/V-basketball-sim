@@ -1,9 +1,0 @@
-FTEff improved by 3.5 @Y11-D24-RSG7
-PerFR improved by 1 @Y11-D26-RSG9
-FTEff regressed by -2.5 @Y11-D30-RSG13
-FTEff regressed by -2.8 @Y11-D36-RSG19
-3PEff regressed by -2.2 @Y11-D45-RSG28
-PassE improved by 2.2 @Y11-D51-RSG34
-PassR changed by -0.7 @Y11-D52-RSG35
-2JPro changed by -1.5 @Y11-D60-RSG43
-PassR changed by 2.0 @Y11-D61-RSG44

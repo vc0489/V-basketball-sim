@@ -1,9 +1,0 @@
-2JPro changed by -1.1 @Y11-D18-RSG1
-PassR changed by 1.9 @Y11-D18-RSG1
-PassR changed by -1.1 @Y11-D20-RSG3
-InEff regressed by -1 @Y11-D20-RSG3
-PassR changed by -0.2 @Y11-D22-RSG5
-InFR regressed by -2.7 @Y11-D24-RSG7
-PassR changed by 1.6 @Y11-D26-RSG9
-OReb regressed by -1 @Y11-D34-RSG17
-FTEff regressed by -2.2 @Y11-D38-RSG21

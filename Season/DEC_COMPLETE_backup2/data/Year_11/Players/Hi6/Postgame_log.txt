@@ -1,5 +1,0 @@
-2JEff regressed by -2.3 @Y11-D20-RSG3
-InFR regressed by -1 @Y11-D20-RSG3
-FTEff improved by 1 @Y11-D22-RSG5
-OReb improved by 1 @Y11-D22-RSG5
-InEff regressed by -1.2 @Y11-D22-RSG5

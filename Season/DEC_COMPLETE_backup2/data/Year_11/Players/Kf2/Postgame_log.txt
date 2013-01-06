@@ -1,5 +1,0 @@
-PassR changed by -1.2 @Y11-D18-RSG1
-InFR regressed by -1 @Y11-D19-RSG2
-InPro changed by 0.4 @Y11-D21-RSG4
-PassR changed by -2.4 @Y11-D22-RSG5
-InFR regressed by -1 @Y11-D22-RSG5

@@ -1,8 +1,0 @@
-Year Team Game Type Opp.     Result OT St CTime FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DF TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-  11  LAT    2   RS @LAT  L(99-107)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
-  11  LAT    4   RS vLAT  W(114-95)  0  0   111   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  1  1   0  0  0   0   0   0   2   6   4    0    0   0   0   0   0  A
-  11  KEN    8   RS @KEN   W(99-79)  0  0   175   0   2   0   2   0   0   0   0   0   0   0   1   0   1  0  1  1   0  0  0   0   0   0   3   9   6    2    0   0   0   0   0  A
-  11  LAT   12   RS vLAT  L(77-107)  0  0   230   1   2   1   2   0   0   0   0   0   0   1   2   0   0  1  0  1   0  0  0   2   2   0 -10   6  16    2    0   0   0   0   0  A
-  11  HAR   14   RS @HAR   W(91-78)  0  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
-  11  HAR   20   RS vHAR W(112-105)  1  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A
-  11  KEN   24   RS @KEN L(114-118)  1  0     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  A

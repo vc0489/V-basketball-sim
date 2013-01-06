@@ -1,2 +1,0 @@
-PerFR regressed by -1.9 @Y11-D20-RSG3
-BDom changed by 0.5 @Y11-D22-RSG5

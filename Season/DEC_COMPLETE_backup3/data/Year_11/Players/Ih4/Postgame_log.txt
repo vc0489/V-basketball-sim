@@ -1,9 +1,0 @@
-InDef improved by 1 @Y11-D18-RSG1
-Suffered a 133 injury @Y11-D18-RSG1
-2JPro changed by -1.5 @Y11-D20-RSG3
-PassR changed by 2.9 @Y11-D21-RSG4
-InFR regressed by -1 @Y11-D24-RSG7
-3PEff improved by 1.1 @Y11-D24-RSG7
-BDom changed by 1.8 @Y11-D27-RSG10
-3PPro changed by 2.7 @Y11-D32-RSG15
-FTEff regressed by -1.4 @Y11-D43-RSG26

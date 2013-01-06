@@ -1,4 +1,0 @@
-DReb improved by 1 @Y11-D19-RSG2
-BDom changed by -0.6 @Y11-D19-RSG2
-InFR regressed by -1.5 @Y11-D19-RSG2
-PerDef regressed by -1.7 @Y11-D21-RSG4
