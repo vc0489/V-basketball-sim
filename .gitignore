@@ -1,0 +1,6 @@
+Stats/
+__pycache__/
+*.pyc
+Season/
+Backups/
+Free_play/

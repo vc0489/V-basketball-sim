@@ -1,8 +1,0 @@
-Draft Age YPro Team InPro 2JPro 3PPro InEff 2JEff 3PEff OReb DReb BDom PassR PassE InDef PerDef InFR PerFR FTEff GSus GInj Updated
-  9.7  22    2  LAT    70    26     4   105    75    45   42   82   11    24    31    92     65   64     8    63    0    0   Y0-G6
-  9.7  22    2  LAT    70    26     4   105    75    45   42   82   11    24    31    92     65   64     8    63    0    0   Y0-G8
-  9.7  22    2  LAT    70    26     4   105    75    45   42   82   11    24    31    92     65   64     8    63    0    0   Y0-G9
-  9.7  22    2  LAT    70    26     4   105    75    45   42   82   11    24    31    92     65   64     8    63    0    0  Y0-G12
-  9.7  22    2  LAT    70    26     4   105    75    45   42   82   11    24    31    92     65   64     8    63    0    0  Y0-G19
-  9.7  22    2  LAT    70    26     4   105    75    45   42   82   11    24    31    92     65   64     8    63    0    0  Y0-G23
-  9.7  22    2  LAT    70    26     4   105    75    45   42   82   11    24    31    92     65   64     8    63    0    0  Y0-G24

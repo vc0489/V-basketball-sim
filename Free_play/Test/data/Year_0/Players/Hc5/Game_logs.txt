@@ -1,5 +1,0 @@
-Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-   1   RS @QUE   L(89-97)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  I
-   2   RS vQUE   L(84-85)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  I
-  17   RS @BRE   L(92-95)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  I
-  18   RS vQUE   L(85-94)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  I

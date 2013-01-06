@@ -1,6 +1,0 @@
-Game Type Opp. Result   Score OTs         Record     Opp.Record     All-TimeRecord      SeasonH2H        All-TimeH2H  SeasonL10 Streak     H2HL10 A-TStreak H2HStreak
-   5   RS vHAR      L 100-102   0     0-1(H:0-1)     1-1(A:1-1)         0-1(H:0-1)     0-1(H:0-1)         0-1(H:0-1)          L     L1          L        L1        L1
-  11   RS vKEN      L  86-103   0     0-2(H:0-2)     3-1(A:1-0)         0-2(H:0-2)     0-1(H:0-1)         0-1(H:0-1)         LL     L2          L        L2        L1
-  16   RS @HAR      L  84-106   0     0-3(A:0-1)     4-2(H:2-1)         0-3(A:0-1)     0-2(A:0-1)         0-2(A:0-2)        LLL     L3         LL        L3        L2
-  17   RS vWIL      W   95-92   0     1-3(H:1-2)     0-3(A:0-2)         1-3(H:3-2)     1-0(H:1-0)         1-0(H:1-0)       WLLL     W1          W        W1        W1
-  22   RS @KEN      L 101-109   0     1-4(A:0-2)     7-1(H:5-1)        1-4(A:-2-2)     0-2(A:0-1)         0-2(A:0-2)      LWLLL     L1         LL        L1        L2

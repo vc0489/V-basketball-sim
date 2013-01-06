@@ -1,2 +1,0 @@
-Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-   3   RS vQUE  W(108-79)  0  0    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  0  0  0   0  0  0   0   0   0   0   0   0    0    0   0   0   0   0  S

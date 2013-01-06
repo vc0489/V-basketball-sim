@@ -1,2 +1,0 @@
-Year Team Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-   0  RAY    1   RS vKEN   W(99-94)  0  0  612   3   9   3   6   0   3   0   0   0   0   2   4   1   2  1  0  1   0  0  0   6   4   0   5  25  20   11    2   0   0   0   0  A

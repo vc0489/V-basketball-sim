@@ -1,8 +1,0 @@
-91	Queens	Hartford
-92	Hartford	Queens
-93	Queens	Hartford
-94	Latymer	Queens
-95	Latymer	Queens
-96	Queens	Latymer
-97	Queens	Latymer
-98	Latymer	Queens

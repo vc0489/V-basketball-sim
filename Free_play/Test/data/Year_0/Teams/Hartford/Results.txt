@@ -1,5 +1,0 @@
-Game Type Opp. Result   Score OTs         Record     Opp.Record     All-TimeRecord      SeasonH2H        All-TimeH2H  SeasonL10 Streak     H2HL10 A-TStreak H2HStreak
-   4   RS @QUE      L 113-122   1     0-1(A:0-1)     3-0(H:2-0)         0-1(A:0-1)     0-1(A:0-1)         0-1(A:0-1)          L     L1          L        L1        L1
-   5   RS @BRE      W 102-100   0     1-1(A:1-1)     0-1(H:0-1)         1-1(A:1-1)     1-0(A:1-0)         1-0(A:1-0)         WL     W1          W        W1        W1
-   6   RS vLAT      L  95-101   0     1-2(H:0-1)     1-0(A:1-0)         1-2(H:0-1)     0-1(H:0-1)         0-1(H:0-1)        LWL     L1          L        L1        L1
-  24   RS @LAT      W   95-94   0     2-2(A:2-1)     1-1(H:0-1)         2-2(A:2-1)     1-1(A:1-0)         1-1(A:1-1)       WLWL     W1         WL        W1        W1

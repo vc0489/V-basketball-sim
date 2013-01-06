@@ -1,7 +1,0 @@
-Game Home Away Score   OT       HomeRecord      H-L10 H-Streak       AwayRecord      A-L10 A-Streak        SeasonH2H   H2HL10 H2HStreak           AllTimeH2H
-   0  BRE  CRO  108-80  0       1-0(H:1-0)          W       W1       0-1(A:0-1)          L       L1   BRE:1-0(H:1-0)  BRE:1-0    BRE:W1       BRE:1-0(H:1-0)
-   0  CRO  BRE 126-124  1       1-1(H:1-0)         WL       W1       1-1(A:0-1)         LW       L1   CRO:1-1(H:1-0)  CRO:1-1    CRO:W1       CRO:1-1(H:1-0)
-   0  QUE  BRE 109-100  0       1-0(H:1-0)          W       W1       1-2(A:0-2)        LLW       L2   QUE:1-0(H:1-0)  QUE:1-0    QUE:W1       QUE:1-0(H:1-0)
-   0  RAY  QUE 114-106  0       1-0(H:1-0)          W       W1       1-1(A:0-1)         LW       L1   RAY:1-0(H:1-0)  RAY:1-0    RAY:W1       RAY:1-0(H:1-0)
-   0  HAR  RAY  93-108  0       0-1(H:0-1)          L       L1       2-0(A:1-0)         WW       W2   RAY:1-0(H:0-0)  RAY:1-0    RAY:W1       RAY:1-0(H:0-0)
-   1  CRO  BRE  102-91  0       2-1(H:2-0)        WWL       W2       1-3(A:0-3)       LLLW       L3   CRO:2-1(H:2-0)  CRO:2-1    CRO:W2       CRO:2-1(H:2-0)

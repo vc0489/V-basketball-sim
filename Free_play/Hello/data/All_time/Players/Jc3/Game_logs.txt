@@ -1,2 +1,0 @@
-Year Team Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-   0  KEN    1   RS @RAY   L(94-99)  0  1 2400   5  10   5  10   0   0   1   2   1   1   5   9   0   1  2 12 14   0  2  1  11  11   2  -5  94  99   11    0   1   1   1   0  A

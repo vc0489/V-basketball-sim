@@ -1,4 +1,0 @@
-Game Type Home Away   Score OT       HomeRecord      H-L10 H-Streak       AwayRecord      A-L10 A-Streak        SeasonH2H   H2HL10 H2HStreak           AllTimeH2H
-   1   RS  RAY  KEN   99-94  0       1-0(H:1-0)          W       W1       0-1(A:0-1)          L       L1   RAY:1-0(H:1-0)  RAY:1-0    RAY:W1       RAY:1-0(H:1-0)
-   2   RS  CRO  HAR  95-110  0       0-1(H:0-1)          L       L1       1-0(A:1-0)          W       W1   HAR:1-0(H:0-0)  HAR:1-0    HAR:W1       HAR:1-0(H:0-0)
-   3   RS  WIL  QUE  108-79  0       1-0(H:1-0)          W       W1       0-1(A:0-1)          L       L1   WIL:1-0(H:1-0)  WIL:1-0    WIL:W1       WIL:1-0(H:1-0)

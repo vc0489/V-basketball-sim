@@ -1,8 +1,0 @@
-76	Latymer	Breton
-77	Breton	Latymer
-78	Queens	Latymer
-79	Queens	Latymer
-80	Latymer	Queens
-81	Latymer	Queens
-82	Queens	Latymer
-83	Latymer	Queens

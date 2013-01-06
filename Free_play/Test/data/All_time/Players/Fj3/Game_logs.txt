@@ -1,3 +1,0 @@
-Year Team Game Type Opp.     Result OT St Time FGM FGA 2PM 2PA 3PM 3PA FTM FTA PBM PBA InM InA 2JM 2JA OR DR TR Ast FC FD Pts InP 2CP +/- TPF TPA Tchs Pass IFC PFC IFD PFD CS
-   0  CRO   13   RS @HAR  L(68-106)  0  1 1800   4  13   1   5   3   8   3   5   0   0   0   3   1   2  0  3  3   2  2  2  14   0   0 -42  48  90   23    8   0   2   0   2  A
-   0  CRO   21   RS @KEN   L(71-97)  0  1  600   0   6   0   2   0   4   0   0   0   0   0   0   0   2  1  2  3   1  0  0   0   0   0 -20  11  31    8    2   0   0   0   0  A
